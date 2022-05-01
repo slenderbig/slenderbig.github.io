@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vpn &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/vpn/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Thu, 14 Oct 2021 10:27:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>vpn &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>High Demand for Spear Phishers Fuels High Service Prices</title>
+		<link>/high-demand-for-spear-phishers-fuels-high-service-prices/</link>
+					<comments>/high-demand-for-spear-phishers-fuels-high-service-prices/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2021 10:27:18 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[phishing]]></category>
+		<category><![CDATA[spear phishing]]></category>
+		<category><![CDATA[vpn]]></category>
+		<guid isPermaLink="false">/?p=878</guid>
+
+					<description><![CDATA[<p>Research conducted by a team of security professionals at AtlasVPN concluded that spear phishing attacks are generally the</p>
+<p>The post <a rel="nofollow" href="/high-demand-for-spear-phishers-fuels-high-service-prices/">High Demand for Spear Phishers Fuels High Service Prices</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Research conducted by a team of security professionals at <a href="https://atlasvpn.com/blog/most-damaging-cybercrime-services-cost-less-than-500-on-the-dark-web" target="_blank" rel="noreferrer noopener nofollow">AtlasVPN</a> concluded that spear phishing attacks are generally the most expensive cybercrime services to be found for sale on the darknet, ranging anywhere between $100 and $1,000 per attack. Spearphishers for hire were found to be one of the fastest-growing professions of the dark web, as cybercrime is seemingly more lucrative now than ever before.</p>
+
+
+
+<p>Different from the spam-like quality of common phishing operations, spear phishing attacks target specific individuals, companies or entities by tailoring the details of the attack to suit the victim. These attacks are often intended to steal data, tricking people into giving up their online credentials or other important information. They can also be used to plant malware on the computer of a victim for any number of criminal intents.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="694" height="391" src="/wp-content/uploads/2021/10/1-4.png" alt="" class="wp-image-881" srcset="/wp-content/uploads/2021/10/1-4.png 694w, /wp-content/uploads/2021/10/1-4-300x169.png 300w" sizes="(max-width: 694px) 100vw, 694px" /><figcaption><em>Average prices of different cybercrime services across darknet markets. Source: AtlasVPN, Microsoft.</em></figcaption></figure>
+
+
+
+<p>Followed by spear phishing attacks in average cost were denial of service (DoS) attacks, attack for hire, ransomware kits, followed by login credentials. Regular phishing and ransomware kits tended to be among the most popular products by volume, with a low-end kit going for around $66. AtlasVPN noted a version of just about every service could be found on at least one market for under $500.</p>
+
+
+
+<p>A digital defense report published in February by <a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=101738" target="_blank" rel="noreferrer noopener">Micro</a><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=101738" target="_blank" rel="noreferrer noopener nofollow">s</a><a href="https://www.microsoft.com/en-us/download/confirmation.aspx?id=101738" target="_blank" rel="noreferrer noopener">oft</a> helped to guide the research conducted by Atlas. Among the report’s findings was that there were “literally thousands of different phishing kits for sale on the dark web,” and that prices for cybercrime-related services remained relatively stable throughout the years.</p>
+
+
+
+<p>An analysis performed by <a href="https://go.flashpoint-intel.com/docs/pricing-analysis-of-goods-in-cybercrime-communities" target="_blank" rel="noreferrer noopener nofollow">Flashpoint</a> a year earlier revealed similar findings, though the cost of personal data has dropped considerably in 2021. This is likely due to the large number of recent data breaches which has resulted in the market being flooded with billions of records.</p>
+
+
+
+<p>Other popular cybercrime services identified by AtlasVPN include antivirus countering services, escrow services, and laundering or ‘money mule’ services.</p>
+<p>The post <a rel="nofollow" href="/high-demand-for-spear-phishers-fuels-high-service-prices/">High Demand for Spear Phishers Fuels High Service Prices</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/high-demand-for-spear-phishers-fuels-high-service-prices/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:16:00 by W3 Total Cache
+-->

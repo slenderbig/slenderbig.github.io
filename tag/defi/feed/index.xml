@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>defi &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/defi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Thu, 27 Jan 2022 10:28:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>defi &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cybercriminals Choosing DeFi Over Darknet For Cashouts</title>
+		<link>/cybercriminals-choosing-defi-over-darknet-for-cashouts/</link>
+					<comments>/cybercriminals-choosing-defi-over-darknet-for-cashouts/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Thu, 27 Jan 2022 10:28:50 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[Chainalysis]]></category>
+		<category><![CDATA[darknet market]]></category>
+		<category><![CDATA[defi]]></category>
+		<guid isPermaLink="false">/?p=1288</guid>
+
+					<description><![CDATA[<p>The share of ‘illicit’ crypto funds moving through darknet market continues to decrease, according to blockchain analysts at</p>
+<p>The post <a rel="nofollow" href="/cybercriminals-choosing-defi-over-darknet-for-cashouts/">Cybercriminals Choosing DeFi Over Darknet For Cashouts</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The share of ‘illicit’ crypto funds moving through <a href="/darknet-markets-list/" target="_blank" rel="noreferrer noopener">darknet market</a> continues to decrease, according to blockchain analysts at <em>Chainalysis</em> in a recent <a href="https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-cryptocurrency-money-laundering/" target="_blank" rel="noreferrer noopener nofollow">report</a>. Rising in its place are DeFi protocols which accounted for 14% of funds deemed by the report’s researchers to come from illicit sources in 2021, representing a nearly-2,000% percent increase from the previous year.</p>
+
+
+
+<p>The researchers also found funds emanating from <a href="/darknet-markets-list/" target="_blank" rel="noreferrer noopener">darknet market</a> operations tended to be far less centralized and more distributed among wallets than most other categories of illicit funds. They said this was due to the more independent nature of darknet market vendors and operators, whereas proceeds from Ponzi schemes and ransomware attacks tended to flow back into a single or small number of wallets.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Money laundering activity remains heavily concentrated to a shockingly small group of criminal facilitators. In 2021, 54% of funds sent from illicit addresses – approx. $2.5 billion – went to 583 service deposit addresses. <a href="https://t.co/76xoOK1sRh">https://t.co/76xoOK1sRh</a> <a href="https://t.co/k5pFzrZKxZ">https://t.co/k5pFzrZKxZ</a> <a href="https://t.co/Ji3YIWBIy9">pic.twitter.com/Ji3YIWBIy9</a></p>&mdash; Chainalysis (@chainalysis) <a href="https://twitter.com/chainalysis/status/1486422407766233092?ref_src=twsrc%5Etfw">January 26, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>“While billions of dollars’ worth of cryptocurrency moves from illicit addresses every year, most of it ends up at a surprisingly small group of services,” concluded <em>Chainalysis</em>. “Many of (these services) appear purpose-built for money laundering based on their transaction histories,” they wrote, further suggesting such services were candidates for federal blacklisting.</p>
+
+
+
+<p><em>Chainalysis</em> clarified their definition of ‘illicit’ in the report to include “cryptocurrency-native crime,” specifically mentioning darknet market sales and ransomware attack proceeds as examples. They noted that 2021 was the first year where less than half of such funds were sent to centralized exchanges, which were also displaced by increased favor for DeFi platforms.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="961" height="434" src="/wp-content/uploads/2022/01/1-2.png" alt="" class="wp-image-1291" srcset="/wp-content/uploads/2022/01/1-2.png 961w, /wp-content/uploads/2022/01/1-2-300x135.png 300w, /wp-content/uploads/2022/01/1-2-768x347.png 768w" sizes="(max-width: 961px) 100vw, 961px" /><figcaption><em>Trends in popularity of cashout methods for illicit funds. Source: Chainalysis</em></figcaption></figure>
+
+
+
+<p>The researchers also provided comparisons in money laundering between fiat currency and crypto, noting that while up to 5% of all fiat funds go through money laundering services each year, this figure for crypto funds is only 0.05%, or 100-fold smaller. For as many benefits and conveniences crypto poses for those hoping to avoid the attention of the law, <em>Chainalysis</em> counters the viability of its adoption by the darknet with the following insight:</p>
+
+
+
+<p>“<em>The biggest difference between fiat and cryptocurrency-based money laundering is that, due to the inherent transparency of blockchains, we can more easily trace how criminals move cryptocurrency between wallets and services in their efforts to convert their funds into cash.”</em></p>
+<p>The post <a rel="nofollow" href="/cybercriminals-choosing-defi-over-darknet-for-cashouts/">Cybercriminals Choosing DeFi Over Darknet For Cashouts</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/cybercriminals-choosing-defi-over-darknet-for-cashouts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:11:52 by W3 Total Cache
+-->

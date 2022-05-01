@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chatex &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/chatex/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Wed, 10 Nov 2021 15:41:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>Chatex &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>U.S. Blacklists More Crypto Addresses, Places $10M Reward for REvil Info</title>
+		<link>/u-s-blacklists-more-crypto-addresses-places-10m-reward-for-revil-info/</link>
+					<comments>/u-s-blacklists-more-crypto-addresses-places-10m-reward-for-revil-info/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Wed, 10 Nov 2021 15:41:27 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[Chainalysis]]></category>
+		<category><![CDATA[Chatex]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">/?p=926</guid>
+
+					<description><![CDATA[<p>Another cryptocurrency exchange identified as processing millions in ransomware payments was sanctioned by the U.S. Treasury Department on</p>
+<p>The post <a rel="nofollow" href="/u-s-blacklists-more-crypto-addresses-places-10m-reward-for-revil-info/">U.S. Blacklists More Crypto Addresses, Places $10M Reward for REvil Info</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Another cryptocurrency exchange identified as processing millions in ransomware payments was <a href="https://home.treasury.gov/news/press-releases/jy0471" target="_blank" rel="noreferrer noopener nofollow">sanctioned</a> by the U.S. Treasury Department on Monday, resulting in the blacklisting of 59 cryptocurrency addresses known to be involved in such transactions. The action was taken after blockchain forensics experts at Chainalysis managed to <a href="https://blog.chainalysis.com/reports/ofac-sanction-chatex-revil-sodinokibi-november-2021" target="_blank" rel="noreferrer noopener nofollow">trace ransomware payments</a> through addresses known to be associated with the exchange.</p>
+
+
+
+<p>Further research by Chainalysis demonstrates that Chatex had processed around $77.5 million in Bitcoin (BTC) since its inception in September 2018, with at least $17 million coming from “illicit sources” such as the Hydra darknet marketplace.</p>
+
+
+
+<p>A FinCEN Ransomware Advisory update included an <a href="https://home.treasury.gov/news/press-releases/jy0471" target="_blank" rel="noreferrer noopener nofollow">announcement</a> from the Department of State of a reward up to $10,000,000 “for information leading to the identification or location of any individual(s) who hold a key leadership position in the Sodinokibi/REvil ransomware variant transnational organized crime group.”</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f622.png" alt="😢" class="wp-smiley" style="height: 1em; max-height: 1em;" />It&#39;s been a joyful ride&#8230; <br><br>Thanks to every member of the Chatex Community. We truly appreciate your trust and support.</p>&mdash; Chatex (@Chatex_bot) <a href="https://twitter.com/Chatex_bot/status/1458076229601464325?ref_src=twsrc%5Etfw">November 9, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>“Ransomware groups and criminal organizations have targeted American businesses and public institutions of all sizes and across sectors, seeking to undermine the backbone of our economy,” said Deputy Secretary of the Treasury Wally Adeyemo in a press release. Two cybercriminals, one Russian and one Ukrainian, were also sanctioned for their positions in setting up ransomware attacks on U.S. companies.</p>
+
+
+
+<p>Among yesterday’s sanctioned crypto addresses are exchange addresses for Bitcoin, Ethereum Bitcoin Cash, USDT, XRP, Litecoin, Dash and Monero. Per order of the sanction, businesses and individuals operating under U.S. law are forbidden from transacting with the listed addresses.</p>
+
+
+
+<p>The owner of Chatex, Egor Petukhovsky, is also the owner of Suex, the first crypto exchange to be <a href="https://www.coindesk.com/business/2021/09/24/egor-petukhovsky-ceo-of-us-sanctioned-suex-says-he-will-go-to-court/" target="_blank" rel="noreferrer noopener nofollow">sanctioned</a> by the Treasury department in September. As a result of the sanction, 25 crypto addresses were blacklisted, most consisting of exchange deposit addresses.</p>
+
+
+
+<p>Before their <a href="https://chatex.com/" target="_blank" rel="noreferrer noopener nofollow">website</a> was recently changed, Chatex described itself as “the second largest crypto wallet and p2p exchange in-app platform for Telegram.” They also mentioned that they had recently become a “full-fledged cryptobank,” offering an array of cryptocurrency-related cashout services. The company completed a <a href="https://coinmarketcap.com/currencies/chatex/ico/" target="_blank" rel="noreferrer noopener nofollow">token sale</a> in September in which $40,000 was raised, and was still in the process of raising additional funds at the time of the sanction.</p>
+<p>The post <a rel="nofollow" href="/u-s-blacklists-more-crypto-addresses-places-10m-reward-for-revil-info/">U.S. Blacklists More Crypto Addresses, Places $10M Reward for REvil Info</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/u-s-blacklists-more-crypto-addresses-places-10m-reward-for-revil-info/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:13:53 by W3 Total Cache
+-->

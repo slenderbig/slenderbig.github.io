@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>darkfail &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/darkfail/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Wed, 19 May 2021 07:54:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>darkfail &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Darknet market link provider reveals new details of attack</title>
+		<link>/darknet-market-link-provider-reveals-new-details-of-attack/</link>
+					<comments>/darknet-market-link-provider-reveals-new-details-of-attack/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Wed, 19 May 2021 07:54:54 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[darkfail]]></category>
+		<category><![CDATA[phishing]]></category>
+		<guid isPermaLink="false">/?p=321</guid>
+
+					<description><![CDATA[<p>The anonymous admin of dark.fail provided an update this week as to what happened recently with the website</p>
+<p>The post <a rel="nofollow" href="/darknet-market-link-provider-reveals-new-details-of-attack/">Darknet market link provider reveals new details of attack</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The anonymous admin of <a href="https://dark.fail/">dark.fail</a> provided an update this week as to what happened recently with the website that caused the owner to lose control. A staple reference among the darknet market community, dark.fail usually hosts a collection of verifiable links to darknet markets and has been seen as a trusted host for these types of URLs for years.</p>
+
+
+
+<p>Now it simply contains a message explaining the series of events that ultimately put it under the control of an attacker.</p>
+
+
+
+<p>“We are infuriated that our trusted name was used for harm,” the admin states on the dark.fail front page. “Devastated, motivated. Big changes are on their way.”</p>
+
+
+
+<p>The backstory behind the event is complicated – even described as “unprecedented” by the admin – and requires some explanation:</p>
+
+
+
+<p>Employees of Tucows, the domain provider that is responsible for <em>.fail</em> registrars, fell victim to a social engineering attack around April 28<sup>th</sup>, in which the attacker managed to convince Tucows to transfer ownership of dark.fail to their control. Tucows had received an email containing what appeared to be a court order from an official German government email address.</p>
+
+
+
+<p>Ultimately, neither court order nor email address were legitimate, and the attacker proceeded to replace the usual darknet market links hosted on dark.fail to phishing links, directed to credential-stealing imitations of popular markets.</p>
+
+
+
+<p>While it is impossible to know how much cryptocurrency the attackers made off with from accounts of their phished victims, their potential haul was limited thanks to pressure put on hosting services provider Namecheap by the social media community.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Victims of my domain hijacking: Don&#39;t fret, <a href="https://twitter.com/Namecheap?ref_src=twsrc%5Etfw">@Namecheap</a> did not consider it a phishing attack because it did not use HTML input fields. So they hosted a phishing site on my domain for four days. <a href="https://t.co/55rSbKriHG">https://t.co/55rSbKriHG</a></p>&mdash; dark.fail (@DarkDotFail) <a href="https://twitter.com/DarkDotFail/status/1390059604499779585?ref_src=twsrc%5Etfw">May 5, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>The original message from the dark.fail admin contained the following signed message, and continues to apply to those reading it for the first time:</p>
+
+
+
+<p>“If you visited sites listed on the clearnet domain &#8220;dark.fail&#8221; between April 29th through May 5th, 2021 you were phished and should rotate all credentials immediately! DarkDotFail has regained control of the domain &#8220;dark.fail&#8221;, the Twitter account &#8220;@DarkDotFail&#8221;, the Reddit account &#8220;/u/DarkDotFail&#8221;, and the email address &#8220;hello@dark.fail&#8221;.</p>
+
+
+
+<p>Thank you Njalla for your tireless work in getting our hijacked domain back. The attacker was unable to get past 2FA on our Twitter, Reddit, and Email. They did not access any existing messages nor servers. Emails sent to any address @dark.fail during the attack were received by the attacker.</p>
+
+
+
+<p>Our .onion site was not compromised. Our OPSEC is fully intact.”</p>
+
+
+
+<p>The admin stresses that darknet market links will only be hosted on the .onion version of the site for now, until better clearnet solutions become available.</p>
+
+
+
+<p>The attacker has managed to get control of the domains “darknetlive.com” and “onion.live” as well for a few days.</p>
+<p>The post <a rel="nofollow" href="/darknet-market-link-provider-reveals-new-details-of-attack/">Darknet market link provider reveals new details of attack</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/darknet-market-link-provider-reveals-new-details-of-attack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:15:57 by W3 Total Cache
+-->

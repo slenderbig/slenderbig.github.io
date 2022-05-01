@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kraken &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/kraken/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Sat, 20 Nov 2021 19:31:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>kraken &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Darknet Diaries Host Gives Thoughts on XMR as Kraken Delists</title>
+		<link>/darknet-diaries-host-gives-thoughts-on-xmr-as-kraken-delists/</link>
+					<comments>/darknet-diaries-host-gives-thoughts-on-xmr-as-kraken-delists/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Sat, 20 Nov 2021 19:31:00 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[Darknet Diaries]]></category>
+		<category><![CDATA[exchange]]></category>
+		<category><![CDATA[kraken]]></category>
+		<guid isPermaLink="false">/?p=960</guid>
+
+					<description><![CDATA[<p>An email from crypto exchange Kraken to UK customers was posted on Reddit yesterday, revealing the exchange’s plans</p>
+<p>The post <a rel="nofollow" href="/darknet-diaries-host-gives-thoughts-on-xmr-as-kraken-delists/">Darknet Diaries Host Gives Thoughts on XMR as Kraken Delists</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>An email from crypto exchange Kraken to UK customers was <a href="https://www.reddit.com/r/CryptoCurrency/comments/qwww81/kraken_are_now_delisting_xmr_monero_from_their/" target="_blank" rel="noreferrer noopener">posted</a> on Reddit yesterday, revealing the exchange’s plans to delist Monero (XMR) from coins accessible for trade in the region. Kraken claims they were forced to suspend listing of the privacy coin to remain “in compliance with UK regulations.” This also includes the gradual reduction and closure of all XMR margin positions.</p>
+
+
+
+<p>Kraken is currently the second biggest exchange for Monero, processing about $5 &#8211; $6 million in trades daily. Binance remains the largest exchange for XMR, offering both BTC and USDT pairings, though non-KYC exchange services built into wallets like Exodus and Cake Wallet have been rising in popularity. In Nov. 2020, South Korea <a href="https://www.cpomagazine.com/data-privacy/south-koreas-new-crypto-aml-law-bans-trading-of-privacy-coins-monero-zcash/" target="_blank" rel="noreferrer noopener nofollow">banned</a> the trade of privacy coins like Monero altogether, following Japan’s <a href="https://www.investopedia.com/news/japans-fsa-bans-private-cryptocurrencie" target="_blank" rel="noreferrer noopener nofollow">move</a> to do so in June 2018.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">This has to be a joke, right??? <a href="https://twitter.com/hashtag/monero?src=hash&amp;ref_src=twsrc%5Etfw">#monero</a> <a href="https://twitter.com/hashtag/xmr?src=hash&amp;ref_src=twsrc%5Etfw">#xmr</a> <a href="https://t.co/zWUaUoEtww">pic.twitter.com/zWUaUoEtww</a></p>&mdash; Monero Memes (@MoneroMemes) <a href="https://twitter.com/MoneroMemes/status/1461440528655044615?ref_src=twsrc%5Etfw">November 18, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Despite an outcry of disappointment of Reddit and Twitter, the price of XMR was little affected by the news. After a 9% jump overnight, the coin stood at $251.20 on Saturday morning, which is roughly twice of what it was exactly one year ago. XMR hit an all-time high of $517.62 on May 7<sup>th</sup> this year.</p>
+
+
+
+<p>Released later in the day was a <a href="https://www.monerotalk.live/jack-rhysider-of-darknet-diaries-talks-monero" target="_blank" rel="noreferrer noopener nofollow">podcast</a> by <em>Monero Talk</em> with featured guest Jack Rhysider, host of the ever-popular <em>Darknet Diaries</em> podcast. In the podcast, Rhysider discussed the importance of privacy and fungibility in cryptocurrency use and gave his advice for approaching it in the future.</p>
+
+
+
+<p>“I do think there’s powers that be that don’t like crypto and want it to go away,” he said. “Regulating it, banning it, the whole KYC… Making sure things are regulated properly and stuff like that. I think we gotta play the rules or we’re gonna lose it all,” he added.</p>
+
+
+
+<p>“It’s a balance in a lot of this space of trying to play by the rules of the governments of the world and also trying as hard as we can to keep it anonymous and private. Its tricky. I’m thinking some governments aren’t liking this, because whoever controls the money controls the power as well. It’s a shift of power at the same time, and I think that’s probably what they’re scared of the most, is how they are unable to control it.” – Jack Rhysider, host of <em>Darknet Diaries</em></p>
+
+
+
+<p>Rhysider cited Monero’s relative difficulty of use and volatility as reasons why he thought the coin hadn’t reached wider mainstream adoption. He noted that times when user interfaces are difficult and still confusing reflect that society is still in the early stages when it comes to crypto use, and he sees great potential for it in the future.</p>
+
+
+
+<p>“Being able to work in the crypto space without having to use a centralized exchange is starting to look really good as far as privacy goes,” he said as <em>Monero Talk</em> podcast guest. “I like to be able to work in this space without having to give my address and phone number and zip code and all that just to buy something online.”</p>
+<p>The post <a rel="nofollow" href="/darknet-diaries-host-gives-thoughts-on-xmr-as-kraken-delists/">Darknet Diaries Host Gives Thoughts on XMR as Kraken Delists</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/darknet-diaries-host-gives-thoughts-on-xmr-as-kraken-delists/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:15:33 by W3 Total Cache
+-->

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chainalysis &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/chainalysis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Wed, 06 Apr 2022 08:28:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>Chainalysis &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The End of a Dark Web Legacy: Hydra Goes Down</title>
+		<link>/the-end-of-a-dark-web-legacy-hydra-goes-down/</link>
+					<comments>/the-end-of-a-dark-web-legacy-hydra-goes-down/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Wed, 06 Apr 2022 08:27:09 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[Chainalysis]]></category>
+		<category><![CDATA[darknet arrest]]></category>
+		<category><![CDATA[hydra market]]></category>
+		<guid isPermaLink="false">/?p=1414</guid>
+
+					<description><![CDATA[<p>Hydra, the world’s largest and longest-running darknet market has finally ceased operations, taken offline in a joint effort</p>
+<p>The post <a rel="nofollow" href="/the-end-of-a-dark-web-legacy-hydra-goes-down/">The End of a Dark Web Legacy: Hydra Goes Down</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="/directory/listing/hydra-market/" target="_blank" rel="noreferrer noopener">Hydra</a>, the world’s largest and longest-running darknet market has finally ceased operations, taken offline in a joint effort between German and US law enforcement. On Tuesday, April 5<sup>th</sup>, Federal police in Germany shut down servers hosting the market’s main URL on the dark web that were located within the country, seizing approximately $25 million in bitcoin in the process.</p>
+
+
+
+<p>In a statement, federal police said they were also investigating unnamed individuals believed to be &#8220;operating criminal trading platforms on the internet on a commercial basis.”</p>
+
+
+
+<p>Hydra was thought to have a userbase consisting of over 19,000 vendors, 2.5 million regular users, and 17 million registered clients overall. Blockchain forensics experts at Chainalysis estimate that <a href="/hydra-activity-250-greater-than-all-other-darknet-markets-combined/" target="_blank" rel="noreferrer noopener">roughly $3.4 billion in BTC transactions had transpired</a> at the market over its lifetime, with much of the proceeds collected by admins being passed on to legitimate cryptocurrency exchanges.</p>
+
+
+
+<p>Though Hydra was long-believed to be operating out of Russia, yesterday’s reveal of its servers being hosted in Germany – along with other recently-uncovered factors – suggests this was never actually the case.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="960" height="535" src="/wp-content/uploads/2022/04/1-2.png" alt="" class="wp-image-1415" srcset="/wp-content/uploads/2022/04/1-2.png 960w, /wp-content/uploads/2022/04/1-2-300x167.png 300w, /wp-content/uploads/2022/04/1-2-768x428.png 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption><em>Screenshot of the Hydra darknet marketplace taken during November 2021.</em></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>In February, two Ukrainian-based individuals were named as “responsible for Hydra’s operations” based on an <a href="https://geminiadvisory.io/alleged-hydra-market-operators-identified-6/" target="_blank" rel="noreferrer noopener nofollow">assessment</a> of recently-released information performed by the dark web intelligence-gathering company, Gemini Advisory. The information, initially posted by an anonymous individual behind the hydra.expert domain, was partially confirmed by Gemini and revealed that JavaScript found to be embedded in the marketplace contained the names of the two Hydra masterminds as file authors.</p>
+
+
+
+<p>An <a href="https://archive.ph/cFQy6" target="_blank" rel="noreferrer noopener nofollow">archived version</a> of hydra.expert details the process by which the two Ukrainian nationals were identified, breaking down the JavaScript code supposedly uncovered from the market and detailing an investigation into the subdomains associated with a domain mentioned in it.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">The United States is sanctioning the world’s largest darknet market for Russian speakers, Hydra, and the virtual currency exchange Garantex. Today’s action, coordinated with <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e9-1f1ea.png" alt="🇩🇪" class="wp-smiley" style="height: 1em; max-height: 1em;" />, demonstrates our commitment to continue disrupting ransomware infrastructure and actors.</p>&mdash; Secretary Antony Blinken (@SecBlinken) <a href="https://twitter.com/SecBlinken/status/1511433500154478592?ref_src=twsrc%5Etfw">April 5, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>The Russian-language market, founded in 2015, had also recently been <a href="https://www.kommersant.ru/doc/5294429" target="_blank" rel="noreferrer noopener">placed unde</a><a href="https://www.kommersant.ru/doc/5294429" target="_blank" rel="noreferrer noopener nofollow">r sanctio</a><a href="https://www.kommersant.ru/doc/5294429" target="_blank" rel="noreferrer noopener">ns by the US</a> in an effort to cripple financial infrastructure used by cybercriminals associated with massive ransomware attacks that interrupted supply lines across much of the country throughout 2021. It suffered very little downtime during its nearly-seven years in operation, going offline only a few times; the most recent of which was during the early stages of the pandemic.</p>
+
+
+
+<p>A Bitcoin-only market, Hydra limited services and sales to residents of countries comprising the former USSR. It made heavy use of the “dead drop” product delivery system through which buyers would dig up or uncover purchases (referred to as “treasures”) hidden at pre-specified locations, thus avoiding use of traditional postal delivery systems.</p>
+<p>The post <a rel="nofollow" href="/the-end-of-a-dark-web-legacy-hydra-goes-down/">The End of a Dark Web Legacy: Hydra Goes Down</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/the-end-of-a-dark-web-legacy-hydra-goes-down/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nature: Off-Market Deals Surpass Markets in Volume Across All Darknet Markets</title>
+		<link>/nature-off-market-deals-surpass-markets-in-volume-across-all-darknet-markets/</link>
+					<comments>/nature-off-market-deals-surpass-markets-in-volume-across-all-darknet-markets/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Fri, 01 Apr 2022 10:27:46 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[Chainalysis]]></category>
+		<category><![CDATA[darknet markets]]></category>
+		<category><![CDATA[direct deals]]></category>
+		<category><![CDATA[nature]]></category>
+		<guid isPermaLink="false">/?p=1403</guid>
+
+					<description><![CDATA[<p>Darknet markets may serve larger roles economically by acting as catalysts for new trading relationships formed off-market, according</p>
+<p>The post <a rel="nofollow" href="/nature-off-market-deals-surpass-markets-in-volume-across-all-darknet-markets/">Nature: Off-Market Deals Surpass Markets in Volume Across All Darknet Markets</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Darknet markets may serve larger roles economically by acting as catalysts for new trading relationships formed off-market, according to results of a scientific study released yesterday, March 31<sup>st</sup>.</p>
+
+
+
+<p>A new <a href="https://www.nature.com/articles/s41598-022-07492-x" target="_blank" rel="noreferrer noopener nofollow">report</a> published in <em>Nature</em>, one of the world’s pre-eminent scientific journals, concludes that user-to-user (U2U) cryptocurrency transactions consistently beat darknet market-based transactions in volume &#8212; a trend that has been in tact since the early days of Silk Road.</p>
+
+
+
+<p>Researchers at the University of London, The Alan Touring Institute, and <a href="/chainalysis-2021-biggest-year-for-darknet-markets-yet/" target="_blank" rel="noreferrer noopener">Chainalysis</a> analyzed 31 million Bitcoin transactions found to be associated with 40 darknet markets between 2011-2021 and found that volume between direct buyer-seller transactions exceeded that which flowed through the markets themselves, for all 40 of the markets analyzed.</p>
+
+
+
+<p>Even though it is characteristic of darknet markets to expressly forbid their vendors from doing off-market deals with buyers, the report found that monthly trading volume between off-market U2U pairs consistently surpassed that of on-market trading volume. To put things in perspective, the researchers found that while $7.5 billion had flowed through the darknet markets analyzed over the last 10 years, the figure traded directly between buyers and sellers during this timeframe approached $30 billion, which is three-fold greater in total amount.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="645" height="488" src="/wp-content/uploads/2022/04/1.png" alt="" class="wp-image-1405" srcset="/wp-content/uploads/2022/04/1.png 645w, /wp-content/uploads/2022/04/1-300x227.png 300w" sizes="(max-width: 645px) 100vw, 645px" /></figure>
+
+
+
+<p><em>Dynamics of single-market transaction relationships vs cross-market relationships. Source: Nature</em></p>
+
+
+
+<p>The report detailed the process through which a certain percentage of buyers and sellers formed relationships on-market and then slowly moved business off-market, conducting deals directly among themselves. Several of these relationships were found to persist even after the darknet market on which they had formed closed, often exceeding the length of time for which markets were in operation. These “stable pairs” (as referenced in the report) accounted for only 1.7% of all U2U pairs identified yet accounted for 5% of the total $30 billion trading volume.</p>
+
+
+
+<p>The report also found that U2U trades have been steadily increasing since the inception of darknet markets and the phenomenon seems to be resilient to any type of macroeconomic setback, only momentarily slowing down once: during the initial panic induced by COVID-19 in first half of 2020. It concludes that law enforcement efforts could possibly be better directed by analyzing the blockchain habits of individual sellers rather than that of whole market operations.</p>
+<p>The post <a rel="nofollow" href="/nature-off-market-deals-surpass-markets-in-volume-across-all-darknet-markets/">Nature: Off-Market Deals Surpass Markets in Volume Across All Darknet Markets</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/nature-off-market-deals-surpass-markets-in-volume-across-all-darknet-markets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chainalysis: 2021 Biggest Year for Darknet Markets Yet</title>
+		<link>/chainalysis-2021-biggest-year-for-darknet-markets-yet/</link>
+					<comments>/chainalysis-2021-biggest-year-for-darknet-markets-yet/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Fri, 18 Feb 2022 15:57:38 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[Chainalysis]]></category>
+		<category><![CDATA[darknet markets]]></category>
+		<guid isPermaLink="false">/?p=1324</guid>
+
+					<description><![CDATA[<p>Darknet markets had their biggest year yet in 2021, according to a new report by Chainalysis, the blockchain</p>
+<p>The post <a rel="nofollow" href="/chainalysis-2021-biggest-year-for-darknet-markets-yet/">Chainalysis: 2021 Biggest Year for Darknet Markets Yet</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><a href="/darknet-markets-list/" target="_blank" rel="noreferrer noopener">Darknet markets</a> had their biggest year yet in 2021, according to a new <a href="https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-criminal-balances-criminal-whales/" target="_blank" rel="noreferrer noopener nofollow">report</a> by <em>Chainalysis</em>, the blockchain analytics firm. Proceeds received by crypto wallets linked to <a href="/darknet-markets-list/" target="_blank" rel="noreferrer noopener">darknet market</a> activity jumped 19% year-over-year to its biggest annual total ever – from $1.7 billion in 2020 to $2.1 billion in 2021.</p>
+
+
+
+<p>These figures remain relatively small compared to the amount of stolen crypto funds, which jumped from $3 to $11 billion between 2020 and 2021. Most of these funds were stolen in successful hacking and phishing attempts, with proceeds concentrated among a much smaller number of “criminal whales” than darknet market whales.</p>
+
+
+
+<p>Criminal whales – defined by Chainalysis as holding more than $1 million in illicitly-obtained cryptocurrency – now own over $25 billion in crypto funds, the report estimates.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="763" height="426" src="/wp-content/uploads/2022/02/1.png" alt="" class="wp-image-1326" srcset="/wp-content/uploads/2022/02/1.png 763w, /wp-content/uploads/2022/02/1-300x167.png 300w" sizes="(max-width: 763px) 100vw, 763px" /><figcaption>Source: Chainalysis</figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>Chainalysis also monitored the movement of funds belonging 768 criminal whales, plotting them according to times of transacting, and found that most activity occurred between the UTC time zones of 1-4, which suggests the majority of these whale reside in Russia. This also infers that most of the darknet market-associated whales use Hydra, which is based in Russia and is the biggest darknet market in the world.</p>
+
+
+
+<p>“The ability to efficiently track criminal whales and quantify their holdings from one public data set is a major difference between cryptocurrency-based crime and fiat-based crime,” concluded Chainalysis in their report, noting that in some ways it is easier to hold crypto criminals accountable for their crimes.</p>
+
+
+
+<p>“<em>In fiat, the highest net worth criminals have murky networks of foreign banks and shell corporations to obfuscate their holdings. But in cryptocurrency, transactions are saved on the blockchain for all to see.” – </em>Chainalysis</p>
+
+
+
+<p>While use of privacy coin Monero (XMR) makes blockchain analysis much more difficult for law enforcement, Bitcoin (BTC) <a href="https://ambcrypto.com/which-coin-dominates-the-darknet-market-space-surprisingly-its-not-monero/" target="_blank" rel="noreferrer noopener">still </a><a href="https://ambcrypto.com/which-coin-dominates-the-darknet-market-space-surprisingly-its-not-monero/" target="_blank" rel="noreferrer noopener nofollow">d</a><a href="https://ambcrypto.com/which-coin-dominates-the-darknet-market-space-surprisingly-its-not-monero/" target="_blank" rel="noreferrer noopener">ominates</a> darknet markets as the coin of choice, supported by 93% of such markets, as opposed to Monero’s 67%.</p>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="/chainalysis-2021-biggest-year-for-darknet-markets-yet/">Chainalysis: 2021 Biggest Year for Darknet Markets Yet</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/chainalysis-2021-biggest-year-for-darknet-markets-yet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cybercriminals Choosing DeFi Over Darknet For Cashouts</title>
+		<link>/cybercriminals-choosing-defi-over-darknet-for-cashouts/</link>
+					<comments>/cybercriminals-choosing-defi-over-darknet-for-cashouts/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Thu, 27 Jan 2022 10:28:50 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[Chainalysis]]></category>
+		<category><![CDATA[darknet market]]></category>
+		<category><![CDATA[defi]]></category>
+		<guid isPermaLink="false">/?p=1288</guid>
+
+					<description><![CDATA[<p>The share of ‘illicit’ crypto funds moving through darknet market continues to decrease, according to blockchain analysts at</p>
+<p>The post <a rel="nofollow" href="/cybercriminals-choosing-defi-over-darknet-for-cashouts/">Cybercriminals Choosing DeFi Over Darknet For Cashouts</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The share of ‘illicit’ crypto funds moving through <a href="/darknet-markets-list/" target="_blank" rel="noreferrer noopener">darknet market</a> continues to decrease, according to blockchain analysts at <em>Chainalysis</em> in a recent <a href="https://blog.chainalysis.com/reports/2022-crypto-crime-report-preview-cryptocurrency-money-laundering/" target="_blank" rel="noreferrer noopener nofollow">report</a>. Rising in its place are DeFi protocols which accounted for 14% of funds deemed by the report’s researchers to come from illicit sources in 2021, representing a nearly-2,000% percent increase from the previous year.</p>
+
+
+
+<p>The researchers also found funds emanating from <a href="/darknet-markets-list/" target="_blank" rel="noreferrer noopener">darknet market</a> operations tended to be far less centralized and more distributed among wallets than most other categories of illicit funds. They said this was due to the more independent nature of darknet market vendors and operators, whereas proceeds from Ponzi schemes and ransomware attacks tended to flow back into a single or small number of wallets.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Money laundering activity remains heavily concentrated to a shockingly small group of criminal facilitators. In 2021, 54% of funds sent from illicit addresses – approx. $2.5 billion – went to 583 service deposit addresses. <a href="https://t.co/76xoOK1sRh">https://t.co/76xoOK1sRh</a> <a href="https://t.co/k5pFzrZKxZ">https://t.co/k5pFzrZKxZ</a> <a href="https://t.co/Ji3YIWBIy9">pic.twitter.com/Ji3YIWBIy9</a></p>&mdash; Chainalysis (@chainalysis) <a href="https://twitter.com/chainalysis/status/1486422407766233092?ref_src=twsrc%5Etfw">January 26, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>“While billions of dollars’ worth of cryptocurrency moves from illicit addresses every year, most of it ends up at a surprisingly small group of services,” concluded <em>Chainalysis</em>. “Many of (these services) appear purpose-built for money laundering based on their transaction histories,” they wrote, further suggesting such services were candidates for federal blacklisting.</p>
+
+
+
+<p><em>Chainalysis</em> clarified their definition of ‘illicit’ in the report to include “cryptocurrency-native crime,” specifically mentioning darknet market sales and ransomware attack proceeds as examples. They noted that 2021 was the first year where less than half of such funds were sent to centralized exchanges, which were also displaced by increased favor for DeFi platforms.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="961" height="434" src="/wp-content/uploads/2022/01/1-2.png" alt="" class="wp-image-1291" srcset="/wp-content/uploads/2022/01/1-2.png 961w, /wp-content/uploads/2022/01/1-2-300x135.png 300w, /wp-content/uploads/2022/01/1-2-768x347.png 768w" sizes="(max-width: 961px) 100vw, 961px" /><figcaption><em>Trends in popularity of cashout methods for illicit funds. Source: Chainalysis</em></figcaption></figure>
+
+
+
+<p>The researchers also provided comparisons in money laundering between fiat currency and crypto, noting that while up to 5% of all fiat funds go through money laundering services each year, this figure for crypto funds is only 0.05%, or 100-fold smaller. For as many benefits and conveniences crypto poses for those hoping to avoid the attention of the law, <em>Chainalysis</em> counters the viability of its adoption by the darknet with the following insight:</p>
+
+
+
+<p>“<em>The biggest difference between fiat and cryptocurrency-based money laundering is that, due to the inherent transparency of blockchains, we can more easily trace how criminals move cryptocurrency between wallets and services in their efforts to convert their funds into cash.”</em></p>
+<p>The post <a rel="nofollow" href="/cybercriminals-choosing-defi-over-darknet-for-cashouts/">Cybercriminals Choosing DeFi Over Darknet For Cashouts</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/cybercriminals-choosing-defi-over-darknet-for-cashouts/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Darknet Economy Slow to Grow Compared to Other &#8216;Illicit&#8217; Areas of Crypto</title>
+		<link>/darknet-economy-slow-to-grow-compared-to-other-illicit-areas-of-crypto/</link>
+					<comments>/darknet-economy-slow-to-grow-compared-to-other-illicit-areas-of-crypto/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Sat, 08 Jan 2022 14:44:39 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[Chainalysis]]></category>
+		<category><![CDATA[darknet]]></category>
+		<guid isPermaLink="false">/?p=1065</guid>
+
+					<description><![CDATA[<p>The percentage of all cryptocurrency transactions considered to be ‘illicit’ declined to its lowest level yet in 2021,</p>
+<p>The post <a rel="nofollow" href="/darknet-economy-slow-to-grow-compared-to-other-illicit-areas-of-crypto/">Darknet Economy Slow to Grow Compared to Other &#8216;Illicit&#8217; Areas of Crypto</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The percentage of all cryptocurrency transactions considered to be ‘illicit’ <a href="https://blog.chainalysis.com/reports/2022-crypto-crime-report-introduction/" target="_blank" rel="noreferrer noopener nofollow">declined to its lowest level</a> yet in 2021, with the statistic being measured annually by blockchain analysts at <em>Chainalysis</em>. While the digital forensics experts note that crypto addresses associated with darknet markets and scams also “contribute significantly” to fund totals deemed illicit, darknet-related transactions rose less than 15% year-over-year, significantly under-pacing the other categories analyzed.</p>
+
+
+
+<p>Transactions to cryptocurrency addresses identified as ‘illicit’ represented a slender 0.15% of all transaction volume last year, despite a rise in the number of darknet market and ransomware operators. This figure, though tiny compared to the overall volume of crypto transactions, still represents $14 billion in “illicit activity.” This poses a severe problem, according to <em>Chainalysis</em>, which believes the size of the number “creates huge impediments for continued adoption,” among other issues.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">there’s your headline <a href="https://t.co/gTWlkf9KcI">pic.twitter.com/gTWlkf9KcI</a></p>&mdash; Neeraj K. Agrawal (@NeerajKA) <a href="https://twitter.com/NeerajKA/status/1479194968925290500?ref_src=twsrc%5Etfw">January 6, 2022</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>The categories of crime determined and tracked by <em>Chainalysis</em> include Stolen Funds, Scams, Ransomware, Cybercriminal Administrator, Fraud Shop, Darknet Market, and Child Abuse Material. Approximately $3.2 billion in crypto was stolen via various means in 2021, representing a 516% increase over 2020. About 72% of this amount was taken in different DeFi hacks.</p>
+
+
+
+<p>Scamming revenue was the biggest single category, which rose to $7.8 billion in 2021. Over $2.8 billion of this came from rug pulls; most of which are former DeFi projects. The report also stressed the continued, widescale use of DeFi for money laundering purposes, which dwarfs all activity deemed illicit on the dark web by several fold.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="692" height="273" src="/wp-content/uploads/2022/01/1-1.png" alt="" class="wp-image-1067" srcset="/wp-content/uploads/2022/01/1-1.png 692w, /wp-content/uploads/2022/01/1-1-300x118.png 300w" sizes="(max-width: 692px) 100vw, 692px" /></figure>
+
+
+
+<p><em>Chainalysis</em> notes that it is keeping track of “illicit addresses hold(ing) at least $10 billion worth of cryptocurrency” as of January 2022, with the “vast majority of this held by wallets associated with cryptocurrency theft.”</p>
+
+
+
+<p>Despite this setback for the public’s perception of cryptocurrency, the report’s authors conclude that “crime is becoming a smaller and smaller part of the cryptocurrency ecosystem,” with widespread crypto adoption continuing to outpace the growth of darknet markets – a trend which has been in place since at least 2017.</p>
+<p>The post <a rel="nofollow" href="/darknet-economy-slow-to-grow-compared-to-other-illicit-areas-of-crypto/">Darknet Economy Slow to Grow Compared to Other &#8216;Illicit&#8217; Areas of Crypto</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/darknet-economy-slow-to-grow-compared-to-other-illicit-areas-of-crypto/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>U.S. Blacklists More Crypto Addresses, Places $10M Reward for REvil Info</title>
+		<link>/u-s-blacklists-more-crypto-addresses-places-10m-reward-for-revil-info/</link>
+					<comments>/u-s-blacklists-more-crypto-addresses-places-10m-reward-for-revil-info/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Wed, 10 Nov 2021 15:41:27 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[Chainalysis]]></category>
+		<category><![CDATA[Chatex]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<guid isPermaLink="false">/?p=926</guid>
+
+					<description><![CDATA[<p>Another cryptocurrency exchange identified as processing millions in ransomware payments was sanctioned by the U.S. Treasury Department on</p>
+<p>The post <a rel="nofollow" href="/u-s-blacklists-more-crypto-addresses-places-10m-reward-for-revil-info/">U.S. Blacklists More Crypto Addresses, Places $10M Reward for REvil Info</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Another cryptocurrency exchange identified as processing millions in ransomware payments was <a href="https://home.treasury.gov/news/press-releases/jy0471" target="_blank" rel="noreferrer noopener nofollow">sanctioned</a> by the U.S. Treasury Department on Monday, resulting in the blacklisting of 59 cryptocurrency addresses known to be involved in such transactions. The action was taken after blockchain forensics experts at Chainalysis managed to <a href="https://blog.chainalysis.com/reports/ofac-sanction-chatex-revil-sodinokibi-november-2021" target="_blank" rel="noreferrer noopener nofollow">trace ransomware payments</a> through addresses known to be associated with the exchange.</p>
+
+
+
+<p>Further research by Chainalysis demonstrates that Chatex had processed around $77.5 million in Bitcoin (BTC) since its inception in September 2018, with at least $17 million coming from “illicit sources” such as the Hydra darknet marketplace.</p>
+
+
+
+<p>A FinCEN Ransomware Advisory update included an <a href="https://home.treasury.gov/news/press-releases/jy0471" target="_blank" rel="noreferrer noopener nofollow">announcement</a> from the Department of State of a reward up to $10,000,000 “for information leading to the identification or location of any individual(s) who hold a key leadership position in the Sodinokibi/REvil ransomware variant transnational organized crime group.”</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f622.png" alt="😢" class="wp-smiley" style="height: 1em; max-height: 1em;" />It&#39;s been a joyful ride&#8230; <br><br>Thanks to every member of the Chatex Community. We truly appreciate your trust and support.</p>&mdash; Chatex (@Chatex_bot) <a href="https://twitter.com/Chatex_bot/status/1458076229601464325?ref_src=twsrc%5Etfw">November 9, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>“Ransomware groups and criminal organizations have targeted American businesses and public institutions of all sizes and across sectors, seeking to undermine the backbone of our economy,” said Deputy Secretary of the Treasury Wally Adeyemo in a press release. Two cybercriminals, one Russian and one Ukrainian, were also sanctioned for their positions in setting up ransomware attacks on U.S. companies.</p>
+
+
+
+<p>Among yesterday’s sanctioned crypto addresses are exchange addresses for Bitcoin, Ethereum Bitcoin Cash, USDT, XRP, Litecoin, Dash and Monero. Per order of the sanction, businesses and individuals operating under U.S. law are forbidden from transacting with the listed addresses.</p>
+
+
+
+<p>The owner of Chatex, Egor Petukhovsky, is also the owner of Suex, the first crypto exchange to be <a href="https://www.coindesk.com/business/2021/09/24/egor-petukhovsky-ceo-of-us-sanctioned-suex-says-he-will-go-to-court/" target="_blank" rel="noreferrer noopener nofollow">sanctioned</a> by the Treasury department in September. As a result of the sanction, 25 crypto addresses were blacklisted, most consisting of exchange deposit addresses.</p>
+
+
+
+<p>Before their <a href="https://chatex.com/" target="_blank" rel="noreferrer noopener nofollow">website</a> was recently changed, Chatex described itself as “the second largest crypto wallet and p2p exchange in-app platform for Telegram.” They also mentioned that they had recently become a “full-fledged cryptobank,” offering an array of cryptocurrency-related cashout services. The company completed a <a href="https://coinmarketcap.com/currencies/chatex/ico/" target="_blank" rel="noreferrer noopener nofollow">token sale</a> in September in which $40,000 was raised, and was still in the process of raising additional funds at the time of the sanction.</p>
+<p>The post <a rel="nofollow" href="/u-s-blacklists-more-crypto-addresses-places-10m-reward-for-revil-info/">U.S. Blacklists More Crypto Addresses, Places $10M Reward for REvil Info</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/u-s-blacklists-more-crypto-addresses-places-10m-reward-for-revil-info/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 13:57:00 by W3 Total Cache
+-->

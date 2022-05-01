@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>darknet market admin &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/darknet-market-admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Thu, 03 Mar 2022 11:02:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>darknet market admin &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Darknet Market Community Struggling to Retain Faith After Dark0de Closure</title>
+		<link>/darknet-market-community-struggling-to-retain-faith-after-dark0de-closure/</link>
+					<comments>/darknet-market-community-struggling-to-retain-faith-after-dark0de-closure/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Thu, 03 Mar 2022 11:02:03 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[dark0de market]]></category>
+		<category><![CDATA[darknet market]]></category>
+		<category><![CDATA[darknet market admin]]></category>
+		<guid isPermaLink="false">/?p=1343</guid>
+
+					<description><![CDATA[<p>This year’s spate of darknet market closures has left much of the community feeling hopeless and turning to</p>
+<p>The post <a rel="nofollow" href="/darknet-market-community-struggling-to-retain-faith-after-dark0de-closure/">Darknet Market Community Struggling to Retain Faith After Dark0de Closure</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>This year’s spate of darknet market closures has left much of the community feeling hopeless and turning to social media to vent their frustrations over the dissolving trust they once had for such operations. Most recently, Dark0de – once considered to be one of the best darknet markets – pulled a <a href="/dark0de-exit-scam-confirmed/" target="_blank" rel="noreferrer noopener">rather sudden exit scam</a>, taking all user funds held in their system along with them.</p>
+
+
+
+<p>In addition to Dark0de, there have been at least three other major darknet market closures this year, leading some to ponder if there was perhaps a better way to go about implementing and running them; ideally removing the risk of closure. A <a href="https://www.reddit.com/r/darknet/comments/t4xm68/tired_of_exit_scams_why_a_fully_decentralized/" target="_blank" rel="noreferrer noopener">post</a> in the r/darknet subreddit by u/lorenzlams addressing these questions managed to draw over 100 net upvotes and 116 comments within its first 20 hours, spurring a heated (though heavily moderated) conversation.</p>
+
+
+
+<p>“It should be totally possible to build a fully decentralized and open market protocol, working on any of the existing L1 blockchain networks, smart contract based, etc,” wrote u/lorenzlams. “I&#8217;m surprised this doesn&#8217;t exist yet,” they added.</p>
+
+
+
+<p>Several thread respondents in the Reddit thread pointed to <a href="https://en.wikipedia.org/wiki/OpenBazaar" target="_blank" rel="noreferrer noopener">OpenBazaar</a> as a prototype for decentralized market management; the project itself initially created as a “proof-of-concept” to tackle the idea of a distributed darknet market.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="727" height="284" src="/wp-content/uploads/2022/03/1.png" alt="" class="wp-image-1344" srcset="/wp-content/uploads/2022/03/1.png 727w, /wp-content/uploads/2022/03/1-300x117.png 300w" sizes="(max-width: 727px) 100vw, 727px" /></figure>
+
+
+
+<p>Other respondents pointed out the need for some sort of a moderation team to prevent scams &#8212; an integral component of any darknet market that is somewhat dependent on centralization. Another problem to be faced by decentralized markets is the issue of fund management, which is not just potentially risky but a turnoff to average users, as well.</p>
+
+
+
+<p>“I don’t know much about crypto tech but anyone involved in fueling a blockchain solely based on the illegal drug industry would be arrested I’m sure,” wrote u/hardwire_to_eat in response to the above-mentioned thread. “Escrow makes people feel much safer.”</p>
+
+
+
+<p>A dive into claims made by market admins during the early stages of their market reveals that <a href="https://darknetlive.com/post/markets-lie/" target="_blank" rel="noreferrer noopener nofollow">nearly all of them lie about their intentions</a>. Provided as evidence in the linked article were empty promises made the admins of Samsara Market, Nightmare Market, Dark0de, Kingdom Market, and Icarus &#8212; all of which ended up exit scamming between one month and two years after opening.</p>
+
+
+
+<p>Despite the string of exit scams this year, some markets (such as White House Market and Cannazon) do manage to perform “graceful exits,” giving their users a warning of impending closure and providing them with ample time to withdraw their funds before shutting their servers down.</p>
+<p>The post <a rel="nofollow" href="/darknet-market-community-struggling-to-retain-faith-after-dark0de-closure/">Darknet Market Community Struggling to Retain Faith After Dark0de Closure</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/darknet-market-community-struggling-to-retain-faith-after-dark0de-closure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:11:50 by W3 Total Cache
+-->

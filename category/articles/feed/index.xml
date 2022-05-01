@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Articles &#8211; DarknetMarkets</title>
+	<atom:link href="/category/articles/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Tue, 15 Jun 2021 16:22:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>Articles &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Feather: An Electrum-Inspired Desktop Wallet for Monero</title>
+		<link>/feather-an-electrum-inspired-desktop-wallet-for-monero/</link>
+					<comments>/feather-an-electrum-inspired-desktop-wallet-for-monero/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 16:22:52 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[feather wallet]]></category>
+		<category><![CDATA[monero]]></category>
+		<guid isPermaLink="false">/?p=621</guid>
+
+					<description><![CDATA[<p>First released in November 2020, Feather is a Monero (XMR) GUI desktop wallet that is easy to use</p>
+<p>The post <a rel="nofollow" href="/feather-an-electrum-inspired-desktop-wallet-for-monero/">Feather: An Electrum-Inspired Desktop Wallet for Monero</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>First released in November 2020, <a href="https://featherwallet.org/">Feather</a> is a Monero (XMR) GUI desktop wallet that is easy to use and requires no hefty downloads. The code behind the project is open source, meaning it can be reviewed by anyone. Feather also contains a few features not shared by similar Monero wallets, including coin control and a built-in XMR/BTC exchange. It also features a handy dark mode for users whose eyes prefer that type of schema.</p>
+
+
+
+<p>The design of Feather is modeled after that of Electrum, the long-running Bitcoin wallet, which has also been the inspiration for several other cryptocurrency wallets. Other Monero wallets up to this point have lacked a certain combination of stability, security and user friendliness that has rendered Electrum a superior wallet for many years. Thus far, Feather seems to have provided a near-perfect recreation of Electrum for XMR users.</p>
+
+
+
+<p>In contrast to a full wallet client (complete with blockchain), Feather is more of a “light weight” client, connecting to nodes that are currently up-to-date with the Monero blockchain. This means the data that needs to be downloaded for Feather to provide its service is very minimal. While there will be some initial synchronization with connected nodes that is necessary, the wallet tends to load very quickly every time it is opened after the initial configuration.</p>
+
+
+
+<p>The wallet is available for Linux, Tails, iOS and Windows systems.</p>
+
+
+
+<h2>Before Getting Started</h2>
+
+
+
+<p>While not completely necessary, it’s a good idea to have a decent understanding of what Monero is and how to get some before attempting to use Feather. This extends to possessing a basic understanding of cryptocurrency, including how it’s transacted, how it’s stored, and what a blockchain is. It’s also not a bad idea to understand how Monero is different from most other cryptocurrencies. For one, it’s a lot more privacy-oriented than Bitcoin and most other cryptocurrencies. XMR transactions are also 5 times faster than BTC to confirm, and are way, way cheaper as well (a few cents as compared to a few dollars).</p>
+
+
+
+<p>In addition to all this, be aware of basic security protocols related to maintaining cryptocurrency wallets. When possible, try to run them in an environment that is dedicated solely to that purpose. This would mean running it on a computer that does not run the risk of downloading malware. It also means never keeping important items like a backup of your wallet file, password or seed phrase on a cloud-based service, such as those provided by Google, Amazon or something like DropBox. When possible, keep your sensitive files password protected.</p>
+
+
+
+<h2>Installing Feather</h2>
+
+
+
+<p>One of the most common ways people lose their coins is by installing a fake wallet which steals them. This is why it’s important to only download the wallet from its official site, which is shown below:</p>
+
+
+
+<p><a href="https://featherwallet.org/" target="_blank" rel="noreferrer noopener">featherwallet.org</a></p>
+
+
+
+<p>If you attempt to download the wallet from elsewhere you run a strong chance of losing funds to a fake wallet.</p>
+
+
+
+<p>For those who are interested in retaining as much privacy as possible, it’s not a bad idea to visit the website using the Tor browser and download the wallet file over Tor. This will remove any trace between your IP address and the Feather website.</p>
+
+
+
+<p>1. Upon arriving at featherwallet.org, click on the “Download” option toward the top of the screen. This will bring up the wallet download screen, where you can see the different OS option available:</p>
+
+
+
+<figure class="wp-block-image size-large"><img width="882" height="678" src="/wp-content/uploads/2021/06/1-1.png" alt="" class="wp-image-623" srcset="/wp-content/uploads/2021/06/1-1.png 882w, /wp-content/uploads/2021/06/1-1-300x231.png 300w, /wp-content/uploads/2021/06/1-1-768x590.png 768w" sizes="(max-width: 882px) 100vw, 882px" /></figure>
+
+
+
+<p>In addition to Linux, OS and Windows, you’ll notice there is an option for Tails, which is a privacy-based, thumb drive-bootable operating system. Unlike Windows, Tails removes the ability for your computer actions to be recorded, which makes it perfect for those who are looking to maintain the greatest amount of privacy possible. For the purposes of this guide, however, we will be explaining how to install the Windows version.</p>
+
+
+
+<p>2. After clicking on the version you wish to download, you will see the compressed wallet file downloading to your computer. The Windows version is a “standalone executable,” meaning you don’t have to install any extra files or programs to run the wallet. Simply unzip the downloaded file using WinZip or WinRAR, and extract the feather.exe (or feather-beta.exe, depending on what version they are currently promoting) file into your folder of choice.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="720" height="270" src="/wp-content/uploads/2021/06/2.png" alt="" class="wp-image-624" srcset="/wp-content/uploads/2021/06/2.png 720w, /wp-content/uploads/2021/06/2-300x113.png 300w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+
+
+
+<p>After installing feather.exe, double-click it to begin setting it up. This is likely your first time downloading the wallet, so select “Create New Wallet” to get started, and press “Next”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="572" height="578" src="/wp-content/uploads/2021/06/3.png" alt="" class="wp-image-625" srcset="/wp-content/uploads/2021/06/3.png 572w, /wp-content/uploads/2021/06/3-297x300.png 297w" sizes="(max-width: 572px) 100vw, 572px" /></figure>
+
+
+
+<p><strong>Reminder</strong>: if you use a password &#8211; which is probably a good idea &#8211; remember to save it somewhere easy to remember. Because you are only entering in the password once, consider copy/pasting it into the text box to reduce the risk of making an error.</p>
+
+
+
+<p>3. Next, you will be brought to the Wallet Seed generation screen. Here, you will see 14 boxes with words in them. These words &#8211; in order from 1 to 14 &#8211; represent a <em>seed phrase</em> that can be used to restore your wallet should it be deleted, corrupted or if you somehow forget your password.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="570" height="581" src="/wp-content/uploads/2021/06/4.png" alt="" class="wp-image-626" srcset="/wp-content/uploads/2021/06/4.png 570w, /wp-content/uploads/2021/06/4-294x300.png 294w" sizes="(max-width: 570px) 100vw, 570px" /></figure>
+
+
+
+<p>Press the “Generate” button a couple of times just to generate some fresh seed words, and then press the “Copy” button to copy all the words to your clipboard. Paste the contents in a secure location. This could be along with your password, but you have to keep in mind that anyone with your seed phrase can access the contents of your entire wallet.</p>
+
+
+
+<p>When you are ready to proceed, press the “Create/Open Wallet” button. This will bring up a warning box with some good advice:</p>
+
+
+
+<ul><li>Don’t tell anybody your seed phrase.</li><li>Never enter it into a website.</li><li>Store it offline.</li><li>Make sure you won’t lose it.</li></ul>
+
+
+
+<p><strong>Seed phrase storage tip</strong>: A lot of people write or type their seed phrase on a piece of paper and store it someplace secure, like a vault or a safe deposit box. If you do print your seed phrase, as you might with a paper wallet, don’t print it on a public printer; preferably, use a home computer with the printer connected via Ethernet cable. This removes the risk of your information being intercepted by a hacker or curious printer station attendant.</p>
+
+
+
+<p>After you’re sure you’ve saved your seed phrase, press “I understand” to continue. The wallet will then open and start to sync. And that’s it! You’re ready to start funding your Feather wallet with XMR.</p>
+
+
+
+<h2>Feather Wallet Overview</h2>
+
+
+
+<p>Similar to Electrum, Feather’s screens are divided into tabs:</p>
+
+
+
+<ul><li><strong>Home</strong>: default tab; shows price of XMR, BTC, and can be set to display 2 sub tabs (CCS &#8211; Community Crowdfunding Proposals, and /r/Monero &#8211; latest from the Monero subreddit).</li><li><strong>History</strong>: history of your wallet’s incoming and outgoing transactions.</li><li><strong>Send</strong>: pay to an XMR address.</li><li><strong>Receive</strong>: view and generate subaddresses.</li><li><strong>Calc</strong>: simple XMR&lt;-&gt;USD calculator based on current exchange rate.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="677" height="520" src="/wp-content/uploads/2021/06/5.png" alt="" class="wp-image-627" srcset="/wp-content/uploads/2021/06/5.png 677w, /wp-content/uploads/2021/06/5-300x230.png 300w" sizes="(max-width: 677px) 100vw, 677px" /></figure>
+
+
+
+<p>Above the tabs are the different menu options for the wallet, which consist of the following:</p>
+
+
+
+<ul><li><strong>File</strong>: Close, Quit or access Settings (General, Node and Path)</li><li><strong>Wallet</strong>: Information, Advanced (wallet-related settings), Password, Seed, Keys, View Only (mode), History, Contacts</li><li><strong>View</strong>: show or hide Home, Calc, Coins, Mining (the last 2 are off by default)</li><li><strong>Tools</strong>: Sign/Verify message, Verify transaction proof, Load unsigned transaction, Broadcast transaction, Import Transaction Pay to many, Calculator</li><li><strong>Help</strong>: About, website link, bug report, debug info</li></ul>
+
+
+
+<p>First, let’s create a new address (subaddress) to practice receiving a payment. Click on the “Receive” tab to get started.</p>
+
+
+
+<h2>What is a Subaddress?</h2>
+
+
+
+<p>Feather uses a subaddress system in which a limitless supply of new addresses is generated from a wallet’s public keys. After a subaddress has received funds, it will be removed from your list of available receive addresses. While it is possible to reuse addresses (Feather will not forget that an old address belong to a wallet), it is better to use a new subaddress for every transaction.</p>
+
+
+
+<p>All subaddresses are derived from your public keys, which means they can theoretically be traced back in ownership. This is why it’s a good idea to keep all your keys (and main address) private, and again don’t make them publicly available if you don’t have to.</p>
+
+
+
+<p>Feather recommends not using your main address unless you plan on doing mining or plan to send to a service that does not use subaddresses. For reference, your main address can be found by clicking on the “Wallet” menu option and selecting “Keys”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="687" height="450" src="/wp-content/uploads/2021/06/6.png" alt="" class="wp-image-628" srcset="/wp-content/uploads/2021/06/6.png 687w, /wp-content/uploads/2021/06/6-300x197.png 300w" sizes="(max-width: 687px) 100vw, 687px" /></figure>
+
+
+
+<p>Here you can find all keys associated with your wallet:</p>
+
+
+
+<ul><li><strong>Primary address</strong>: always begins with a “4”; an older way to derive addresses from a private key.</li><li><strong>Secret spend key</strong>: this is used by your wallet to sign a transaction when making a payment.</li><li><strong>Secret view key</strong>: used to view the incoming transaction for a wallet.</li><li><strong>Public spend key</strong>: used to generate the public key of an output.</li><li><strong>Public view key</strong>: allows others to see a wallet’s incoming transactions.</li></ul>
+
+
+
+<h2>Generating a Subaddress</h2>
+
+
+
+<p>Click on the “Receive” tab to bring up a list of generated subaddresses.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="672" height="525" src="/wp-content/uploads/2021/06/7.png" alt="" class="wp-image-629" srcset="/wp-content/uploads/2021/06/7.png 672w, /wp-content/uploads/2021/06/7-300x234.png 300w" sizes="(max-width: 672px) 100vw, 672px" /></figure>
+
+
+
+<p>You can label and use any of these addresses to receive coins, but click on “Generate Subaddress” to practice creating a brand new address. You will see a new entry at the bottom of your address list. Right-click it and select “Copy address” to copy it to your clipboard.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="658" height="367" src="/wp-content/uploads/2021/06/8.png" alt="" class="wp-image-630" srcset="/wp-content/uploads/2021/06/8.png 658w, /wp-content/uploads/2021/06/8-300x167.png 300w" sizes="(max-width: 658px) 100vw, 658px" /></figure>
+
+
+
+<p>You can also edit the address label by right-clicking an address, which is a good way to keep incoming payments organized when necessary.</p>
+
+
+
+<p>You’ll notice there is a QR code to the right of it. This represents the address and makes it easy to send payments from mobile wallets. Clicking on the QR code brings up a bigger version of it that can be copied or saved.</p>
+
+
+
+<h2>Receiving a Payment</h2>
+
+
+
+<p>Now that you have a subaddress, have provided it to a sender and are awaiting payment, click the “History” tab to bring up a list of your wallet’s transactions. When a payment is sent or arrives, its information is displayed here. You can also see your current balance underneath each tab, next to the green Connection status bubble (a red bubble means you are not connected to the network).</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="675" height="461" src="/wp-content/uploads/2021/06/9.png" alt="" class="wp-image-631" srcset="/wp-content/uploads/2021/06/9.png 675w, /wp-content/uploads/2021/06/9-300x205.png 300w" sizes="(max-width: 675px) 100vw, 675px" /></figure>
+
+
+
+<p>The History tab updates automatically upon detecting an incoming transaction from the network. After the transaction has been confirmed, its status will be updated. Feather considers a transaction to be fully secured after 10 confirmations by the network. As Monero blocks are short in length, this equates to about 20 minutes. For the sake of receiving payments, however, most transactions are considered to be safe after 1-3 confirmations by the network.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="672" height="457" src="/wp-content/uploads/2021/06/10.png" alt="" class="wp-image-632" srcset="/wp-content/uploads/2021/06/10.png 672w, /wp-content/uploads/2021/06/10-300x204.png 300w" sizes="(max-width: 672px) 100vw, 672px" /></figure>
+
+
+
+<p>After the transaction has reached 10 confirmations, its status will change from a clock to a checkmark, and your balance will be updated to reflect that coins are ready to be spent.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="661" height="459" src="/wp-content/uploads/2021/06/11.png" alt="" class="wp-image-633" srcset="/wp-content/uploads/2021/06/11.png 661w, /wp-content/uploads/2021/06/11-300x208.png 300w" sizes="(max-width: 661px) 100vw, 661px" /></figure>
+
+
+
+<h2>Sending a Payment</h2>
+
+
+
+<p>Now that your wallet has been funded, you can start sending XMR to other recipients. To make a payment, click the “Send” tab. Enter the Monero address to which you are sending XMR in the “Pay to” field. Enter in a Description if desired, and finally, an amount (denominated in XMR; you will see the USD equivalent to the right of this field). To send everything in your wallet, press “Max”. (As far as transaction fees are concerned, there is way to customize this using the GUI, but seeing as how XMR fees rarely exceed a few cents, it will most likely not be a problem for a while to come.)</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="667" height="430" src="/wp-content/uploads/2021/06/12.png" alt="" class="wp-image-634" srcset="/wp-content/uploads/2021/06/12.png 667w, /wp-content/uploads/2021/06/12-300x193.png 300w" sizes="(max-width: 667px) 100vw, 667px" /></figure>
+
+
+
+<p>After you have confirmed your transaction details, press “Send”. At this point, you may get a popup asking you to allow Feather through your computer’s firewall. Allow Feather to connect and press “Continue” (or “Next”, depending on your OS). After the transaction has been constructed, you will be asked to once again confirm the details of the transaction before pressing “Send”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="517" height="364" src="/wp-content/uploads/2021/06/13.png" alt="" class="wp-image-635" srcset="/wp-content/uploads/2021/06/13.png 517w, /wp-content/uploads/2021/06/13-300x211.png 300w" sizes="(max-width: 517px) 100vw, 517px" /></figure>
+
+
+
+<p>You will then see a popup confirming the success of the transaction, and your coins will be on their way to the recipient.</p>
+
+
+
+<h2>Advanced Features</h2>
+
+
+
+<p><strong>Exchange</strong>. One of the cool features implemented in Feather is an automated XMR-&gt;BTC exchange. If your wallet does not display the Exchange tab by default, you can make it appear by selecting the “View” menu and then “Show Exchange”. This will allow you to instantly convert XMR into BTC through a bridge maintained by XMR.to. While the feature can be a little buggy at the moment, it is one of the more useful additions to a desktop wallet for quite some time.</p>
+
+
+
+<p><strong>Pay to Many. </strong>Found in the Tools menu, this feature lets you make a payment to up to 16 different addresses at the same time.</p>
+
+
+
+<p><strong>Mining</strong>. This tab is also added from the “View” menu and can be used to connect your mining rig to one of several different Monero pools.</p>
+
+
+
+<p><strong>Sign/Verify</strong>. Found in the Tools menu, use this to sign a message using your main address, or verify a message and signature from another address.</p>
+
+
+
+<p><strong>Verify transaction proof</strong>. Use this tool to prove authorship of a transaction or verify ownership of an output.</p>
+
+
+
+<p><strong>Load unsigned transaction</strong>. A tool for importing a transaction from a file or clipboard.</p>
+
+
+
+<p><strong>Broadcast transaction</strong>. A tool for broadcast a transaction to the network using contents in a file or clipboard.</p>
+
+
+
+<h2>Feather Wallet Support</h2>
+
+
+
+<p>As Feather is a free, open source wallet that does not employ a customer service staff, your best bet for receiving wallet-related support would be visiting the <a href="https://www.reddit.com/r/Monero" target="_blank" rel="noreferrer noopener">r/Monero</a> community on Reddit and posting your question there. The Reddit community can be extremely helpful in solving issues. Although, if there’s a good chance your question may have already been answered, it’s not a bad idea to do a quick search for “Feather” + related terms and see if it has been asked before.</p>
+
+
+
+<p>Additionally, there is an extensive <a href="https://featherwallet.org/faq" target="_blank" rel="noreferrer noopener">FAQ</a> on the Feather wallet website that covers all of the advanced wallet features in more detail than is provided in this guide. As a last resort, you can try <a href="mailto:dev@featherwallet.org" target="_blank" rel="noreferrer noopener">emailing</a> the developers directly, but it is probably a better idea to exhaust all other options first.</p>
+
+
+
+<h2>Hardware Device Support</h2>
+
+
+
+<p>Feather does not offer hardware device support for their wallet at the moment. The developers of Feather are still busy ensuring their young wallet and all its features work as planned, but they have not taken the idea of adding hardware device support off the table. If you need to connect to a hardware device, the developers recommend using the Monero GUI for the time being.</p>
+
+
+
+<h2>Feather Wallet: Final Thoughts</h2>
+
+
+
+<p>In all, the dev team behind Feather has done a brilliant job at capturing the user friendly essence of Bitcoin’s Electrum and transforming it for Monero users. Given that Monero wallet UI problems have plagued much of the cryptocurrency’s history, Feather is a breakthrough that finally makes Monero as easy to use as Bitcoin &#8211; which, let’s face it &#8211; is still considered by many too complicated to use.</p>
+
+
+
+<p>After almost four months in public, having withstood code inspections by curious developers and undergone 2 updates already, Feather is off to a great start. It makes XMR easier to send, receive and store than perhaps ever before, and we strongly recommend it for any level of user.</p>
+<p>The post <a rel="nofollow" href="/feather-an-electrum-inspired-desktop-wallet-for-monero/">Feather: An Electrum-Inspired Desktop Wallet for Monero</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/feather-an-electrum-inspired-desktop-wallet-for-monero/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A Guide to How to Use PGP: Generating Key Pairs, Encryption &#038; Decryption</title>
+		<link>/pgp-encryption/</link>
+					<comments>/pgp-encryption/#comments</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Sun, 23 May 2021 09:58:00 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[kleopatra]]></category>
+		<category><![CDATA[pgp]]></category>
+		<category><![CDATA[pgp guide]]></category>
+		<guid isPermaLink="false">/?p=130</guid>
+
+					<description><![CDATA[<p>In this guide we explain everything you need to know about how to get started using PGP encryption.</p>
+<p>The post <a rel="nofollow" href="/pgp-encryption/">A Guide to How to Use PGP: Generating Key Pairs, Encryption &#038; Decryption</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In this guide we explain everything you need to know about how to get started using PGP encryption. We walk you through key pair generation, message encryption and message decryption in a step-by-step manner, giving you pointers on how to protect your privacy along the way.</p>
+
+
+
+<h2>I. What is PGP?</h2>
+
+
+
+<p>PGP is short for “pretty good privacy” and refers to an encryption program used for communication and data. In the cryptocurrency world, PGP is used as a source of identity verification and a way for otherwise anonymous parties to confirm that they are communicating with one another. It is also an increasingly common way for anyone to authenticate a message to the outside world; especially public figures who are prone to impersonation.</p>
+
+
+
+<h2>II. How Does PGP Work?</h2>
+
+
+
+<p>PGP encryption works by serially combining several cryptographic techniques together, including hashing, data compression, symmetric-key cryptography, and lastly public-key cryptography. Users generate a key pair, consisting of the following:</p>
+
+
+
+<ul><li><strong>Public key</strong> (think of this as a username or email address which others will use to encrypt messages to be read by you)</li><li><strong>Private key</strong> (think of this as the password needed to decrypt the messages sent to you by others)</li></ul>
+
+
+
+<p>To send a PGP encrypted message, the sender encrypts the text they wish to send using the recipient’s public key using a PGP client like Kleopatra. Public keys can be stored for easy reference in the client and the encryption can be done with just a few clicks. The output of the encryption process is then imported by the recipient, who uses their private key to decrypt the text.</p>
+
+
+
+<h2>III. How secure is PGP encryption?</h2>
+
+
+
+<p>It&#8217;s been 30 years since PGP was first released as an open-sourced, non-licensed project, and in that time, no one has ever managed to “crack” or reverse-engineer the encryption. Accordingly, no one has managed to decrypt a PGP-encrypted message without the corresponding private key. The cryptography behind PGP is solid and failures emanating from its use stem from human error. There have been some poorly configured PGP and email clients that leaked key data during sophisticated phishing incidents in the past, but if you stick with a trusted client and maintain good security practices you should have no problems with your PGP experience.</p>
+
+
+
+<h2>IV. Before Getting Started: Privacy Considerations</h2>
+
+
+
+<p>First things first: Decide what you plan to achieve with PGP, and what degree of privacy you are ultimately seeking. This is an important decision because it affects what you should be doing before you even download privacy tools like PGP utilities. Consider whose attention you are hoping to evade. If this is your internet service provider (ISP), Google or anyone else potentially monitoring your online movement, you will want to download the software using the <a href="https://www.torproject.org/download/" target="_blank" rel="noreferrer noopener">Tor browser</a>. If this isn’t such a big deal to you, downloading a PGP utility from a regular browser is fine and will not lessen your security cryptographically.</p>
+
+
+
+<p>In terms of privacy, taking things a step further would involve breaking the connection that you ever downloaded Tor (or any PGP utility) in the first place. Even though your ISP does not know what websites you are visiting when you connect to the Tor network, they can see when you do connect to the network. To avoid this, you can download Tor using the <a href="https://tails.boum.org/install/index.en.html" target="_blank" rel="noreferrer noopener">TailsOS</a>, which is a Linux-based operating system that runs on a USB drive and forces all internet traffic through the Tor network. Tails also includes handy PGP tools for easily encrypting and decrypting messages, which we show you how to do in this guide.</p>
+
+
+
+<h2>V. Downloading a PGP Client</h2>
+
+
+
+<p>We recommend using the Kleopatra client, which is open-source and relatively easy to use. It is published by <a href="https://www.openpgp.org/software/kleopatra/" target="_blank" rel="noreferrer noopener">OpenPGP</a>, a non-profit organization for the development and standardization of PGP protocols. It is part of a suite of open-source PGP utilities called <a href="https://dev.gnupg.org/source/gpg4win/" target="_blank" rel="noreferrer noopener">Gpg4win</a>.</p>
+
+
+
+<p>If you are running Linux, download Kleopatra <a href="https://www.kde.org/applications/utilities/kleopatra/" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<p>If you are running Windows, download Gpg4win <a href="https://www.gpg4win.org/download.html" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<p>For the purposes of this guide, we will be demonstrating the Windows installation. The download page should look something like this:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="654" height="464" src="/wp-content/uploads/2021/05/1.png" alt="" class="wp-image-548" srcset="/wp-content/uploads/2021/05/1.png 654w, /wp-content/uploads/2021/05/1-300x213.png 300w" sizes="(max-width: 654px) 100vw, 654px" /></figure>
+
+
+
+<p>If it doesn’t, double-check to make sure you are at the right URL, which should read: <a href="https://www.gpg4win.org/download.html">https:</a><a href="https://www.gpg4win.org/download.html" target="_blank" rel="noreferrer noopener">//www.gpg4win.org/download.html</a></p>
+
+
+
+<p>This is important because you want to make sure you are only downloading an official PGP client that has been inspected and approved by the community. Use of anything else could lead to drastic consequences, such as having messages intercepted or your identity stolen.</p>
+
+
+
+<p>Clicking on the big green button will bring you to a donation request screen.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="595" height="391" src="/wp-content/uploads/2021/05/2-1.png" alt="" class="wp-image-549" srcset="/wp-content/uploads/2021/05/2-1.png 595w, /wp-content/uploads/2021/05/2-1-300x197.png 300w" sizes="(max-width: 595px) 100vw, 595px" /></figure>
+
+
+
+<p>You can leave the developers a donation using PayPal, Bitcoin or bank transfer (the BTC option being best for privacy purposes, of course). You can also choose to donate zero. Click “Download” to begin downloading the client.</p>
+
+
+
+<p><strong>Note</strong>: If you don’t see the “Download” button, try enabling JavaScript in your Tor browser and then refresh the page.</p>
+
+
+
+<p>VI. Installing the PGP Client</p>
+
+
+
+<p>After you have download the Gpg4win installer, you’ll be brought to a “thank you for downloading…” screen and there will be a popup asking you if you want to install an external file type. Click “Download File” to continue, saving the client into your Downloads folder (or Tails USB drive if appropriate). The “thank you” screen will instruct you to “check the integrity of the installer” before proceeding, which is good for the thorough-minded but not entirely necessary as we have downloaded it from the official site.</p>
+
+
+
+<p>Following the rest of the steps offered on the screen, double-click your freshly downloaded Gpg4win installer to extract the contents and install Kleopatra. The setup screen looks like this:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="487" height="376" src="/wp-content/uploads/2021/05/3-1.png" alt="" class="wp-image-550" srcset="/wp-content/uploads/2021/05/3-1.png 487w, /wp-content/uploads/2021/05/3-1-300x232.png 300w" sizes="(max-width: 487px) 100vw, 487px" /></figure>
+
+
+
+<p>Click “Next” to continue. You will now be asked which components you wish to install, with Kleopatra and two other options checked by default.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="484" height="379" src="/wp-content/uploads/2021/05/4-1.png" alt="" class="wp-image-551" srcset="/wp-content/uploads/2021/05/4-1.png 484w, /wp-content/uploads/2021/05/4-1-300x235.png 300w" sizes="(max-width: 484px) 100vw, 484px" /></figure>
+
+
+
+<p>The two unchecked options are not essential and in all likelihood you will not need them. Press “Next” to continue. You will now be asked where you want to install the program. For this demonstration, we will be installing it in the default directory. After clicking to install, the screen will show installation progress, ending with “Installation Complete” displayed at the top. At this point, click “Next”. Installation will have finished, and you can choose to run Kleopatra now (set by default). Press “Finish” to open Kleopatra.</p>
+
+
+
+<h2>VII. Generating a PGP Key Pair</h2>
+
+
+
+<p>Luckily, Kleopatra features a pretty intuitive UI that makes setting up your first PGP key pair very simple. Right from the first time the program is launched, you can see the option to create a key pair in the center of the screen.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="457" height="256" src="/wp-content/uploads/2021/05/5-1.png" alt="" class="wp-image-552" srcset="/wp-content/uploads/2021/05/5-1.png 457w, /wp-content/uploads/2021/05/5-1-300x168.png 300w" sizes="(max-width: 457px) 100vw, 457px" /></figure>
+
+
+
+<p>Click on the “New Key Pair” button to get started. You’ll now be asked if you want to associate a username and email address to your key pair, but these are both optional.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="492" height="316" src="/wp-content/uploads/2021/05/6-1.png" alt="" class="wp-image-553" srcset="/wp-content/uploads/2021/05/6-1.png 492w, /wp-content/uploads/2021/05/6-1-300x193.png 300w" sizes="(max-width: 492px) 100vw, 492px" /></figure>
+
+
+
+<p>If you want to change the expiration date of your key from the default of two years after creation date, press the “Advanced Settings” button. Here you can also customize the strength of the key, but this is unnecessary.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="365" height="446" src="/wp-content/uploads/2021/05/7-1.png" alt="" class="wp-image-555" srcset="/wp-content/uploads/2021/05/7-1.png 365w, /wp-content/uploads/2021/05/7-1-246x300.png 246w" sizes="(max-width: 365px) 100vw, 365px" /></figure>
+
+
+
+<p>There is a chance older PGP clients may not be able to recognize keys generated using advanced options, and there is little to be gained by altering these options anyway, so we recommend against doing so.</p>
+
+
+
+<p>It is also possible to alter what permissions you want enabled with your key. Unchecking the “Valid until” box means that your key will never expire. After you have set the options for key generation the way you want them, press “OK”. Double-check your details, decide if you want to protect your key with a passphrase, then press “Create”.</p>
+
+
+
+<p>You will then see a message that says the key pair is being generated. If you have a slower computer, this task could take a couple of minutes to perform. When everything is finished, you will be presented with the following screen:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="487" height="337" src="/wp-content/uploads/2021/05/8-1.png" alt="" class="wp-image-556" srcset="/wp-content/uploads/2021/05/8-1.png 487w, /wp-content/uploads/2021/05/8-1-300x208.png 300w" sizes="(max-width: 487px) 100vw, 487px" /></figure>
+
+
+
+<p>The Fingerprint is a shortened version of your public key that cannot be used to encrypt messages but represents ownership of that key. Press the button that says “Make a Backup Of Your Key Pair”. This will create a file that you can save elsewhere and re-import into Kleopatra should something happen to your computer. After doing this, click “Finish”.</p>
+
+
+
+<p>You will now see the key you created listed as a “Certificate”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="795" height="287" src="/wp-content/uploads/2021/05/9-1.png" alt="" class="wp-image-557" srcset="/wp-content/uploads/2021/05/9-1.png 795w, /wp-content/uploads/2021/05/9-1-300x108.png 300w, /wp-content/uploads/2021/05/9-1-768x277.png 768w" sizes="(max-width: 795px) 100vw, 795px" /></figure>
+
+
+
+<h2>VIII. Finding Your PGP Public Key</h2>
+
+
+
+<p>Let’s say you want to copy/paste your public key onto a website profile so that others may send you encrypted messages. To do this, first double-click on the certificate whose public key you wish to view. In our case, we only have one entry, “Anonymous User”, so we will be clicking that one. This will bring up the details and options for that certificate.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="711" height="464" src="/wp-content/uploads/2021/05/10-1.png" alt="" class="wp-image-558" srcset="/wp-content/uploads/2021/05/10-1.png 711w, /wp-content/uploads/2021/05/10-1-300x196.png 300w" sizes="(max-width: 711px) 100vw, 711px" /></figure>
+
+
+
+<p>To find your public key, press the button that says “Export”. This will open a text box that contains the key necessary to encrypt messages.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="591" height="472" src="/wp-content/uploads/2021/05/11-2.png" alt="" class="wp-image-559" srcset="/wp-content/uploads/2021/05/11-2.png 591w, /wp-content/uploads/2021/05/11-2-300x240.png 300w" sizes="(max-width: 591px) 100vw, 591px" /></figure>
+
+
+
+<p>Select and copy the entire contents of this box, paste them into a blank text document and save it somewhere secure, along with your certificate backup, for instance. This is your PGP public key.</p>
+
+
+
+<h2>IX. How to Encrypt a Message</h2>
+
+
+
+<p>Now that we have generated a PGP key pair, let’s practice encrypting and decrypting something with it. Try to follow along with our example. The message for our example will be the following (minus quotation marks):</p>
+
+
+
+<p>“PGP is pretty good privacy.”</p>
+
+
+
+<p>First, copy the text in between the quotation marks into your clipboard. Next, go back to Kleopatra. Under the “Tools” menu, hover over “Clipboard”, and press “Encrypt”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="785" height="294" src="/wp-content/uploads/2021/05/12-1.png" alt="" class="wp-image-560" srcset="/wp-content/uploads/2021/05/12-1.png 785w, /wp-content/uploads/2021/05/12-1-300x112.png 300w, /wp-content/uploads/2021/05/12-1-768x288.png 768w" sizes="(max-width: 785px) 100vw, 785px" /></figure>
+
+
+
+<p>Next, click “Add Recipient”, click on your certificate to highlight it, and then click “OK”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="589" height="440" src="/wp-content/uploads/2021/05/13-1.png" alt="" class="wp-image-561" srcset="/wp-content/uploads/2021/05/13-1.png 589w, /wp-content/uploads/2021/05/13-1-300x224.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></figure>
+
+
+
+<p>After that, click “Next” to begin the encryption. The process will only take a couple of seconds and be followed by displaying a message that says “Encryption succeeded.” Press “OK”. The encrypted message has now been copied to your clipboard. Paste it in a new text document. It will look something like this:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="527" height="322" src="/wp-content/uploads/2021/05/14-1.png" alt="" class="wp-image-562" srcset="/wp-content/uploads/2021/05/14-1.png 527w, /wp-content/uploads/2021/05/14-1-300x183.png 300w" sizes="(max-width: 527px) 100vw, 527px" /></figure>
+
+
+
+<p>This is what an encrypted message looks like. It can only be decrypted by the owner of the private key which corresponds with the public key used to encrypt the message. In this case, that private key belongs to you, so we will use the message you just generated to practice decryption next.</p>
+
+
+
+<h2>X. How to Decrypt a Message</h2>
+
+
+
+<p>First, select and copy the entire contents of the encrypted message. This includes everything that was just output by Kleopatra, starting with the first dash and ending with the last. Go back to Kleopatra, click your PGP certificate once to highlight it, select the “Tools” menu, go down to “Clipboard”, and select “Decrypt/Verify”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="781" height="290" src="/wp-content/uploads/2021/05/15-1.png" alt="" class="wp-image-563" srcset="/wp-content/uploads/2021/05/15-1.png 781w, /wp-content/uploads/2021/05/15-1-300x111.png 300w, /wp-content/uploads/2021/05/15-1-768x285.png 768w" sizes="(max-width: 781px) 100vw, 781px" /></figure>
+
+
+
+<p>Kleopatra will now show the status of the decryption, followed by a message that says “All operations completed.” The decrypted message has now been copied to your clipboard. Press “Finish”.</p>
+
+
+
+<p>Next, paste the decrypted message beneath the encrypted one. If everything went correctly, you should see that you just pasted the words, “PGP is pretty good privacy.”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="532" height="362" src="/wp-content/uploads/2021/05/16-1.png" alt="" class="wp-image-564" srcset="/wp-content/uploads/2021/05/16-1.png 532w, /wp-content/uploads/2021/05/16-1-300x204.png 300w" sizes="(max-width: 532px) 100vw, 532px" /></figure>
+
+
+
+<p>And that’s it. You now know how to generate a PGP key pair, encrypt a message using a public key, and decrypt a message using a private key.</p>
+
+
+
+<p>Take caution in protecting the integrity of your key and Kleopatra client. Enabling the option to require a password to open the client is a good start. This can be done by right clicking the PGP certificate entry and selecting “Change Passphrase”. Note that from here you can also access the options to export your certificate, revoke your certification, back up and even print your private key – features which will likely be handy to any long-term PGP user.</p>
+
+
+
+<p>As a parting reminder, take extra special care when using advanced PGP utilities not associated with the Gpg4win utility suite as they sometimes contain bugs which can be used as attack vectors to intercept sensitive information or even your private key itself.</p>
+
+
+
+<p>PGP remains a staple among privacy enthusiasts and can be considered a reliable encryption technique. Whatever problems it causes the user, however, are beyond the problems of the technology itself. As with any technology, these problems can be reduced by having a working understanding of the tool being used, which is why we recommend practicing with Kleopatra a few times before attempting to put it to real-world use.</p>
+<p>The post <a rel="nofollow" href="/pgp-encryption/">A Guide to How to Use PGP: Generating Key Pairs, Encryption &#038; Decryption</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/pgp-encryption/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CRIME GOES GEEK: SAY HELLO TO THE DEEP WEB CRIME LORD</title>
+		<link>/crime-goes-geek-rise-deep-web-crime-lord/</link>
+					<comments>/crime-goes-geek-rise-deep-web-crime-lord/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Thu, 29 Dec 2016 13:10:45 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=158</guid>
+
+					<description><![CDATA[<p>The inexorable rise of Bitcoin has created a new class of villain: the Deep Web Crime Lord. The</p>
+<p>The post <a rel="nofollow" href="/crime-goes-geek-rise-deep-web-crime-lord/">CRIME GOES GEEK: SAY HELLO TO THE DEEP WEB CRIME LORD</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The inexorable rise of Bitcoin has created a new class of villain: the Deep Web Crime Lord.</p>
+
+
+
+<p>The Deep Web Crime Lord is a fresh phenomenon. To be sure, criminality is nothing new; heroes and villains are as old as humanity itself. But for most of human history, criminals were easily identifiable; politicians, warlords, gun-toting thugs, cartel bosses, mafia dons, and the like. But with the emergence of TOR and the deep web, crime has gone geek.</p>
+
+
+
+<p>How dangerous is the Deep Web Crime Lord? That depends entirely on the price of Bitcoin. Ross Ulbricht was the original Deep Web Crime Lord – the quintessential nerd with a virtual gun. In real life, he would run from a bar fight, but when he logged onto TOR he became a superhero-cold-blooded-killer, dishing out darknet justice and commanding the assassinations of rivals and snitches. On the deep web, hiring a hitman is as easy as ordering a hamburger.</p>
+
+
+
+<p>Ulbricht owned around fifty thousand Bitcoins at the time of his arrest, a street value of fifty million dollars today. Fifty million clams is a lot of dough, even by crime lord standards. Mafia dons don’t accumulate that much bling before they get shot or shipped upstate. Street gang leaders can only blink in awe – even the head of the Hells Angels or Crips would spread his legs for a guy like that. Only the cartel bosses do better, but the feds have neutered most of them. El Chapo might be one of the richest villains in the world, but he is also the most hunted.</p>
+
+
+
+<p>Ulbricht, had he not been caught, would have been far more dangerous than Mr. Shorty. Completely anonymous and hunkered down behind TOR, with his finger on the trigger of fifty million dollars in untraceable currency, he would have been any cop’s worst nightmare. Ross might be bending over for Bubba right now, but new – even more sinister – villains have popped up to take his place.</p>
+
+
+
+<p>Unlike traditional villainy, where an aspiring crime boss has to put some stink on his johnson to rise through the ranks, anyone can become a Deep Web Crime Lord. You don’t need balls like Tony Montana; you just need to learn some PHP.</p>
+
+
+
+<p>TOR is a veritable Pan’s Labyrinth of crime, but Alphabay stands out as the creme-de-la-creme of deep web bad boys.</p>
+
+
+
+<p>The Alphabay admin is stinking rich, sitting on more than fifty thousand Bitcoins. Alphabay is the most popular deep web market, serving up excellent drugs for years (so I’m told!), with volume far exceeding the original Silk Road. The owner of Alphabay is worth $100,000,000 or more – and nobody has any idea who he is. He might be the script kiddie next door. He might be the nerd you picked on in school, and now he’s got a Besa Mafia contract killer on your ass. He might be a badass Russian with an itchy trigger finger. He might be a Harlem gangsta with attitude. He might be a SpaceX geek sporting Google Glass, like the dweeb who founded Silk Road 2. ‘He’ might be a sixty-year-old grandma breaking bad. He might be, well, anyone. Anyone at all.</p>
+
+
+
+<p>And that’s the terrifying prospect for law enforcement. There is no way to point the satellites at this guy, no way to guess his next move, no way to bug his cellphone, no way to put the bracelets on his friends and make them talk, no way to waterboard his accomplices, no way at all to catch him.</p>
+
+
+
+<p>The feds aren’t used to this kind of powerlessness, and it must gnaw at their cop souls.</p>
+
+
+
+<p>At the moment, police have bigger fish to fry; terrorists, Chinese hackers, and Edward Snowden. The Deep Web Crime Lord is still a lamb poking a stick at a lion, but what happens when Bitcoin hits $10,000? The Deep Web Crime Lord grows up; a billionaire is born. At $100,000? He’s a ten billion dollar question mark. At $1,000,000? We got a hundred-billion dollar Dr. Evil on our hands.<br>All of the other Deep Web Crime Lords become bosses too; even run-of-the-mill darknet drug dealers morph into millionaires, even billionaires.</p>
+
+
+
+<p>As Bitcoin rises, the Deep Web Crime Lords emerge like popcorn in a pan.</p>
+
+
+
+<p>This is a never-before-seen phenomenon in the history of crime. A legion of Deep Web Crime Lords with treasure troves of untraceable currency, presumably no morals, beholden to no one, utterly anonymous, nurturing unfathomable intentions.</p>
+
+
+
+<p>Unlike traditional gangsters, the Deep Web Crime Lord cannot slip his Bitcoins into the banks, so he cannot be co-opted by the system, tamed, and merged into the establishment (like Bill Clinton). They will always be outsiders; lawless, unpredictable, menacing.</p>
+
+
+
+<p>The Deep Web Crime Lord has arrived. He is a new kind of villain playing a new kind of game on a new kind of playing field. As Bitcoin inexorably rises over the next few years, law enforcement will be doing the splits over an ever-widening abyss.</p>
+
+
+
+<p>The Deep Web Crime Lord may alter the balance of power not only in crime, but also in the socio-political-economic power structure throughout the world. Because that too is basically just crime.</p>
+<p>The post <a rel="nofollow" href="/crime-goes-geek-rise-deep-web-crime-lord/">CRIME GOES GEEK: SAY HELLO TO THE DEEP WEB CRIME LORD</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/crime-goes-geek-rise-deep-web-crime-lord/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Satoshi’s Million Dollar Baby: The Inevitability of Million Dollar Bitcoin</title>
+		<link>/inevitability-million-dollar-bitcoin/</link>
+					<comments>/inevitability-million-dollar-bitcoin/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Sun, 25 Dec 2016 12:06:50 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=147</guid>
+
+					<description><![CDATA[<p>Bitcoin is about to become Satoshi’s million dollar baby. When the enigmatic Satoshi Nakamoto gave birth to Bitcoin</p>
+<p>The post <a rel="nofollow" href="/inevitability-million-dollar-bitcoin/">Satoshi’s Million Dollar Baby: The Inevitability of Million Dollar Bitcoin</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Bitcoin is about to become Satoshi’s million dollar baby.</p>
+
+
+
+<p>When the enigmatic Satoshi Nakamoto gave birth to Bitcoin on the third of January, 2009, he had no idea of the cataclysmic, sweeping repercussions of his unique solution to the double-spend problem. Although he was neither a superhero programmer nor a superstar mathematician, he conjured up an idea that would change the world forever.</p>
+
+
+
+<p>The notion of million-dollar Bitcoin may seem damnably unrealistic, but consider that Bitcoin – trading for pennies in 2009 – has soared to almost $1000 USD. From a humble dollar to a cool g-note represents a 100,000% rise. From a thousand dollars to one million dollars is also a 100,000% rise. Bitcoin’s track record for spectacular appreciation is indisputable.</p>
+
+
+
+<p>The rise of Bitcoin has been anything but steady and reliable, with the price leaping and tumbling on the whim of an unfavorable news report, a hacked exchange, an abominable theft, or some ugly news out of China. Nonetheless, the trend has been inexorably upwards, and we have no reason to believe this trend will change. Here’s why …</p>
+
+
+
+<p>The supply of Bitcoin must eventually decrease. Once all twenty-one million coins have been mined, the inevitability of lost private keys will assure that the supply steadily decreases over time. The number twenty-one million is as mythical as it is magical; twenty-one million spendable Bitcoins will never exist. Period.</p>
+
+
+
+<p>Pity the fool who tossed away his hard drive with seven million dollars worth of Bitcoins on it. Those coins are gone forever, recoverable only by God. This type of tragedy occurs daily, though usually with a less epic loss. People forget their passwords, misplace their private keys, or fail to back up a hard drive before it crashes. The Bitcoin supply must go down, not up, once all twenty-one million coins have been mined.</p>
+
+
+
+<p>And the demand will go UP. Always up. As people discover new uses for the cryptocurrency – and as folks in the developing world come to realize its superiority to national currencies – adoption must increase over time. The so-called ‘mass adoption’ that early adopters predicted failed to materialize because, in the western world, Bitcoin is still a solution without a problem. It’s great for buying drugs on the deep web, but Paypal or credit card works fine for most online purchases. While Bitcoin is actually easier and safer to use than Paypal or credit card, the marginal benefits of cryptocurrency have not proven palpable enough to trigger the mass adoption that geeks expected back in 2013. Another impediment to mass adoption is stupidity. You don’t have to be smart to use Bitcoin, but there is still a prevailing attitude that only ‘nerds’ can figure it out. While that simply isn’t true, the slow pace of mainstream adoption surely has something to do with the average person’s lack of confidence in his or her ability to understand cryptocurrency. Once people realize that using Bitcoin is no more complicated than using Paypal or credit card, the pace of mainstream adoption will quicken.</p>
+
+
+
+<p>In the developing world, all bets are off. Credit cards are rare, and Paypal has blocked many accounts in India and Africa. Worse, huge numbers of people across th globe remain ‘unbanked’ because they lack access to safe, reliable banking services. Third-world banking is like the Hotel California; the money goes in, but it never comes out, which goes to show that the best way to rob a bank is to own one. The main impediment to immediate Bitcoin mass-adoption in the developing nations is lack of Internet access. As third-world Internet infrastructure improves, billions of folks in the developing world will flock to Bitcoin.</p>
+
+
+
+<p>So it is inevitable that we will see usage increase over time, with mass adoption occurring first in the developing world, where Bitcoin is most needed, and more slowly – but inexorably – in the western nations, where Bitcoin is already being used as a value-store alternative to gold.</p>
+
+
+
+<p>Many Bitcoins have already been removed from circulation, not just from loss of private keys but also from hoarding. As Bitcoin becomes more stable and legitimized, investors looking for a safe haven asset are increasingly turning to Bitcoin instead of gold, which is partly responsible for the price collapse of the yellow metal. Bitcoin is preferable to gold for a number of reasons, not least of which because it has gone up 100,000%! Gold has no hope of any comparable meteoric price increase; as the price of gold rises, gold supply rises with it, because of the incentive for miners to unearth more gold. As the price of Bitcoin rises, demand increases, but supply remains utterly unaffected by the bull market; nobody, not even Satoshi Nakamoto himself, can tinker with the supply of Bitoin. Furthermore, Bitcoin offers fungibility and utility, whereas gold languishes in a bank vault. Long-term Bitcoin investors (hoarders) drive the price up by stripping Bitcoins from the marketplace. As national currencies grow weaker and weaker, we can expect Bitcoin hoarding to increase, further boosting the price by reducing supply.</p>
+
+
+
+<p>It doesn’t take a genius or a disciple of Adam Smith to realize that as demand goes up, and supply remains constant or declines, the only possible price movement is towards the moon.</p>
+
+
+
+<p>The eight-hundred pound elephant in the room is the altcoin. Any altcoin. What happens if an altcoin, such as Monero or Zcash or Ethereum, replaces Bitcoin? This is never, ever going to happen. Bitcoin benefits from what economists call the ‘network effect,’ meaning that its value derives from the number of people using it. The infrastructure built around Bitcoin is already gargantuan, with hundreds of thousands of websites accepting BTC and Silicon Valley investors pouring money into Bitcoin startups. No other altcoin comes close, even though many of these coins actually work BETTER than Bitcoin. Many social networking sites also work better than Facebook (which, in my opinion, SUCKS), but Facebook has no rivals. Why? Network effect! Would you hop onto another social network if only a few thousand people in the world were using it? No. Hell no.</p>
+
+
+
+<p>Bitcoin benefits from a monstrous network effect, but its primacy derives from more than that. Bitcoin, like gold, has value because people want it. If the people who wanted Bitcoin suddenly decided they wanted some other altcoin, like Zcash, the value of Bitcoin would surely plummet – but the value of all cryptocurrencies would similarly plummet. Investor confidence in the entire cryptocurrency market would melt overnight if the majority of people simply flocked to ‘the next big thing.’</p>
+
+
+
+<p>So where is Bitcoin heading? Short-term price gains are anyone’s guess, but the long-term trend is UP, UP, UP. I have heard people throwing around the number one million for a future price of Bitcoin – Satoshi’s million dollar baby.</p>
+
+
+
+<p>John Law bragged to a friend that he had discovered the secret of the philosopher’s stone: ‘it is to make gold out of paper.’ Satoshi Nakamoto discovered the modern secret of the philosopher’s stone; to make gold out of bits.</p>
+<p>The post <a rel="nofollow" href="/inevitability-million-dollar-bitcoin/">Satoshi’s Million Dollar Baby: The Inevitability of Million Dollar Bitcoin</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/inevitability-million-dollar-bitcoin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin Cold Storage with Electrum</title>
+		<link>/bitcoin-cold-storage-electrum/</link>
+					<comments>/bitcoin-cold-storage-electrum/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2016 10:13:36 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=110</guid>
+
+					<description><![CDATA[<p>True Bitcoin Cold Storage! Today we will discuss best practices for Bitcoin cold storage using the Electrum wallet.</p>
+<p>The post <a rel="nofollow" href="/bitcoin-cold-storage-electrum/">Bitcoin Cold Storage with Electrum</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>True Bitcoin Cold Storage!</strong></p>
+
+
+
+<p>Today we will discuss best practices for Bitcoin cold storage using the Electrum wallet.</p>
+
+
+
+<p>While we recommend the anonymous <a href="https://web.archive.org/web/20170419144757/https://torwallet.com/" target="_blank" rel="noreferrer noopener">Bitco</a><a href="https://torwallet.com/" target="_blank" rel="noreferrer noopener">i</a><a href="https://web.archive.org/web/20170419144757/https://torwallet.com/" target="_blank" rel="noreferrer noopener">n wallet</a> TOR WALLET for storing small to medium amounts of BTC and moving BTC to the deep web, we prefer to store large amounts using the electrum wallet.  We will show you how to create TRUE cold storage, meaning it is impossible for any hacker to steal your Bitcoins. In fact, your Bitcoins will technically be ‘hanging in the blockchain’, never touching your actual electrum wallet. This is the most secure Bitcoin cold storage possible.</p>
+
+
+
+<p><strong>First you will need to download:</strong></p>
+
+
+
+<ol><li><strong><a href="https://electrum.org/#download" target="_blank" rel="noreferrer noopener">Electrum</a></strong></li><li><a href="https://web.archive.org/web/20170419144757/http://darknetmarkets.com/truecrypt-7-1a-safest-secure-encryption-program/"><strong>Truec</strong></a><strong><a href="https://web.archive.org/web/20170419144757/http://darknetmarkets.com/truecrypt-7-1a-safest-secure-encryption-program/" target="_blank" rel="noreferrer noopener">r</a></strong><a href="http://darknetmarkets.com/truecrypt-7-1a-safest-secure-encryption-program/" target="_blank" rel="noreferrer noopener"><strong>ypt 7.1a</strong></a></li><li><strong><a href="http://darknetmarkets.com/file-shredder/" target="_blank" rel="noreferrer noopener">File Era</a><a href="https://web.archive.org/web/20170419144757/http://darknetmarkets.com/file-shredder/">ser</a></strong></li></ol>
+
+
+
+<p>You also need:</p>
+
+
+
+<ol><li>Three or more USB flash drives</li><li>A Windows 7 PC</li></ol>
+
+
+
+<p><em>Ideally, you will need a computer running windows 7 which has never been online.&nbsp; In fact, for this type of thing, we recommend you buy a cheap, used Lenovo laptop for about $200 on Amazon and remove the wireless card.&nbsp; It is therefore impossible for this computer to ever get online.</em></p>
+
+
+
+<p><strong>BITCOIN COLD STORAGE WITH ELECTRUM</strong></p>
+
+
+
+<p><strong>STEP ONE:</strong> The first thing you need to do is download <a href="http://darknetmarkets.com/truecrypt-7-1a-safest-secure-encryption-program/" target="_blank" rel="noreferrer noopener">Truecrypt 7.1a</a> and encrypt at least 4 flash drives using a secure password (at least 100 bits of entropy). Learn <a href="http://darknetmarkets.com/choose-secure-password/" target="_blank" rel="noreferrer noopener">how to choose a secure password</a></p>
+
+
+
+<p><strong>STEP TWO:</strong> Create an electrum wallet on an air-gapped Windows 7 laptop, preferably a computer which has NEVER been online (therefore it cannot possibly be hosting a wallet stealer).&nbsp; Save this electrum wallet and the seed and the private keys to your encrypted flash drives.</p>
+
+
+
+<p><strong>STEP THREE:</strong> Save the ‘RECEIVE’ address anywhere you want on your home computer.</p>
+
+
+
+<p><strong>STEP FOUR:</strong> Hide the flash drive in different locations; give one to your dad, bury one in your garden in a waterproof storage case, etc.</p>
+
+
+
+<p><strong>STEP FIVE:</strong> Send bitcoin to the RECEIVE address for your cold storage wallet.</p>
+
+
+
+<p><strong>STEP SIX:</strong> Use a secure file shredder to erase the wallet files on the air-gapped computer OR (better yet!) remove the hard drive, smash it, and dispose of it.</p>
+
+
+
+<p>Note that it is IMPOSSIBLE for anyone to steal your Bitcoins because your private keys have never touched the internet!</p>
+
+
+
+<p>The Bitcoins you send to this wallet are ‘hanging’ in the blockchain.&nbsp; There is absolutely no way for an attacker to steal your coins.&nbsp; Enjoy the peace of mind!</p>
+<p>The post <a rel="nofollow" href="/bitcoin-cold-storage-electrum/">Bitcoin Cold Storage with Electrum</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/bitcoin-cold-storage-electrum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>File Shredder</title>
+		<link>/file-shredder/</link>
+					<comments>/file-shredder/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2016 10:16:46 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=117</guid>
+
+					<description><![CDATA[<p>Need to shred your files?  File Shredder is perfect for secure erasing sensitive files on your computer. It</p>
+<p>The post <a rel="nofollow" href="/file-shredder/">File Shredder</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Need to shred your files?  File Shredder is perfect for secure erasing sensitive files on your computer. It is fast, secure, and extremely easy to use. Download <a href="http://hotbitcoins.com/software/file_shredder_setup.exe" target="_blank" rel="noreferrer noopener">file shredder</a> here.</p>
+<p>The post <a rel="nofollow" href="/file-shredder/">File Shredder</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/file-shredder/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to Stay Anonymous On the Internet</title>
+		<link>/stay-anonymous-internet/</link>
+					<comments>/stay-anonymous-internet/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2016 10:15:17 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<guid isPermaLink="false">/?p=113</guid>
+
+					<description><![CDATA[<p>Virtual Private Network (VPN) – For the casual Internet user, who is not doing anything on the deep</p>
+<p>The post <a rel="nofollow" href="/stay-anonymous-internet/">How to Stay Anonymous On the Internet</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Virtual Private Network (VPN)</strong> – For the casual Internet user, who is not doing anything on the deep web at all, a simple VPN such as PrivateInternetAccess.com is perfectly sufficient.&nbsp; This ensures that all of your activity on the web is encrypted.</p>
+
+
+
+<p><strong>TOR –</strong> TOR bounces your connection around the world (three different locations) to make it almost impossible to trace your actual IP address. I say ‘almost impossible’ because the FBI has, indeed, tracked people down using browser de-cloaking tricks, such as zero-day exploits, which are known as ‘network investigative tools’ (NITs).&nbsp; Apparently they can use these tools without a warrant, installing them on deep web sites to unmask all visitors to those sites.&nbsp; This is why it is absolutely essential to keep your TOR browser up-to-date, but having an updated browser is still not guarantee against a zero-day exploit unmasking your IP.&nbsp; Therefore, we recommend you do not rely exclusively on TOR to stay safe.</p>
+
+
+
+<p><strong>TOR over VPN</strong> – This is the preferred security setup for most deep web users.&nbsp; First, sign up for a VPN account (PrivateInternetAccess is a good choice) and then connect to TOR.&nbsp; If your IP is de-cloaked by a zero-day exploit, the feds only get your VPN IP, which masks your real IP.&nbsp; For additional security using this setup, you might want to consider signing up for multiple VPN accounts at various VPN providers and rotating them, connecting to a different VPN each time you connect to the network.&nbsp; You might also consider spoofing your MAC address because the VPN provider can see it, and it might be vulnerable to a TOR exploit.&nbsp; For most users, though, a simple setup of PrivateInternetAccess and TOR is sufficient.</p>
+
+
+
+<p><strong>VPN over TOR @ a Coffeeshop</strong> – For the truly paranoid, go to your favorite coffeeshop and use this setup.&nbsp; If the world ends and the attacker gets your real IP, it is only traceable to a coffeeshop.&nbsp; If the coffeeshop has a security camera, they usually only store security tapes for about a week.&nbsp; To be safe, rotate between different coffeeshops and wear a disguise.</p>
+
+
+
+<p><strong>VPN over TOR over Proxy</strong> – You can configure a socks5 proxy to run over TOR.&nbsp; This way, the websites you visit only see your static socks5 proxy IP, and have no idea you are using TOR.&nbsp; This is tricky to configure but we do have a tutorial for it!</p>
+
+
+
+<p><strong>VPN over TOR over Proxy</strong> <strong>@ Coffeeshop</strong> – Nobody will ever, ever find you.&nbsp; If you are using this kind of security setup, you must be doing something <em>really bad! </em><strong>Co<em>ngratulations, you have achieved ARCH VILLAIN status!</em></strong></p>
+<p>The post <a rel="nofollow" href="/stay-anonymous-internet/">How to Stay Anonymous On the Internet</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/stay-anonymous-internet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:04:12 by W3 Total Cache
+-->

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cannazon &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/cannazon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Wed, 05 Jan 2022 14:52:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>cannazon &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Study: Multisig and Direct Pay Vendors Susceptible to Privacy Attack</title>
+		<link>/study-multisig-and-direct-pay-vendors-susceptible-to-privacy-attack/</link>
+					<comments>/study-multisig-and-direct-pay-vendors-susceptible-to-privacy-attack/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Wed, 05 Jan 2022 14:52:31 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[cannazon]]></category>
+		<category><![CDATA[Cryptonia]]></category>
+		<guid isPermaLink="false">/?p=1060</guid>
+
+					<description><![CDATA[<p>A new research study accepted in this year’s Privacy Enhancing Technologies Symposium may prove to be the final</p>
+<p>The post <a rel="nofollow" href="/study-multisig-and-direct-pay-vendors-susceptible-to-privacy-attack/">Study: Multisig and Direct Pay Vendors Susceptible to Privacy Attack</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A new research <a href="https://www.researchgate.net/publication/356421241_If_You_Like_Me_Please_Don't_Like_Me_Inferring_Vendor_Bitcoin_Addresses_From_Positive_Reviews" target="_blank" rel="noreferrer noopener nofollow">study</a> accepted in this year’s <em>Privacy Enhancing Technologies Symposium</em> may prove to be the final bullet in Bitcoin as a currency supported by darknet markets. For the past few years, the dark web had already been shifting toward privacy coin Monero, but recent revelations regarding the ease with which certain vendor Bitcoin addresses can be identified leave the classic crypto shockingly ill-fitted for continued market acceptance.</p>
+
+
+
+<p>The study, which first appeared in this month’s issue of <em>Proceedings on Privacy Enhancing Technologies, Volume 2022</em>, was conducted by three privacy researchers at the University of Mannheim, Germany, and involved pouring over thousands of product reviews posted on two (now-defunct) darknet markets, <em>Cannazon</em> and <em>Cryptonia</em>. In all, the study managed to identify “potential payout addresses” for 308 <em>Cryptonia</em> vendors and 45 <em>Cannazon</em> vendors.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="563" height="228" src="/wp-content/uploads/2022/01/1.png" alt="" class="wp-image-1062" srcset="/wp-content/uploads/2022/01/1.png 563w, /wp-content/uploads/2022/01/1-300x121.png 300w" sizes="(max-width: 563px) 100vw, 563px" /><figcaption><em>Cannazon payment flow chart for the study’s model creation (Figure 21).</em></figcaption></figure>
+
+
+
+<p>The researchers developed models based on the rules of the markets and filtered the blockchain for transactions that fit the characteristics of market payments to vendors, managing to match payments with customer reviews in several instances. They found over 80% of reviews from the two markets were posted on the same day that order funds were released to the vendor.</p>
+
+
+
+<p>The authors suggest the behavior of reviewers makes it especially easy to identify BTC addresses of vendors at markets that support Direct Deposit or Multisig Escrow payments (as employed by <em>Cryptonia</em> and <em>Cannazon</em>, respectively). They also noted that markets using these methods thereby put vendors at risk for attack by an adversary, whether it be law enforcement or the competition.</p>
+
+
+
+<p>“In particular, transferring the funds directly from the escrow address to the vendor payout address results in a single point of attack, which can be easily exploited by attackers,” the authors noted. “In this regard, wallet-based centralized transfer markets could provide higher degrees of privacy as they allow vendors to withdraw their funds in chunks of arbitrary values completely unrelated to the prices of their items.”</p>
+
+
+
+<p>Though the benefits of using Monero (XMR) over Bitcoin (BTC) as a currency on darknet markets have long been apparent, the results of the study expose the true level of risk involved when using Bitcoin on a market.</p>
+
+
+
+<p>The researchers added the following caveat to the results of their investigation:</p>
+
+
+
+<p>“<em>While the findings appear to be plausible, we cannot state with absolute certainty that the addresses found by our attack do in fact constitute addresses of Cryptonia Market or Cannazon vendors.”</em></p>
+
+
+
+<p>They also proffered theoretical advice as to what darknet markets could do to potentially mitigate the shortfalls inherent in accepting BTC as a method of payment:</p>
+
+
+
+<p>“<em>While security by obscurity is not a reliable security paradigm, releasing as little information on the payment system as possible seems to be advisable, as attacks become easier the more a-prior knowledge an attacker has…”</em></p>
+<p>The post <a rel="nofollow" href="/study-multisig-and-direct-pay-vendors-susceptible-to-privacy-attack/">Study: Multisig and Direct Pay Vendors Susceptible to Privacy Attack</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/study-multisig-and-direct-pay-vendors-susceptible-to-privacy-attack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cannazon Closure Follows White House Market Example</title>
+		<link>/cannazon-closure-follows-white-house-market-example/</link>
+					<comments>/cannazon-closure-follows-white-house-market-example/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Wed, 24 Nov 2021 17:45:58 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[cannazon]]></category>
+		<category><![CDATA[darknet market]]></category>
+		<guid isPermaLink="false">/?p=977</guid>
+
+					<description><![CDATA[<p>One of the darknet’s most well-known markets for marijuana and related products announced its impending closure on Tuesday.</p>
+<p>The post <a rel="nofollow" href="/cannazon-closure-follows-white-house-market-example/">Cannazon Closure Follows White House Market Example</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>One of the darknet’s most well-known markets for marijuana and related products announced its impending closure on Tuesday. <a href="/directory/listing/cannazon-market/" target="_blank" rel="noreferrer noopener">Cannazon</a>, which had been in operation since 2018, was considered to be one of the premiere darknet markets for cannabis products across Europe and the UK. The closure was announced on <a href="http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/post/a093b7eaa7a98bd83cc0" target="_blank" rel="noreferrer noopener">Dread</a> where the market had maintained a presence for years.</p>
+
+
+
+<p>The top of the main market screen currently offers the following message:</p>
+
+
+
+<p>“We are retiring. No exit scam. All orders finalized. All vendors got their money.”</p>
+
+
+
+<p>Below this is a PGP-signed messaged dated November 23<sup>rd</sup> going into an explanation of the closure, which managed to catch many users off guard. “Everyone knew that this day would come,” reads the message. “No market will be here forever. We are officially retiring.”</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="607" height="160" src="/wp-content/uploads/2021/11/1-3.png" alt="" class="wp-image-979" srcset="/wp-content/uploads/2021/11/1-3.png 607w, /wp-content/uploads/2021/11/1-3-300x79.png 300w" sizes="(max-width: 607px) 100vw, 607px" /></figure>
+
+
+
+<p>Cannazon suffered a spate of DDOS attacks during the last few months which, at times, left the market down for over 24 hours at a time. The most recent attack, which concluded just nine days ago, left the market partially offline, with some components inaccessible to users. All but one market URL was usable, and the market’s community began to suspect plans of an exit scam were afoot. Rather than restore the market to its full functionality, the Cannazon admins apparently decided the time to quit was right, following in the footsteps of White House Market’s graceful August exit.</p>
+
+
+
+<p>In the week preceding closure, Cannazon had over 4,000 product listings across hundreds of vendors, with thousands of buyers active at least monthly.</p>
+
+
+
+<p>Complete with how-to manuals, harm reduction guides and a helpful staff, Cannazon set standards for future darknet markets, supporting both Bitcoin (BTC) and Monero (XMR), offering multisig escrow for BTC payments, and allowing users to browse the market without having to log in. Their user-friendliness and site design even earned the praise of security researchers familiar with the darknet market scene.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Cannazon is a cannabis-only market and has the friendliest user guides I&#39;ve seen. Will their narrow approach draw less heat? Bitcoin and Monero are accepted. (none of these tweets are endorsements, this is for researchers only) <a href="https://t.co/Rznj2EQoGZ">pic.twitter.com/Rznj2EQoGZ</a></p>&mdash; dark.fail (@DarkDotFail) <a href="https://twitter.com/DarkDotFail/status/1299445257864503296?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>“Since our first days it was pretty clear for us that we will never do an exit scam like some other markets,” read the PGP-signed message posted on Cannazon. “The massive DDOS attack was a very good chance to lower the number of orders and we decided to keep the market partially offline afterwards,” it explained, concluding with upbeat wishes for the future:</p>
+
+
+
+<p>“We hope that every one of you finds some good alternative for buying or selling cannabis products. Moreover, we hope that other markets will follow this path and consider retiring gracefully.”</p>
+<p>The post <a rel="nofollow" href="/cannazon-closure-follows-white-house-market-example/">Cannazon Closure Follows White House Market Example</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/cannazon-closure-follows-white-house-market-example/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:11:56 by W3 Total Cache
+-->

@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pgp guide &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/pgp-guide/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Sun, 23 May 2021 10:58:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>pgp guide &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Guide to How to Use PGP: Generating Key Pairs, Encryption &#038; Decryption</title>
+		<link>/pgp-encryption/</link>
+					<comments>/pgp-encryption/#comments</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Sun, 23 May 2021 09:58:00 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[kleopatra]]></category>
+		<category><![CDATA[pgp]]></category>
+		<category><![CDATA[pgp guide]]></category>
+		<guid isPermaLink="false">/?p=130</guid>
+
+					<description><![CDATA[<p>In this guide we explain everything you need to know about how to get started using PGP encryption.</p>
+<p>The post <a rel="nofollow" href="/pgp-encryption/">A Guide to How to Use PGP: Generating Key Pairs, Encryption &#038; Decryption</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In this guide we explain everything you need to know about how to get started using PGP encryption. We walk you through key pair generation, message encryption and message decryption in a step-by-step manner, giving you pointers on how to protect your privacy along the way.</p>
+
+
+
+<h2>I. What is PGP?</h2>
+
+
+
+<p>PGP is short for “pretty good privacy” and refers to an encryption program used for communication and data. In the cryptocurrency world, PGP is used as a source of identity verification and a way for otherwise anonymous parties to confirm that they are communicating with one another. It is also an increasingly common way for anyone to authenticate a message to the outside world; especially public figures who are prone to impersonation.</p>
+
+
+
+<h2>II. How Does PGP Work?</h2>
+
+
+
+<p>PGP encryption works by serially combining several cryptographic techniques together, including hashing, data compression, symmetric-key cryptography, and lastly public-key cryptography. Users generate a key pair, consisting of the following:</p>
+
+
+
+<ul><li><strong>Public key</strong> (think of this as a username or email address which others will use to encrypt messages to be read by you)</li><li><strong>Private key</strong> (think of this as the password needed to decrypt the messages sent to you by others)</li></ul>
+
+
+
+<p>To send a PGP encrypted message, the sender encrypts the text they wish to send using the recipient’s public key using a PGP client like Kleopatra. Public keys can be stored for easy reference in the client and the encryption can be done with just a few clicks. The output of the encryption process is then imported by the recipient, who uses their private key to decrypt the text.</p>
+
+
+
+<h2>III. How secure is PGP encryption?</h2>
+
+
+
+<p>It&#8217;s been 30 years since PGP was first released as an open-sourced, non-licensed project, and in that time, no one has ever managed to “crack” or reverse-engineer the encryption. Accordingly, no one has managed to decrypt a PGP-encrypted message without the corresponding private key. The cryptography behind PGP is solid and failures emanating from its use stem from human error. There have been some poorly configured PGP and email clients that leaked key data during sophisticated phishing incidents in the past, but if you stick with a trusted client and maintain good security practices you should have no problems with your PGP experience.</p>
+
+
+
+<h2>IV. Before Getting Started: Privacy Considerations</h2>
+
+
+
+<p>First things first: Decide what you plan to achieve with PGP, and what degree of privacy you are ultimately seeking. This is an important decision because it affects what you should be doing before you even download privacy tools like PGP utilities. Consider whose attention you are hoping to evade. If this is your internet service provider (ISP), Google or anyone else potentially monitoring your online movement, you will want to download the software using the <a href="https://www.torproject.org/download/" target="_blank" rel="noreferrer noopener">Tor browser</a>. If this isn’t such a big deal to you, downloading a PGP utility from a regular browser is fine and will not lessen your security cryptographically.</p>
+
+
+
+<p>In terms of privacy, taking things a step further would involve breaking the connection that you ever downloaded Tor (or any PGP utility) in the first place. Even though your ISP does not know what websites you are visiting when you connect to the Tor network, they can see when you do connect to the network. To avoid this, you can download Tor using the <a href="https://tails.boum.org/install/index.en.html" target="_blank" rel="noreferrer noopener">TailsOS</a>, which is a Linux-based operating system that runs on a USB drive and forces all internet traffic through the Tor network. Tails also includes handy PGP tools for easily encrypting and decrypting messages, which we show you how to do in this guide.</p>
+
+
+
+<h2>V. Downloading a PGP Client</h2>
+
+
+
+<p>We recommend using the Kleopatra client, which is open-source and relatively easy to use. It is published by <a href="https://www.openpgp.org/software/kleopatra/" target="_blank" rel="noreferrer noopener">OpenPGP</a>, a non-profit organization for the development and standardization of PGP protocols. It is part of a suite of open-source PGP utilities called <a href="https://dev.gnupg.org/source/gpg4win/" target="_blank" rel="noreferrer noopener">Gpg4win</a>.</p>
+
+
+
+<p>If you are running Linux, download Kleopatra <a href="https://www.kde.org/applications/utilities/kleopatra/" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<p>If you are running Windows, download Gpg4win <a href="https://www.gpg4win.org/download.html" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<p>For the purposes of this guide, we will be demonstrating the Windows installation. The download page should look something like this:</p>
+
+
+
+<figure class="wp-block-image size-large"><img width="654" height="464" src="/wp-content/uploads/2021/05/1.png" alt="" class="wp-image-548" srcset="/wp-content/uploads/2021/05/1.png 654w, /wp-content/uploads/2021/05/1-300x213.png 300w" sizes="(max-width: 654px) 100vw, 654px" /></figure>
+
+
+
+<p>If it doesn’t, double-check to make sure you are at the right URL, which should read: <a href="https://www.gpg4win.org/download.html">https:</a><a href="https://www.gpg4win.org/download.html" target="_blank" rel="noreferrer noopener">//www.gpg4win.org/download.html</a></p>
+
+
+
+<p>This is important because you want to make sure you are only downloading an official PGP client that has been inspected and approved by the community. Use of anything else could lead to drastic consequences, such as having messages intercepted or your identity stolen.</p>
+
+
+
+<p>Clicking on the big green button will bring you to a donation request screen.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="595" height="391" src="/wp-content/uploads/2021/05/2-1.png" alt="" class="wp-image-549" srcset="/wp-content/uploads/2021/05/2-1.png 595w, /wp-content/uploads/2021/05/2-1-300x197.png 300w" sizes="(max-width: 595px) 100vw, 595px" /></figure>
+
+
+
+<p>You can leave the developers a donation using PayPal, Bitcoin or bank transfer (the BTC option being best for privacy purposes, of course). You can also choose to donate zero. Click “Download” to begin downloading the client.</p>
+
+
+
+<p><strong>Note</strong>: If you don’t see the “Download” button, try enabling JavaScript in your Tor browser and then refresh the page.</p>
+
+
+
+<p>VI. Installing the PGP Client</p>
+
+
+
+<p>After you have download the Gpg4win installer, you’ll be brought to a “thank you for downloading…” screen and there will be a popup asking you if you want to install an external file type. Click “Download File” to continue, saving the client into your Downloads folder (or Tails USB drive if appropriate). The “thank you” screen will instruct you to “check the integrity of the installer” before proceeding, which is good for the thorough-minded but not entirely necessary as we have downloaded it from the official site.</p>
+
+
+
+<p>Following the rest of the steps offered on the screen, double-click your freshly downloaded Gpg4win installer to extract the contents and install Kleopatra. The setup screen looks like this:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="487" height="376" src="/wp-content/uploads/2021/05/3-1.png" alt="" class="wp-image-550" srcset="/wp-content/uploads/2021/05/3-1.png 487w, /wp-content/uploads/2021/05/3-1-300x232.png 300w" sizes="(max-width: 487px) 100vw, 487px" /></figure>
+
+
+
+<p>Click “Next” to continue. You will now be asked which components you wish to install, with Kleopatra and two other options checked by default.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="484" height="379" src="/wp-content/uploads/2021/05/4-1.png" alt="" class="wp-image-551" srcset="/wp-content/uploads/2021/05/4-1.png 484w, /wp-content/uploads/2021/05/4-1-300x235.png 300w" sizes="(max-width: 484px) 100vw, 484px" /></figure>
+
+
+
+<p>The two unchecked options are not essential and in all likelihood you will not need them. Press “Next” to continue. You will now be asked where you want to install the program. For this demonstration, we will be installing it in the default directory. After clicking to install, the screen will show installation progress, ending with “Installation Complete” displayed at the top. At this point, click “Next”. Installation will have finished, and you can choose to run Kleopatra now (set by default). Press “Finish” to open Kleopatra.</p>
+
+
+
+<h2>VII. Generating a PGP Key Pair</h2>
+
+
+
+<p>Luckily, Kleopatra features a pretty intuitive UI that makes setting up your first PGP key pair very simple. Right from the first time the program is launched, you can see the option to create a key pair in the center of the screen.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="457" height="256" src="/wp-content/uploads/2021/05/5-1.png" alt="" class="wp-image-552" srcset="/wp-content/uploads/2021/05/5-1.png 457w, /wp-content/uploads/2021/05/5-1-300x168.png 300w" sizes="(max-width: 457px) 100vw, 457px" /></figure>
+
+
+
+<p>Click on the “New Key Pair” button to get started. You’ll now be asked if you want to associate a username and email address to your key pair, but these are both optional.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="492" height="316" src="/wp-content/uploads/2021/05/6-1.png" alt="" class="wp-image-553" srcset="/wp-content/uploads/2021/05/6-1.png 492w, /wp-content/uploads/2021/05/6-1-300x193.png 300w" sizes="(max-width: 492px) 100vw, 492px" /></figure>
+
+
+
+<p>If you want to change the expiration date of your key from the default of two years after creation date, press the “Advanced Settings” button. Here you can also customize the strength of the key, but this is unnecessary.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="365" height="446" src="/wp-content/uploads/2021/05/7-1.png" alt="" class="wp-image-555" srcset="/wp-content/uploads/2021/05/7-1.png 365w, /wp-content/uploads/2021/05/7-1-246x300.png 246w" sizes="(max-width: 365px) 100vw, 365px" /></figure>
+
+
+
+<p>There is a chance older PGP clients may not be able to recognize keys generated using advanced options, and there is little to be gained by altering these options anyway, so we recommend against doing so.</p>
+
+
+
+<p>It is also possible to alter what permissions you want enabled with your key. Unchecking the “Valid until” box means that your key will never expire. After you have set the options for key generation the way you want them, press “OK”. Double-check your details, decide if you want to protect your key with a passphrase, then press “Create”.</p>
+
+
+
+<p>You will then see a message that says the key pair is being generated. If you have a slower computer, this task could take a couple of minutes to perform. When everything is finished, you will be presented with the following screen:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="487" height="337" src="/wp-content/uploads/2021/05/8-1.png" alt="" class="wp-image-556" srcset="/wp-content/uploads/2021/05/8-1.png 487w, /wp-content/uploads/2021/05/8-1-300x208.png 300w" sizes="(max-width: 487px) 100vw, 487px" /></figure>
+
+
+
+<p>The Fingerprint is a shortened version of your public key that cannot be used to encrypt messages but represents ownership of that key. Press the button that says “Make a Backup Of Your Key Pair”. This will create a file that you can save elsewhere and re-import into Kleopatra should something happen to your computer. After doing this, click “Finish”.</p>
+
+
+
+<p>You will now see the key you created listed as a “Certificate”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="795" height="287" src="/wp-content/uploads/2021/05/9-1.png" alt="" class="wp-image-557" srcset="/wp-content/uploads/2021/05/9-1.png 795w, /wp-content/uploads/2021/05/9-1-300x108.png 300w, /wp-content/uploads/2021/05/9-1-768x277.png 768w" sizes="(max-width: 795px) 100vw, 795px" /></figure>
+
+
+
+<h2>VIII. Finding Your PGP Public Key</h2>
+
+
+
+<p>Let’s say you want to copy/paste your public key onto a website profile so that others may send you encrypted messages. To do this, first double-click on the certificate whose public key you wish to view. In our case, we only have one entry, “Anonymous User”, so we will be clicking that one. This will bring up the details and options for that certificate.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="711" height="464" src="/wp-content/uploads/2021/05/10-1.png" alt="" class="wp-image-558" srcset="/wp-content/uploads/2021/05/10-1.png 711w, /wp-content/uploads/2021/05/10-1-300x196.png 300w" sizes="(max-width: 711px) 100vw, 711px" /></figure>
+
+
+
+<p>To find your public key, press the button that says “Export”. This will open a text box that contains the key necessary to encrypt messages.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="591" height="472" src="/wp-content/uploads/2021/05/11-2.png" alt="" class="wp-image-559" srcset="/wp-content/uploads/2021/05/11-2.png 591w, /wp-content/uploads/2021/05/11-2-300x240.png 300w" sizes="(max-width: 591px) 100vw, 591px" /></figure>
+
+
+
+<p>Select and copy the entire contents of this box, paste them into a blank text document and save it somewhere secure, along with your certificate backup, for instance. This is your PGP public key.</p>
+
+
+
+<h2>IX. How to Encrypt a Message</h2>
+
+
+
+<p>Now that we have generated a PGP key pair, let’s practice encrypting and decrypting something with it. Try to follow along with our example. The message for our example will be the following (minus quotation marks):</p>
+
+
+
+<p>“PGP is pretty good privacy.”</p>
+
+
+
+<p>First, copy the text in between the quotation marks into your clipboard. Next, go back to Kleopatra. Under the “Tools” menu, hover over “Clipboard”, and press “Encrypt”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="785" height="294" src="/wp-content/uploads/2021/05/12-1.png" alt="" class="wp-image-560" srcset="/wp-content/uploads/2021/05/12-1.png 785w, /wp-content/uploads/2021/05/12-1-300x112.png 300w, /wp-content/uploads/2021/05/12-1-768x288.png 768w" sizes="(max-width: 785px) 100vw, 785px" /></figure>
+
+
+
+<p>Next, click “Add Recipient”, click on your certificate to highlight it, and then click “OK”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="589" height="440" src="/wp-content/uploads/2021/05/13-1.png" alt="" class="wp-image-561" srcset="/wp-content/uploads/2021/05/13-1.png 589w, /wp-content/uploads/2021/05/13-1-300x224.png 300w" sizes="(max-width: 589px) 100vw, 589px" /></figure>
+
+
+
+<p>After that, click “Next” to begin the encryption. The process will only take a couple of seconds and be followed by displaying a message that says “Encryption succeeded.” Press “OK”. The encrypted message has now been copied to your clipboard. Paste it in a new text document. It will look something like this:</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="527" height="322" src="/wp-content/uploads/2021/05/14-1.png" alt="" class="wp-image-562" srcset="/wp-content/uploads/2021/05/14-1.png 527w, /wp-content/uploads/2021/05/14-1-300x183.png 300w" sizes="(max-width: 527px) 100vw, 527px" /></figure>
+
+
+
+<p>This is what an encrypted message looks like. It can only be decrypted by the owner of the private key which corresponds with the public key used to encrypt the message. In this case, that private key belongs to you, so we will use the message you just generated to practice decryption next.</p>
+
+
+
+<h2>X. How to Decrypt a Message</h2>
+
+
+
+<p>First, select and copy the entire contents of the encrypted message. This includes everything that was just output by Kleopatra, starting with the first dash and ending with the last. Go back to Kleopatra, click your PGP certificate once to highlight it, select the “Tools” menu, go down to “Clipboard”, and select “Decrypt/Verify”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="781" height="290" src="/wp-content/uploads/2021/05/15-1.png" alt="" class="wp-image-563" srcset="/wp-content/uploads/2021/05/15-1.png 781w, /wp-content/uploads/2021/05/15-1-300x111.png 300w, /wp-content/uploads/2021/05/15-1-768x285.png 768w" sizes="(max-width: 781px) 100vw, 781px" /></figure>
+
+
+
+<p>Kleopatra will now show the status of the decryption, followed by a message that says “All operations completed.” The decrypted message has now been copied to your clipboard. Press “Finish”.</p>
+
+
+
+<p>Next, paste the decrypted message beneath the encrypted one. If everything went correctly, you should see that you just pasted the words, “PGP is pretty good privacy.”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="532" height="362" src="/wp-content/uploads/2021/05/16-1.png" alt="" class="wp-image-564" srcset="/wp-content/uploads/2021/05/16-1.png 532w, /wp-content/uploads/2021/05/16-1-300x204.png 300w" sizes="(max-width: 532px) 100vw, 532px" /></figure>
+
+
+
+<p>And that’s it. You now know how to generate a PGP key pair, encrypt a message using a public key, and decrypt a message using a private key.</p>
+
+
+
+<p>Take caution in protecting the integrity of your key and Kleopatra client. Enabling the option to require a password to open the client is a good start. This can be done by right clicking the PGP certificate entry and selecting “Change Passphrase”. Note that from here you can also access the options to export your certificate, revoke your certification, back up and even print your private key – features which will likely be handy to any long-term PGP user.</p>
+
+
+
+<p>As a parting reminder, take extra special care when using advanced PGP utilities not associated with the Gpg4win utility suite as they sometimes contain bugs which can be used as attack vectors to intercept sensitive information or even your private key itself.</p>
+
+
+
+<p>PGP remains a staple among privacy enthusiasts and can be considered a reliable encryption technique. Whatever problems it causes the user, however, are beyond the problems of the technology itself. As with any technology, these problems can be reduced by having a working understanding of the tool being used, which is why we recommend practicing with Kleopatra a few times before attempting to put it to real-world use.</p>
+<p>The post <a rel="nofollow" href="/pgp-encryption/">A Guide to How to Use PGP: Generating Key Pairs, Encryption &#038; Decryption</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/pgp-encryption/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:08:55 by W3 Total Cache
+-->

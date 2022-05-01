@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DrDream Market Admin &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/drdream-market-admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Sun, 16 May 2021 09:09:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>DrDream Market Admin &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Interview with SpeedStepper, the Dream Market Admin</title>
+		<link>/interview-with-dream-market-admin-speedstepper/</link>
+					<comments>/interview-with-dream-market-admin-speedstepper/#comments</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Thu, 17 May 2018 08:49:00 +0000</pubDate>
+				<category><![CDATA[Interviews]]></category>
+		<category><![CDATA[Darknet Market Interview]]></category>
+		<category><![CDATA[DrDream Market Admin]]></category>
+		<category><![CDATA[Dream Market]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[SpeedStepper]]></category>
+		<guid isPermaLink="false">/?p=89</guid>
+
+					<description><![CDATA[<p>Dream Market, is a darknet market that’s been online since 2013, making Dream Market the longest running darknet</p>
+<p>The post <a rel="nofollow" href="/interview-with-dream-market-admin-speedstepper/">Interview with SpeedStepper, the Dream Market Admin</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>Dream Market</strong>, is a darknet market that’s been online since 2013, making Dream Market the longest running darknet market. In the summer of 2017 when AlphaBay and Hansa were taken offline by Law Enforcement, most of the refugee users from those sites chose Dream Market as their primary alternative marketplace. This quickly made <a href="https://web.archive.org/web/20190226071002//dream-market/" target="_blank" rel="noreferrer noopener">Dream Mar</a><a href="/dream-market/" target="_blank" rel="noreferrer noopener">k</a><a href="https://web.archive.org/web/20190226071002//dream-market/" target="_blank" rel="noreferrer noopener">et</a> the largest, most popular, and most successful darknet markets, a title they continue to hold.</p>
+
+
+
+<p>This week DarknetMarkets.com reached out to the founder and administrator of <a href="/directory/listing/dream-market" target="_blank" rel="noreferrer noopener">Dream Market</a>&nbsp;who is better known as SpeedStepper or Speedy. SpeedStepper was kind enough to give us the privilege to interview them, the Admin of the largest Darknet Market. We thank SpeedStepper for giving us that rare opportunity.</p>
+
+
+
+<h2 class="has-text-color" style="color:#ff0010">Dream Market Interview</h2>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>Who are you, and what is it that you do?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>They call me Speedstepper, everyone calls me “speedy” for short, I am the frontman of the famous and longest running in history Dream Market.</p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>What is life like as the admin of the world’s most successful Darknet Market?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>Some feel incredibly successful, and I am really proud of what we have created and what we achieved, I am a very humble and ambitious person, I believe we have contributed into making the world a better and safer place.</p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>How did Dream Market start?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>Its all started with a dream obviously that our team made into a reality, bitcoin and tor married each other and now here we are <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>Did you expect Dream Market would one day become the largest and longest running market?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>Once I am determined and I have a goal, I will do anything and everything to achieve it, I have been like that since the day I was born.</p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>In regards to the http://194.9.94.82/ajax?t=chat&amp;c=buddies “Server IP Leak”. I looked into this pretty extensively. While people started whining about this in 2017, suggesting Dream Market was compromised by LE, I know for a fact that is not true. That string of code containing an IP address has been exposed since March 26, </strong>2015<strong> and appears to be from an issue involving an update to Dream Market’s old messaging system. Why not just announce it instead of letting conspiracy theorists slip deeper into their paranoia, and why not just delete the useless string of code?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>This IP is not up to date anymore. Our security is for us to take care of, we will always have rumours and people will have stories to tell, but rest assured Dream Market is and always will be Safe!</p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>I think it’s pretty great that you continue to roll out new features that improve your user’s security, like the recent update that shows recent login activity. Do you have any new features in the works or any plans on ever updating Dream Market’s design?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>I have a set hours on a daily basis that i spend time my time wisely brainstorming new ideas and projects to make Dream Market even better and more secure then what it is now.</p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>Do you ever talk with other darknet market admins or primarily keep to the Dream Market crew?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>I would love to communicate with admins but unfortunately that happens infrequently.</p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>Out of the new darknet markets, which one do you think will make it all the way into 2019 before exit scamming?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>Honestly I can only speak on my behalf we are here to stay forever, I have seen a lot of events happen over the past years I wish every other Market operated like we do which is in an honest and safely matter but I do try and have some faith in the new emerging markets, but I cannot predict that on there behalf unfortunately.</p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>When will Dream Market finally embrace the only cryptocurrency that is worth using, Dogecoin?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>Look we are always looking at cryptocurrencies we are more looking into privacy coins but Dogecoin could be on the list for all of our future <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>Do you have any crazy experiences you’ve had as a market admin that can share?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>Nothing that I can think of right now.</p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>As a…as THE veteran Market admin, do you have any security or OPSEC advice for your users?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>I won’t go too much into detail but I will make a short list.</p>
+
+
+
+<p>TAILS<br>PUBLIC WIFI<br>BURNER PHONES<br>(I will also like to make this clear do not fall for phishing attempts made by these noobs on the forums and even on the clear net, educate your friends I cannot make this any clearer always use PGP to login and always /verifySafeHeaven after the .onion URL to make sure you are on our Official page.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://web.archive.org/web/20190226071002im_//wp-content/uploads/2018/05/Dream-Market-SpeedStepper-Interview-Drawing.jpg" alt="Dream Market Interview SpeedStepper" class="wp-image-2588"/></figure></div>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>The masterful art piece I promised in exchange for this interview….is actually done by me. It’s this Dream Market fan art I drew. I hope you enjoy it and please feel free to hang it on your wall in a beautiful frame.&nbsp;</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>Thank you and I appreciate you going out of your way.</p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong> <strong>Do you have any questions for us or anything you would like to announce or share with our readers?</strong></p>
+
+
+
+<p><strong>SpeedStepper:&nbsp;</strong>Some people can think that I am the Pablo or Elchapo of the internet, but really I am just your average guy who was committed to his dreams which i have made my dreams come true and now we are all living in it and everyone is making each others dreams come true.</p>
+
+
+
+<p class="has-text-color" style="color:#ff0010"><strong>DNetSEO:</strong>&nbsp;<strong>Speedy, thank you very very much for your time and for giving us the opportunity to interview you. It was an honor, and we can’t wait to see what the future holds for you and Dream Market.&nbsp;</strong></p>
+
+
+
+<p><strong>You can find links, working alternative links, and additional information about Dream Market <a href="/dream-market/" target="_blank" rel="noreferrer noopener">here</a>.&nbsp;&nbsp;</strong></p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="520" src="/wp-content/uploads/2021/05/Dream-Market-2018-b1-1024x520.jpg" alt="" data-id="91" data-full-url="/wp-content/uploads/2021/05/Dream-Market-2018-b1.jpg" data-link="/?attachment_id=91" class="wp-image-91" srcset="/wp-content/uploads/2021/05/Dream-Market-2018-b1-1024x520.jpg 1024w, /wp-content/uploads/2021/05/Dream-Market-2018-b1-300x152.jpg 300w, /wp-content/uploads/2021/05/Dream-Market-2018-b1-768x390.jpg 768w, /wp-content/uploads/2021/05/Dream-Market-2018-b1.jpg 1068w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="520" src="/wp-content/uploads/2021/05/Dream-Market-2018-c1-1024x520.jpg" alt="" data-id="92" data-full-url="/wp-content/uploads/2021/05/Dream-Market-2018-c1.jpg" data-link="/?attachment_id=92" class="wp-image-92" srcset="/wp-content/uploads/2021/05/Dream-Market-2018-c1-1024x520.jpg 1024w, /wp-content/uploads/2021/05/Dream-Market-2018-c1-300x152.jpg 300w, /wp-content/uploads/2021/05/Dream-Market-2018-c1-768x390.jpg 768w, /wp-content/uploads/2021/05/Dream-Market-2018-c1.jpg 1068w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="520" src="/wp-content/uploads/2021/05/Dream-Market-2018-d1-1024x520.jpg" alt="" data-id="93" data-full-url="/wp-content/uploads/2021/05/Dream-Market-2018-d1.jpg" data-link="/?attachment_id=93" class="wp-image-93" srcset="/wp-content/uploads/2021/05/Dream-Market-2018-d1-1024x520.jpg 1024w, /wp-content/uploads/2021/05/Dream-Market-2018-d1-300x152.jpg 300w, /wp-content/uploads/2021/05/Dream-Market-2018-d1-768x390.jpg 768w, /wp-content/uploads/2021/05/Dream-Market-2018-d1.jpg 1068w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="520" src="/wp-content/uploads/2021/05/Dream-Market-2018-f1-1024x520.jpg" alt="" data-id="94" data-full-url="/wp-content/uploads/2021/05/Dream-Market-2018-f1.jpg" data-link="/?attachment_id=94" class="wp-image-94" srcset="/wp-content/uploads/2021/05/Dream-Market-2018-f1-1024x520.jpg 1024w, /wp-content/uploads/2021/05/Dream-Market-2018-f1-300x152.jpg 300w, /wp-content/uploads/2021/05/Dream-Market-2018-f1-768x390.jpg 768w, /wp-content/uploads/2021/05/Dream-Market-2018-f1.jpg 1068w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1024" height="520" src="/wp-content/uploads/2021/05/Dream-Market-Darknet-A-1024x520.jpg" alt="" data-id="95" data-full-url="/wp-content/uploads/2021/05/Dream-Market-Darknet-A.jpg" data-link="/?attachment_id=95" class="wp-image-95" srcset="/wp-content/uploads/2021/05/Dream-Market-Darknet-A-1024x520.jpg 1024w, /wp-content/uploads/2021/05/Dream-Market-Darknet-A-300x152.jpg 300w, /wp-content/uploads/2021/05/Dream-Market-Darknet-A-768x390.jpg 768w, /wp-content/uploads/2021/05/Dream-Market-Darknet-A.jpg 1068w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><figcaption class="blocks-gallery-caption">Dream Market images</figcaption></figure>
+<p>The post <a rel="nofollow" href="/interview-with-dream-market-admin-speedstepper/">Interview with SpeedStepper, the Dream Market Admin</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/interview-with-dream-market-admin-speedstepper/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:09:10 by W3 Total Cache
+-->

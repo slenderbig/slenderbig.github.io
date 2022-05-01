@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tor &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/tor/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Thu, 16 Dec 2021 12:50:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>tor &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Russia Attempts to Ban Darknet Access, Fails</title>
+		<link>/russia-attempts-to-ban-darknet-access-fails/</link>
+					<comments>/russia-attempts-to-ban-darknet-access-fails/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Thu, 16 Dec 2021 12:50:39 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[russia]]></category>
+		<category><![CDATA[tor]]></category>
+		<guid isPermaLink="false">/?p=1029</guid>
+
+					<description><![CDATA[<p>A court decision last week effectively banned public access to the darknet across Russia, leaving many in the</p>
+<p>The post <a rel="nofollow" href="/russia-attempts-to-ban-darknet-access-fails/">Russia Attempts to Ban Darknet Access, Fails</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A court decision last week effectively <a href="https://www.cpomagazine.com/data-privacy/russia-prevents-access-to-tor-network-at-federal-level-as-kremlin-ramps-up-campaign-of-internet-control/" target="_blank" rel="noreferrer noopener nofollow">banned</a> public access to the darknet across Russia, leaving many in the country perplexed at why the government would decide to make such a move now. The decision puts Russia on a course that is being compared to that of China, where websites critical of those in power can be easily restricted.</p>
+
+
+
+<p>On Dec. 1<sup>st</sup>, major internet providers across Russia started <a href="https://blog.torproject.org/tor-censorship-in-russia/" target="_blank" rel="noreferrer noopener">blocking access to the Tor network</a>, with the government officially banning the main Tor Project website on Dec. 7<sup>th</sup>. The Tor Project has confirmed via independent researchers that default Tor bridges are also being made inaccessible by some Russian internet providers, and that their availability is ever-decreasing.</p>
+
+
+
+<p>According to statistics kept at the Tor Project, Russia has the <a href="https://metrics.torproject.org/userstats-relay-table.html" target="_blank" rel="noreferrer noopener">second biggest base of Tor users</a> in the world, with about 15% of all Tor traffic originating from the country as of Dec. 1<sup>st</sup>. As of Dec 15<sup>th</sup>, however, this figure has only decreased to 14%, which suggests that most Russian Tor users are able to circumnavigate the ban.</p>
+
+
+
+<p>Among the problems experienced by Russians attempting to access the Tor network are repeated connection resets, which <em>Wired</em> magazine <a href="https://www.wired.com/story/russia-block-tor-censorship" target="_blank" rel="noreferrer noopener nofollow">suggests</a> are due to the use of state-executed “deep packet inspection” (DPI), capable of “sniffing traffic” for blacklisted destinations.</p>
+
+
+
+<p>“In practice what they would do is define a rule in the configuration of their firewall to drop all traffic toward a certain destination,” Arturo Filasto, an engineer at the Open Observatory of Network Interference told <em>Wired</em>. “In certain configurations they may choose to implement the block by actively terminating the connection by injecting a reset packet.”</p>
+
+
+
+<p>The Tor Project stresses that new bridges will continually have to be created for network access to remain open in Russia. After making a plea to the community, they quickly surpassed their goal of creating 200 new obfs4 bridges. Those in Russia who want to access the project’s homepage on the clear web can still do so through a <a href="https://tor.eff.org/">mirror</a>.</p>
+<p>The post <a rel="nofollow" href="/russia-attempts-to-ban-darknet-access-fails/">Russia Attempts to Ban Darknet Access, Fails</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/russia-attempts-to-ban-darknet-access-fails/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:13:50 by W3 Total Cache
+-->

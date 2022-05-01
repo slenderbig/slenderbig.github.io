@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SS7 &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/ss7/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Thu, 18 Nov 2021 05:35:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>SS7 &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Darknet Security Experts: Most SS7 Exploits and Services are Fake</title>
+		<link>/darknet-security-experts-most-ss7-exploits-and-services-are-fake/</link>
+					<comments>/darknet-security-experts-most-ss7-exploits-and-services-are-fake/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Thu, 18 Nov 2021 05:35:41 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[darkfox market]]></category>
+		<category><![CDATA[SS7]]></category>
+		<guid isPermaLink="false">/?p=951</guid>
+
+					<description><![CDATA[<p>Research by cybersecurity experts at SOS Intel suggests that most SS7 exploitation services offered on darknet markets are</p>
+<p>The post <a rel="nofollow" href="/darknet-security-experts-most-ss7-exploits-and-services-are-fake/">Darknet Security Experts: Most SS7 Exploits and Services are Fake</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Research by cybersecurity experts at <em>SOS Intel</em> suggests that most SS7 exploitation services offered on darknet markets are <a href="https://sosintel.co.uk/an-investigation-into-ss7-exploitation-services-on-the-dark-web/" target="_blank" rel="noreferrer noopener nofollow">fake</a>, leaving the buyer with nothing but a smaller crypto balance. The researchers combed for mentions of such services across the dark web, finding a total of 57 URLs, of which only 4 were functioning markets.</p>
+
+
+
+<p>Of the four functioning markets, one was offline within a week, the second used images and video clips from a 2016 YouTube video, the third was a clone of the second, and the fourth was DarkFox Market, the biggest supposed provider of SS7-related services. DarkFox, which exceeds the traffic and popularity of the other three sites by a wide margin, lists such services at an average of $180, though demo video content attached to the listings is <a href="https://www.bleepingcomputer.com/news/security/most-ss7-exploit-service-providers-on-dark-web-are-scammers/" target="_blank" rel="noreferrer noopener">also sto</a><a href="https://www.bleepingcomputer.com/news/security/most-ss7-exploit-service-providers-on-dark-web-are-scammers/" target="_blank" rel="noreferrer noopener nofollow">l</a><a href="https://www.bleepingcomputer.com/news/security/most-ss7-exploit-service-providers-on-dark-web-are-scammers/" target="_blank" rel="noreferrer noopener">en from YouTube</a>.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="879" height="355" src="/wp-content/uploads/2021/11/1-3-1.jpg" alt="" class="wp-image-953" srcset="/wp-content/uploads/2021/11/1-3-1.jpg 879w, /wp-content/uploads/2021/11/1-3-1-300x121.jpg 300w, /wp-content/uploads/2021/11/1-3-1-768x310.jpg 768w" sizes="(max-width: 879px) 100vw, 879px" /><figcaption><em>Screenshot from the DarkFox darknet market.</em></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>SS7 is short for Signaling System No. 7, a protocol for telecommunications developed in 1975. Among the functionalities of which the protocol enables are prepaid billing, Short Message Service (SMS), number translation and mass market services. Known hacks that have exploited shortcomings in software built around this protocol include the ability to listen in on calls, read private messages, and track the location of a victim.</p>
+
+
+
+<p>According to <em>SOS Intel</em>, there are a few ways in which messaging services like Telegram and WhatsApp can be hacked; most revolve around the hacker’s use of a “fake MSC,” or Mobile Switching Center, which serves as a directory for mobile numbers. In these cases, real MSC operators unknowingly transmit data to fake ones, allowing an attacker to intercept crucial communications, such as private conversations and OTP (one-time password) codes used for login authentication purposes.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="951" height="297" src="/wp-content/uploads/2021/11/2-1.png" alt="" class="wp-image-954" srcset="/wp-content/uploads/2021/11/2-1.png 951w, /wp-content/uploads/2021/11/2-1-300x94.png 300w, /wp-content/uploads/2021/11/2-1-768x240.png 768w" sizes="(max-width: 951px) 100vw, 951px" /><figcaption><em>Averages prices from a (likely fake) SS7 exploitation services market.</em></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>SS7 attacks on Telegram users have been feasible since or before May 2016, when such an attack was demonstrated on a <a href="https://www.youtube.com/watch?v=dkvQqatURdM">You</a><a href="https://www.youtube.com/watch?v=dkvQqatURdM" target="_blank" rel="noreferrer noopener nofollow">T</a><a href="https://www.youtube.com/watch?v=dkvQqatURdM">ube video</a> in that month. This video is coincidentally the same video used to promote fake SS7 exploitation services to this day. The other markets mentioned in addition to DarkFox include SS7 Exploiter, SS7 ONLINE Exploiter, and SS7 Hack.</p>
+
+
+
+<p><em>SOS Intel</em> also suggested that while SS7 attack services do exist on the darknet, they are usually to be found in members-only markets, and only offered for short periods of time.</p>
+<p>The post <a rel="nofollow" href="/darknet-security-experts-most-ss7-exploits-and-services-are-fake/">Darknet Security Experts: Most SS7 Exploits and Services are Fake</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/darknet-security-experts-most-ss7-exploits-and-services-are-fake/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:16:06 by W3 Total Cache
+-->

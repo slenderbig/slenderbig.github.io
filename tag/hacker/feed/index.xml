@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hacker &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/hacker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Sat, 05 Jun 2021 10:25:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>hacker &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Report: Data Breach Epidemic Fuels Cycle of Demand on the Darknet</title>
+		<link>/report-data-breach-epidemic-fuels-cycle-of-demand-on-the-darknet/</link>
+					<comments>/report-data-breach-epidemic-fuels-cycle-of-demand-on-the-darknet/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Sat, 05 Jun 2021 10:25:25 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[cyber attack]]></category>
+		<category><![CDATA[darknet]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[hacker]]></category>
+		<guid isPermaLink="false">/?p=601</guid>
+
+					<description><![CDATA[<p>Personal data collected off insecure systems by phishers and attackers is being used to steal even more data</p>
+<p>The post <a rel="nofollow" href="/report-data-breach-epidemic-fuels-cycle-of-demand-on-the-darknet/">Report: Data Breach Epidemic Fuels Cycle of Demand on the Darknet</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>Personal data collected off insecure systems by phishers and attackers is being used to steal even more data in a positive feedback loop that is amplifying out of control.</em></p>
+
+
+
+<p>A new <a href="https://www.imperva.com/resources/resource-library/white-papers/lessons-learned-from-analyzing-100-data-breaches/" target="_blank" rel="noreferrer noopener">report</a> by security research experts at Imperva predicts that roughly 40 billion records will be compromised in data breaches by the end of 2021. This figure represents a 100% increase from 2020, a year which saw a lot of businesses transition operations online due to restrictions imposed by COVID. The report analyzed 100 data breaches and found that 74% of stolen records contained personal data, while 15.6% contained login credentials and 10.4% was credit card information. All three types of data are frequently found for sale on darknet markets.</p>
+
+
+
+<p>The report comes at a time when <a href="https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents" target="_blank" rel="noreferrer noopener">significant cyberattacks are at an all-time high</a>. In addition to the <a href="https://www.cnn.com/2021/06/04/politics/white-house-ransomware/index.html" target="_blank" rel="noreferrer noopener">highly-publicized ransomware attacks</a> that have netted attackers tens of millions in 2021, the number of reported data breaches is skyrocketing. According to cyber attack report aggregators at <a href="https://www.databreaches.net/news/" target="_blank" rel="noreferrer noopener">Databreaches.net</a>, there were 11 major data breach incidents reported just yesterday, Jun 4<sup>th</sup>. This represents a significant uptick from activity reported just one year ago.</p>
+
+
+
+<figure class="wp-block-image size-large"><img width="868" height="364" src="/wp-content/uploads/2021/06/chart.png" alt="" class="wp-image-603" srcset="/wp-content/uploads/2021/06/chart.png 868w, /wp-content/uploads/2021/06/chart-300x126.png 300w, /wp-content/uploads/2021/06/chart-768x322.png 768w" sizes="(max-width: 868px) 100vw, 868px" /><figcaption>Source: Lessons learned from analyzing 100 data breaches, imperva.com</figcaption></figure>
+
+
+
+<p>“We are definitely seeing a spike in ransomware attacks that also have a data breach component to them,” said cybersecurity attorney Brian Finch on a <a href="https://www.jdsupra.com/legalnews/ransomware-data-breaches-and-the-5474731/" target="_blank" rel="noreferrer noopener">recent legal podcast episode</a>.</p>
+
+
+
+<p>“Not only is your data encrypted, but it’s being stolen as well, and the hackers are demanding a ransom not only to unlock your system, but also to prevent them from releasing the private information&#8230; So, it’s sort of a two-fer attack. You get the ransom, and you get data breach as well.”</p>
+
+
+
+<p>As noted in the report by Imperva, the stolen data put up for sale on the dark web is often used for extortion and phishing attempts designed to pilfer even more data. The report also analyzed root causes of initial breaches and found that almost 50% of the time it was due to poor website design.</p>
+
+
+
+<p>“In most of the analyzed breaches the lack of in-depth security stands out as a main reason,” the report concludes.</p>
+
+
+
+<p>“Organizations can reduce the attack surface by securing their database environments. Since a significant number of the attacks target web applications, separating the database server from the application server can make a big difference. Together with dilution of excessive privileges from key users and strong authentication mechanisms, these practices in combination can help you avoid a data breach.”</p>
+<p>The post <a rel="nofollow" href="/report-data-breach-epidemic-fuels-cycle-of-demand-on-the-darknet/">Report: Data Breach Epidemic Fuels Cycle of Demand on the Darknet</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/report-data-breach-epidemic-fuels-cycle-of-demand-on-the-darknet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:14:02 by W3 Total Cache
+-->

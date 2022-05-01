@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nature &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/nature/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Fri, 01 Apr 2022 10:27:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>nature &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nature: Off-Market Deals Surpass Markets in Volume Across All Darknet Markets</title>
+		<link>/nature-off-market-deals-surpass-markets-in-volume-across-all-darknet-markets/</link>
+					<comments>/nature-off-market-deals-surpass-markets-in-volume-across-all-darknet-markets/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Fri, 01 Apr 2022 10:27:46 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[Chainalysis]]></category>
+		<category><![CDATA[darknet markets]]></category>
+		<category><![CDATA[direct deals]]></category>
+		<category><![CDATA[nature]]></category>
+		<guid isPermaLink="false">/?p=1403</guid>
+
+					<description><![CDATA[<p>Darknet markets may serve larger roles economically by acting as catalysts for new trading relationships formed off-market, according</p>
+<p>The post <a rel="nofollow" href="/nature-off-market-deals-surpass-markets-in-volume-across-all-darknet-markets/">Nature: Off-Market Deals Surpass Markets in Volume Across All Darknet Markets</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Darknet markets may serve larger roles economically by acting as catalysts for new trading relationships formed off-market, according to results of a scientific study released yesterday, March 31<sup>st</sup>.</p>
+
+
+
+<p>A new <a href="https://www.nature.com/articles/s41598-022-07492-x" target="_blank" rel="noreferrer noopener nofollow">report</a> published in <em>Nature</em>, one of the world’s pre-eminent scientific journals, concludes that user-to-user (U2U) cryptocurrency transactions consistently beat darknet market-based transactions in volume &#8212; a trend that has been in tact since the early days of Silk Road.</p>
+
+
+
+<p>Researchers at the University of London, The Alan Touring Institute, and <a href="/chainalysis-2021-biggest-year-for-darknet-markets-yet/" target="_blank" rel="noreferrer noopener">Chainalysis</a> analyzed 31 million Bitcoin transactions found to be associated with 40 darknet markets between 2011-2021 and found that volume between direct buyer-seller transactions exceeded that which flowed through the markets themselves, for all 40 of the markets analyzed.</p>
+
+
+
+<p>Even though it is characteristic of darknet markets to expressly forbid their vendors from doing off-market deals with buyers, the report found that monthly trading volume between off-market U2U pairs consistently surpassed that of on-market trading volume. To put things in perspective, the researchers found that while $7.5 billion had flowed through the darknet markets analyzed over the last 10 years, the figure traded directly between buyers and sellers during this timeframe approached $30 billion, which is three-fold greater in total amount.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="645" height="488" src="/wp-content/uploads/2022/04/1.png" alt="" class="wp-image-1405" srcset="/wp-content/uploads/2022/04/1.png 645w, /wp-content/uploads/2022/04/1-300x227.png 300w" sizes="(max-width: 645px) 100vw, 645px" /></figure>
+
+
+
+<p><em>Dynamics of single-market transaction relationships vs cross-market relationships. Source: Nature</em></p>
+
+
+
+<p>The report detailed the process through which a certain percentage of buyers and sellers formed relationships on-market and then slowly moved business off-market, conducting deals directly among themselves. Several of these relationships were found to persist even after the darknet market on which they had formed closed, often exceeding the length of time for which markets were in operation. These “stable pairs” (as referenced in the report) accounted for only 1.7% of all U2U pairs identified yet accounted for 5% of the total $30 billion trading volume.</p>
+
+
+
+<p>The report also found that U2U trades have been steadily increasing since the inception of darknet markets and the phenomenon seems to be resilient to any type of macroeconomic setback, only momentarily slowing down once: during the initial panic induced by COVID-19 in first half of 2020. It concludes that law enforcement efforts could possibly be better directed by analyzing the blockchain habits of individual sellers rather than that of whole market operations.</p>
+<p>The post <a rel="nofollow" href="/nature-off-market-deals-surpass-markets-in-volume-across-all-darknet-markets/">Nature: Off-Market Deals Surpass Markets in Volume Across All Darknet Markets</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/nature-off-market-deals-surpass-markets-in-volume-across-all-darknet-markets/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:09:21 by W3 Total Cache
+-->

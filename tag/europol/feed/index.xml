@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Europol &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/europol/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Tue, 30 Nov 2021 07:19:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>Europol &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Joint Operation Targets EU Carders and Shops</title>
+		<link>/joint-operation-targets-eu-carders-and-shops/</link>
+					<comments>/joint-operation-targets-eu-carders-and-shops/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Tue, 30 Nov 2021 07:19:14 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[darknet arrest]]></category>
+		<category><![CDATA[Europol]]></category>
+		<category><![CDATA[Group-IB]]></category>
+		<guid isPermaLink="false">/?p=988</guid>
+
+					<description><![CDATA[<p>A joint private/public sector effort between Group-IB, a world leader in cybersecurity, and Europol’s European Cybercrime Center (EC3)</p>
+<p>The post <a rel="nofollow" href="/joint-operation-targets-eu-carders-and-shops/">Joint Operation Targets EU Carders and Shops</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>A joint private/public sector effort between Group-IB, a world leader in cybersecurity, and Europol’s European Cybercrime Center (EC3) is putting a dent in darknet market-related credit card fraud, to the tune of <a href="https://itconnect.lat/portal/2021/11/29/europol-000000000000000000002021/" target="_blank" rel="noreferrer noopener nofollow">about €53 million over the last two years</a>. Most recently, Group-IB provided the EC3 with enough information to prevent about €14 million in losses.</p>
+
+
+
+<p>The law enforcement end of the collaboration, known as <em>Carding Action 2021</em>, involves agencies from the UK and Europol working together to target marketplaces and specialty “card shops” scattered across the dark web. Group-IB, the only private sector firm involved in the operation, makes use of proprietary means to detect botnets and JS-sniffers capable of hijacking credit card details, with victims identified all around the globe.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="760" height="427" src="/wp-content/uploads/2021/11/1-5.png" alt="" class="wp-image-990" srcset="/wp-content/uploads/2021/11/1-5.png 760w, /wp-content/uploads/2021/11/1-5-300x169.png 300w" sizes="(max-width: 760px) 100vw, 760px" /><figcaption><em>Graph of compromised bank card data by country, taken from carding shop ‘All World Cards’. Source: Group-IB </em><a href="https://blog.group-ib.com/awc" target="_blank" rel="noreferrer noopener"><em>blog post</em></a><em>.</em></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<p>Clandestine carding stores on the darknet monitored by Group-IB’s Threat Intelligence and Attribution System <a href="https://www.europol.europa.eu/newsroom/news/12-online-fraudsters-arrested-in-global-operation-against-counterfeiters" target="_blank" rel="noreferrer noopener nofollow">revealed</a> 12 individual vendors were responsible for 49,761 instances of credit card theft over a three-month monitoring period. Group-IB found that card details were most often compromised via phishing websites. Details were also stolen when user devices became infected with “banking trojans,” or via “highjacked” e-commerce websites.</p>
+
+
+
+<p>Last year, <em>Carding Action 2020</em>, a three-month, cross-border operation, prevented approx. €40 million in losses by similarly identifying fraudulently-obtained credit card info. According to <em>Group-IB</em>’s <em>Hi-Tech Crime Trends Report 20/21</em>, presented yesterday at <a href="https://2021.group-ib.com/" target="_blank" rel="noreferrer noopener nofollow"><em>CyberCrimeCon</em></a>, the overall carding market grew some 116% over the last year, from $880 million to $1.9 billion. The increase in losses was suggested to be due to the expansion of JS-sniffer attacks targeting e-commerce merchants across the EU region.</p>
+
+
+
+<p>Group-IB is expected to release more of their findings about the current state of the darknet carding market during <em>CyberCrimeCon</em> later this week.</p>
+<p>The post <a rel="nofollow" href="/joint-operation-targets-eu-carders-and-shops/">Joint Operation Targets EU Carders and Shops</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/joint-operation-targets-eu-carders-and-shops/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:15:21 by W3 Total Cache
+-->

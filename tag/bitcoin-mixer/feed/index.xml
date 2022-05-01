@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bitcoin mixer &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/bitcoin-mixer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Fri, 21 May 2021 08:14:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>bitcoin mixer &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>US ramping up crackdown on Bitcoin mixers, tax evaders</title>
+		<link>/us-ramping-up-crackdown-on-bitcoin-mixers-tax-evaders/</link>
+					<comments>/us-ramping-up-crackdown-on-bitcoin-mixers-tax-evaders/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Fri, 21 May 2021 08:14:08 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[bitcoin mixer]]></category>
+		<guid isPermaLink="false">/?p=543</guid>
+
+					<description><![CDATA[<p>Recent court rulings and IRS guidance show the US government is taking a hard stance against large, unregulated</p>
+<p>The post <a rel="nofollow" href="/us-ramping-up-crackdown-on-bitcoin-mixers-tax-evaders/">US ramping up crackdown on Bitcoin mixers, tax evaders</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Recent court rulings and IRS guidance show the US government is taking a hard stance against large, unregulated cryptocurrency transactions, coming down on Bitcoin mixing services in particular. A research report by law firm Rahman Ravelli describes the Department of Justice’s view on mixers to be “dim,” noting that any such service that could be used to launder money is “potentially in the cross hairs of US law enforcement.”</p>
+
+
+
+<p>Toward the end of April &#8211; less than a month before the IRS said that <a href="https://www.cnbc.com/2021/05/20/us-treasury-calls-for-stricter-cryptocurrency-compliance-with-irs.html" target="_blank" rel="noreferrer noopener">cryptocurrencies create tax evasion risk</a> – there were two particularly unfavorable legal developments for Bitcoin mixers:</p>
+
+
+
+<ul><li>The alleged operator of Bitcoin Fog, a Swedish/Russian national living in California, was <a href="https://www.wired.com/story/bitcoin-fog-dark-web-cryptocurrency-arrest/" target="_blank" rel="noreferrer noopener">arrested</a> at the Los Angeles International Airport after ten years on the run, accused of having laundered 1.2 million BTC across ten years.</li><li>Federal charges against the operator of Helix, a Bitcoin mixer which allegedly tumbled some 354,000+ BTC while in service, will go forward as planned after a judge <a href="https://www.courtlistener.com/opinion/4874437/united-states-v-harmon/" target="_blank" rel="noreferrer noopener">denied</a> the defendant’s motion to dismiss the case.</li></ul>
+
+
+
+<p>The arrests and charges reflect an increased level of scrutiny over services the government considers to be “unlicensed money transmitters” (such as mixers), and in line with tax policy changes recently unveiled by other branches of the government.</p>
+
+
+
+<p>According to a <a href="https://home.treasury.gov/system/files/136/The-American-Families-Plan-Tax-Compliance-Agenda.pdf" target="_blank" rel="noreferrer noopener">tax plan guide</a> released by the Department of Treasury, “Cryptocurrency already poses a significant detection problem by facilitating illegal activity broadly including tax evasion.” The guide explains that the IRS now considers cryptocurrency transactions to be an “enforcement priority,” even including a new spot for crypto reporting on the standard 1040 income reporting form.</p>
+
+
+
+<p>The guide clarifies that businesses only need to report crypto transactions if they are over $10,000 in value, as they would for a cash transaction. The DoT emphasizes that the new guidelines are aimed primarily at curbing tax evasion committed by “the top end of the income distribution.” This includes those who have access to “sophisticated strategies” to help them launder large amounts of cash.</p>
+
+
+
+<p>One such strategy was described as “moving taxable assets into the crypto economy,” which potentially involves the use of crypto mixing services.</p>
+
+
+
+<p>The IRS news coincides with a significant market correction which saw several top cryptocurrencies drop 30-50% in price in less than 24 hours; many of which have since exhibited signs of recovery.</p>
+<p>The post <a rel="nofollow" href="/us-ramping-up-crackdown-on-bitcoin-mixers-tax-evaders/">US ramping up crackdown on Bitcoin mixers, tax evaders</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/us-ramping-up-crackdown-on-bitcoin-mixers-tax-evaders/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:13:25 by W3 Total Cache
+-->

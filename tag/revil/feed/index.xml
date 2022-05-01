@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>revil &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/revil/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Sat, 23 Oct 2021 10:43:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>revil &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>REvil Dismantled Again, Possibly For Good</title>
+		<link>/revil-dismantled-again-possibly-for-good/</link>
+					<comments>/revil-dismantled-again-possibly-for-good/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Sat, 23 Oct 2021 10:43:12 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[revil]]></category>
+		<guid isPermaLink="false">/?p=900</guid>
+
+					<description><![CDATA[<p>The era of the world’s most infamous collective of malware masterminds came to a close on Thursday as</p>
+<p>The post <a rel="nofollow" href="/revil-dismantled-again-possibly-for-good/">REvil Dismantled Again, Possibly For Good</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The era of the world’s most infamous collective of malware masterminds came to a close on Thursday as three cybersecurity experts working for the U.S. government <a href="https://www.reuters.com/technology/exclusive-governments-turn-tables-ransomware-gang-revil-by-pushing-it-offline-2021-10-21/" target="_blank" rel="noreferrer noopener">announced</a> that the notorious REvil hacking group had been taken offline, for what may be the last time.</p>
+
+
+
+<p>According to top-level REvil organizer <em>0 neday</em>, the notorious malware operation was hacked by an unnamed infiltrator. &#8220;The server was compromised, and they were looking for me,&#8221; wrote <em>0 neday</em> on a well-known cybercrime forum. “Good luck, everyone; I&#8217;m off,” he concluded his last post, <a href="https://twitter.com/vxunderground/status/1451624106005311505" target="_blank" rel="noreferrer noopener">banned</a> from the forum by a moderator mere hours later.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">The US seizing the Tor sites of the REvil gang over the weekend has had some interesting effects on ransomware groups today<br><br>Just earlier, the Conti gang published a long-winded announcement on the matter<br><br>Among the highlights, they call their activity as &quot;the art of pen-testing&quot; <a href="https://t.co/2rV3rWgmOp">pic.twitter.com/2rV3rWgmOp</a></p>&mdash; Catalin Cimpanu (@campuscodi) <a href="https://twitter.com/campuscodi/status/1451600246778253315?ref_src=twsrc%5Etfw">October 22, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Brought to global attention after its role in the shutdown of major beef processing plants in four countries and disrupting supply globally in the process, REvil first disappeared on July 13<sup>th</sup>, only to resurface under a different structure weeks later.</p>
+
+
+
+<p>There is <a href="https://www.zdnet.com/article/multiple-governments-involved-in-coordinated-takedown-of-revil-ransomware-group-reuters/?ftag=COS-05-10aaa0g&amp;taid=6172f52435a2610001af21b0&amp;utm_campaign=trueAnthem%3A+Trending+Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter" target="_blank" rel="noreferrer noopener">little doubt</a> that REvil’s infrastructure takedown is the result of U.S.-orchestrated efforts.</p>
+
+
+
+<p>On July 23<sup>rd</sup>, Kaseya, a Swedish grocery store chain whose systems had been encrypted by REvil-associated malware, announced it had received a decryption key for the files encrypted earlier that month, which was later discovered to have been <a href="https://www.bbc.com/news/technology-57946117" target="_blank" rel="noreferrer noopener">given to them by the FBI</a>.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">The notorious Conti ransomware-as-a-service gang has apparently issued a statement on the U.S. takedown of their competitors in REvil.<br><br>(via <a href="https://twitter.com/vxunderground?ref_src=twsrc%5Etfw">@vxunderground</a>) <a href="https://t.co/fnwZQCjWGg">pic.twitter.com/fnwZQCjWGg</a></p>&mdash; kpoulsen (@kpoulsen) <a href="https://twitter.com/kpoulsen/status/1451637440591155201?ref_src=twsrc%5Etfw">October 22, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Plans for retaliation were discovered today as other ransomware groups <a href="https://www.bleepingcomputer.com/news/security/groove-ransomware-calls-on-all-extortion-gangs-to-attack-us-interests/" target="_blank" rel="noreferrer noopener">called for cyber warfare against U.S. interests</a>. Portions of a publicly-posted message composed by a self-identified Groove Ransomware member translated to the following warning:</p>
+
+
+
+<p>“<em>In our difficult and troubled time when the US government is trying to fight us, I call on all partner programs to stop competing, unite and start fucking up the US public sector, show this old man who is the boss here who is the boss and will be on the Internet…</em></p>
+
+
+
+<p>… <em>I urge not to attack Chinese companies, because where do we pinch if our homeland suddenly turns away from us, only to our good neighbors &#8211; the Chinese! I BELIEVE THAT ALL ZONES IN THE USA WILL BE OPENED, ALL HOES WILL COME OUT AND FUCK THIS FUCKING BIDEN IN ALL THE CRACKS, I myself will personally make efforts to do this&#8221; &#8211; Groove ransomware, 10/22/21</em></p>
+
+
+
+<p>Other security researchers have <a href="https://threatpost.com/revil-servers-offline-governments/175675/" target="_blank" rel="noreferrer noopener">no</a><a href="https://threatpost.com/revil-servers-offline-governments/175675/" target="_blank" rel="noreferrer noopener nofollow">t</a><a href="https://threatpost.com/revil-servers-offline-governments/175675/" target="_blank" rel="noreferrer noopener">ed</a> that the chance for the re-emergence of REvil’s core members under a different guise remains something to consider.</p>
+
+
+
+<p>Among REvil’s targets over the last two years are Donald Trump, Lady Gaga, Madonna, Acer, and Lenovo.</p>
+<p>The post <a rel="nofollow" href="/revil-dismantled-again-possibly-for-good/">REvil Dismantled Again, Possibly For Good</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/revil-dismantled-again-possibly-for-good/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>REvil Ransomware Network Dealt Fatal Blow</title>
+		<link>/revil-ransomware-network-dealt-fatal-blow/</link>
+					<comments>/revil-ransomware-network-dealt-fatal-blow/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Thu, 15 Jul 2021 09:39:33 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[cyberattack]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[revil]]></category>
+		<guid isPermaLink="false">/?p=687</guid>
+
+					<description><![CDATA[<p>Was it Putin, the U.S., or rivals that took down what is likely to be the most well-known</p>
+<p>The post <a rel="nofollow" href="/revil-ransomware-network-dealt-fatal-blow/">REvil Ransomware Network Dealt Fatal Blow</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>Was it Putin, the U.S., or rivals that took down what is likely to be the most well-known ransomware group of all-time? Or was the time for REvil to exit the stage just right?</em></p>
+
+
+
+<p>The notorious REvil ransomware network, allegedly responsible for over 360 ransomware attacks during the last two years, had its <a href="https://www.govinfosecurity.com/revils-infrastructure-goes-offline-a-17061" target="_blank" rel="noreferrer noopener">online presence removed completely</a> yesterday, through actions and actors that are completely unknown.</p>
+
+
+
+<p>The components taken down from the dark web include REvil’s portals for data leaks, extortion attempts and resulting payments. It also includes the public-facing centerpiece for REvil, the <em>Happy Blog</em> website. <em>Happy Blog</em> is where REvil posted the latest details of their successful efforts, frequently bragging about their most recent exploits and issuing threats to potential future victims.</p>
+
+
+
+<figure class="wp-block-image size-large"><img width="1013" height="305" src="/wp-content/uploads/2021/07/1.png" alt="" class="wp-image-689" srcset="/wp-content/uploads/2021/07/1.png 1013w, /wp-content/uploads/2021/07/1-300x90.png 300w, /wp-content/uploads/2021/07/1-768x231.png 768w" sizes="(max-width: 1013px) 100vw, 1013px" /><figcaption>Happy Blog screenshot courtesy of GovInfoSecurity.</figcaption></figure>
+
+
+
+<p>In one of the last posts on <em>Happy Blog</em>, REvil claimed to have <a href="https://www.bloomberg.com/news/articles/2021-07-10/kaseya-failed-to-address-security-before-hack-ex-employees-say" target="_blank" rel="noreferrer noopener">infected over a million systems</a> belonging to international IT vendor Kaseya Ltd. In the post, REvil asks for a whopping $70 million ransom &#8211; payable in Bitcoin &#8211; in exchange for a “publicly decryptor (sp.) that decrypts files of all victims.”</p>
+
+
+
+<p>After a meeting with Russian President Putin on July 9, U.S. President Biden <a href="https://twitter.com/martinmatishak/status/1413572561527574528/photo/1" target="_blank" rel="noreferrer noopener">stated</a> that a line of communication had been opened between the two countries that would be dedicated to cyberattack-related affairs.</p>
+
+
+
+<p>“I made it very clear to him that the United States expects when a ransomware operation is coming from his soil, even though it&#8217;s not sponsored by the state, we expect them to act if we give them enough information to act on who that is,&#8221; said Biden.</p>
+
+
+
+<p>It is not known if Biden’s meeting with Putin contributed to the sudden disappearance of REvil’s presence on the darknet.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="443" src="/wp-content/uploads/2021/07/2-1024x443.png" alt="" class="wp-image-690" srcset="/wp-content/uploads/2021/07/2-1024x443.png 1024w, /wp-content/uploads/2021/07/2-300x130.png 300w, /wp-content/uploads/2021/07/2-768x332.png 768w, /wp-content/uploads/2021/07/2.png 1312w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>The result of visiting the former URL of Happy Blog, REvil’s primary darknet portal.</figcaption></figure>
+
+
+
+<p>Security researchers note that malware/ransom operations like REvil often disband and re-appear under a new name to escape an increasingly negative reputation.</p>
+
+
+
+<p>As almost no information about what caused the knockout is available, it is possible that the individuals behind the REvil banner have not been taken into custody and will simply re-emerge when the moment is right.</p>
+
+
+
+<p>Next time, however, the light exposed on their movements will likely be all the brighter, as the internationally-coordinated crackdown on ransomware groups continues.</p>
+<p>The post <a rel="nofollow" href="/revil-ransomware-network-dealt-fatal-blow/">REvil Ransomware Network Dealt Fatal Blow</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/revil-ransomware-network-dealt-fatal-blow/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:15:35 by W3 Total Cache
+-->

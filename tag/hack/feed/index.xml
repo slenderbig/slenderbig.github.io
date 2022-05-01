@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hack &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/hack/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Mon, 01 Nov 2021 12:24:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>hack &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ransomware Back in the Headlines as Conti Posts Jeweler Customer List</title>
+		<link>/ransomware-back-in-the-headlines-as-conti-posts-jeweler-customer-list/</link>
+					<comments>/ransomware-back-in-the-headlines-as-conti-posts-jeweler-customer-list/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Mon, 01 Nov 2021 12:24:00 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[cyber attack]]></category>
+		<category><![CDATA[hack]]></category>
+		<guid isPermaLink="false">/?p=912</guid>
+
+					<description><![CDATA[<p>Russian ransomware gang Conti released the details of 11,000 clients of diamond jeweler Graff yesterday, apparently deciding to</p>
+<p>The post <a rel="nofollow" href="/ransomware-back-in-the-headlines-as-conti-posts-jeweler-customer-list/">Ransomware Back in the Headlines as Conti Posts Jeweler Customer List</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Russian ransomware gang Conti <a href="https://www.dailymail.co.uk/news/article-10148265/Massive-cyber-heist-rocks-high-society-jeweller-Graff.html" target="_blank" rel="noreferrer noopener nofollow">released</a> the details of 11,000 clients of diamond jeweler Graff yesterday, apparently deciding to make good on its <a href="https://krebsonsecurity.com/2021/10/conti-ransom-gang-starts-selling-access-to-victims/" target="_blank" rel="noreferrer noopener nofollow">threats</a> to publish the data of malware-infected businesses that refused to pay the ransom. The story, initially broken by <em>The Daily Mail</em>, describes those named in the leaked files as a veritable list of “world leaders, Hollywood A-listers and billionaire tycoons.”</p>
+
+
+
+<p>Among the published documents are receipts, invoices, client lists and credit notes which equal an approximated total of 69,000 documents.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Ransomware attacks making the front pages again&#8230;<a href="https://twitter.com/hashtag/Conti?src=hash&amp;ref_src=twsrc%5Etfw">#Conti</a> <a href="https://t.co/qqbU9JawQn">pic.twitter.com/qqbU9JawQn</a></p>&mdash; Graham Cluley (@gcluley) <a href="https://twitter.com/gcluley/status/1454727045162938377?ref_src=twsrc%5Etfw">October 31, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Some of the many celebrities named in a list include Tom Hanks, Samuel L. Jackson, and Alec Baldwin. Documents provided in leaks show addresses associated with Donald and Melania Trump, and records of purchases made by David and Victoria Beckham. Other notable figures to be mentioned within the documents include disgraced socialite Ghislane Maxwell and Saudi Crown Prince Mohammed bin Salman.</p>
+
+
+
+<p>“&#8217;Given the profile of the customer database, this is absolutely massive,” a former colonel in British military intelligence told <em>The Daily Mail</em>. “This is going to bring the highest levels of international law enforcement down on the gang,” he added.</p>
+
+
+
+<figure class="wp-block-image size-full"><img width="929" height="329" src="/wp-content/uploads/2021/11/1.png" alt="" class="wp-image-914" srcset="/wp-content/uploads/2021/11/1.png 929w, /wp-content/uploads/2021/11/1-300x106.png 300w, /wp-content/uploads/2021/11/1-768x272.png 768w" sizes="(max-width: 929px) 100vw, 929px" /></figure>
+
+
+
+<p>A Conti-run clearnet site that posted snippets of hacked records and documents was updated days after the posting of a <a href="https://krebsonsecurity.com/2021/10/conti-ransom-gang-starts-selling-access-to-victims/" target="_blank" rel="noreferrer noopener nofollow">long-winded rant</a> in which they praised REvil and ranted against the U.S. government. Security researchers believe a <a href="https://thecyberwire.com/newsletters/daily-briefing/10/206" target="_blank" rel="noreferrer noopener nofollow">recent shift in Conti’s business model</a> may have underpinned their decision to make the Graff files public.</p>
+
+
+
+<p>Based in London, Graff was founded in 1960 and is considered to be one of the worlds pre-eminent jewelers, with 50 stores worldwide. A spokesperson for Graff described the cyber-attack as “limited” and noted that only addresses and other publicly-available information was exposed. The information could still potentially be used as leverage against certain customers and the true damage of the attack’s fallout remains to be ascertained.</p>
+<p>The post <a rel="nofollow" href="/ransomware-back-in-the-headlines-as-conti-posts-jeweler-customer-list/">Ransomware Back in the Headlines as Conti Posts Jeweler Customer List</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ransomware-back-in-the-headlines-as-conti-posts-jeweler-customer-list/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:16:01 by W3 Total Cache
+-->

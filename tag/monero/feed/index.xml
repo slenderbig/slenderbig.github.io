@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>monero &#8211; DarknetMarkets</title>
+	<atom:link href="/tag/monero/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Darknet Markets &#124; Darknet Market News, Reviews and Unbiased Information</description>
+	<lastBuildDate>Mon, 11 Oct 2021 09:44:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/05/cropped-darknet-markets-logo-32x32.png</url>
+	<title>monero &#8211; DarknetMarkets</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>US Feds Pay $100k in XMR to Catch Military Secrets Thief</title>
+		<link>/us-feds-pay-100k-in-xmr-to-catch-military-secrets-thief/</link>
+					<comments>/us-feds-pay-100k-in-xmr-to-catch-military-secrets-thief/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Mon, 11 Oct 2021 09:44:32 +0000</pubDate>
+				<category><![CDATA[Darknet News]]></category>
+		<category><![CDATA[darknet arrest]]></category>
+		<category><![CDATA[monero]]></category>
+		<guid isPermaLink="false">/?p=875</guid>
+
+					<description><![CDATA[<p>The FBI filed a criminal complaint to intervene against what it considers would-be espionage committed by US Navy</p>
+<p>The post <a rel="nofollow" href="/us-feds-pay-100k-in-xmr-to-catch-military-secrets-thief/">US Feds Pay $100k in XMR to Catch Military Secrets Thief</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The FBI filed a criminal <a href="https://s3.documentcloud.org/documents/21081819/j-toebbe-criminal-complaint-spy.pdf" target="_blank" rel="noreferrer noopener">complaint</a> to intervene against what it considers would-be espionage committed by US Navy nuclear engineer Jonathan Toebbe, of Maryland.</p>
+
+
+
+<p>Charged with Communication of Restricted Data and committing an offense against the United States, Toebbe is alleged to have attempted to sell nuclear submarine-related military secrets to a foreign nation. On three separate occasions, Toebbe unwittingly “dead dropped” to waiting federal agents SD cards containing documents related to “militarily sensitive design elements, operating parameters, and performance characteristics of Virginia-class submarine reactors.”</p>
+
+
+
+<p>Of particular note was the method of payment requested by Toebbe in exchange for the documents, which was the cryptocurrency Monero (XMR). Toebbe received a grand total of $100,000 in XMR across three payments from federal investigators, one prior to each drop.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Espionage?src=hash&amp;ref_src=twsrc%5Etfw">#Espionage</a> <a href="https://twitter.com/hashtag/Tradecraft?src=hash&amp;ref_src=twsrc%5Etfw">#Tradecraft</a> <a href="https://twitter.com/hashtag/OPSEC?src=hash&amp;ref_src=twsrc%5Etfw">#OPSEC</a> &#8211; <a href="https://twitter.com/hashtag/Toebbe?src=hash&amp;ref_src=twsrc%5Etfw">#Toebbe</a> asked for USD $5 million in <a href="https://twitter.com/monero?ref_src=twsrc%5Etfw">@monero</a> crypto currency for thousands of pages of technical drawings and other data on USA nuclear propulsion systems as used on the USS Virginia class attack subs c.f. <a href="https://twitter.com/hashtag/AUSUK?src=hash&amp;ref_src=twsrc%5Etfw">#AUSUK</a> <a href="https://t.co/VKT8qjUO2U">https://t.co/VKT8qjUO2U</a> <a href="https://t.co/dRtoaqerOm">pic.twitter.com/dRtoaqerOm</a></p>&mdash; Spy Blog <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ec-1f1e7.png" alt="🇬🇧" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@spyblog) <a href="https://twitter.com/spyblog/status/1447300576283349003?ref_src=twsrc%5Etfw">October 10, 2021</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Monero is quickly becoming the cryptocurrency of choice among darknet markets and cybercrime groups, hailed for its advanced privacy features which make it near impossible to distinguish the senders, recipients and amounts of each transaction.</p>
+
+
+
+<p>“This form of gift protects both of us very well,” wrote Toebbe, describing Monero in an email to whom he believed to be a foreign country’s military intelligence agency. “I am very aware of the risks of blockchain analysis of BitCoin and other cryptocurrencies, and believe Monero gives both us excellent deniability.”</p>
+
+
+
+<p>Federal investigators were first made aware of the fact that someone was trying to sell classified military documents to foreign nations after they were contacted by one such nation that had received a letter from Toebbe, which they then forwarded to investigators. After months in contact pretending to be the foreign government in question, the feds managed to gain Toebbe’s trust, getting him to agree to meet at a predetermined drop point.</p>
+
+
+
+<p>Agents quickly identified Toebbe and his wife as they performed an arranged SD card dead drop in June, continuing to remain in contact with him for the months leading up to his Oct. 9 <a href="https://wjla.com/news/local/maryland-couple-navy-nuclear-engineer-wife-facing-espionage-related-charges-jonathan-diana-toebbe-" target="_blank" rel="noreferrer noopener">arrest</a>.</p>
+
+
+
+<p>Toebbe had been employed by the US Navy since 2012, released from active service in 2017. His <a href="https://www.linkedin.com/in/jonathan-toebbe-99507b150" target="_blank" rel="noreferrer noopener">LinkedIn profile</a> confirms his position as a nuclear engineer for Naval Reactors, an organization operated by the U.S. Departments of Navy and Energy. The organization describes itself as “responsible for all matters pertaining to U.S. Navy nuclear propulsion.” Toebbe specialized in noise and vibration physics, helping to develop shock absorption technology for nuclear reactors.</p>
+<p>The post <a rel="nofollow" href="/us-feds-pay-100k-in-xmr-to-catch-military-secrets-thief/">US Feds Pay $100k in XMR to Catch Military Secrets Thief</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/us-feds-pay-100k-in-xmr-to-catch-military-secrets-thief/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Feather: An Electrum-Inspired Desktop Wallet for Monero</title>
+		<link>/feather-an-electrum-inspired-desktop-wallet-for-monero/</link>
+					<comments>/feather-an-electrum-inspired-desktop-wallet-for-monero/#respond</comments>
+		
+		<dc:creator><![CDATA[DNetSEO]]></dc:creator>
+		<pubDate>Tue, 15 Jun 2021 16:22:52 +0000</pubDate>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[feather wallet]]></category>
+		<category><![CDATA[monero]]></category>
+		<guid isPermaLink="false">/?p=621</guid>
+
+					<description><![CDATA[<p>First released in November 2020, Feather is a Monero (XMR) GUI desktop wallet that is easy to use</p>
+<p>The post <a rel="nofollow" href="/feather-an-electrum-inspired-desktop-wallet-for-monero/">Feather: An Electrum-Inspired Desktop Wallet for Monero</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>First released in November 2020, <a href="https://featherwallet.org/">Feather</a> is a Monero (XMR) GUI desktop wallet that is easy to use and requires no hefty downloads. The code behind the project is open source, meaning it can be reviewed by anyone. Feather also contains a few features not shared by similar Monero wallets, including coin control and a built-in XMR/BTC exchange. It also features a handy dark mode for users whose eyes prefer that type of schema.</p>
+
+
+
+<p>The design of Feather is modeled after that of Electrum, the long-running Bitcoin wallet, which has also been the inspiration for several other cryptocurrency wallets. Other Monero wallets up to this point have lacked a certain combination of stability, security and user friendliness that has rendered Electrum a superior wallet for many years. Thus far, Feather seems to have provided a near-perfect recreation of Electrum for XMR users.</p>
+
+
+
+<p>In contrast to a full wallet client (complete with blockchain), Feather is more of a “light weight” client, connecting to nodes that are currently up-to-date with the Monero blockchain. This means the data that needs to be downloaded for Feather to provide its service is very minimal. While there will be some initial synchronization with connected nodes that is necessary, the wallet tends to load very quickly every time it is opened after the initial configuration.</p>
+
+
+
+<p>The wallet is available for Linux, Tails, iOS and Windows systems.</p>
+
+
+
+<h2>Before Getting Started</h2>
+
+
+
+<p>While not completely necessary, it’s a good idea to have a decent understanding of what Monero is and how to get some before attempting to use Feather. This extends to possessing a basic understanding of cryptocurrency, including how it’s transacted, how it’s stored, and what a blockchain is. It’s also not a bad idea to understand how Monero is different from most other cryptocurrencies. For one, it’s a lot more privacy-oriented than Bitcoin and most other cryptocurrencies. XMR transactions are also 5 times faster than BTC to confirm, and are way, way cheaper as well (a few cents as compared to a few dollars).</p>
+
+
+
+<p>In addition to all this, be aware of basic security protocols related to maintaining cryptocurrency wallets. When possible, try to run them in an environment that is dedicated solely to that purpose. This would mean running it on a computer that does not run the risk of downloading malware. It also means never keeping important items like a backup of your wallet file, password or seed phrase on a cloud-based service, such as those provided by Google, Amazon or something like DropBox. When possible, keep your sensitive files password protected.</p>
+
+
+
+<h2>Installing Feather</h2>
+
+
+
+<p>One of the most common ways people lose their coins is by installing a fake wallet which steals them. This is why it’s important to only download the wallet from its official site, which is shown below:</p>
+
+
+
+<p><a href="https://featherwallet.org/" target="_blank" rel="noreferrer noopener">featherwallet.org</a></p>
+
+
+
+<p>If you attempt to download the wallet from elsewhere you run a strong chance of losing funds to a fake wallet.</p>
+
+
+
+<p>For those who are interested in retaining as much privacy as possible, it’s not a bad idea to visit the website using the Tor browser and download the wallet file over Tor. This will remove any trace between your IP address and the Feather website.</p>
+
+
+
+<p>1. Upon arriving at featherwallet.org, click on the “Download” option toward the top of the screen. This will bring up the wallet download screen, where you can see the different OS option available:</p>
+
+
+
+<figure class="wp-block-image size-large"><img width="882" height="678" src="/wp-content/uploads/2021/06/1-1.png" alt="" class="wp-image-623" srcset="/wp-content/uploads/2021/06/1-1.png 882w, /wp-content/uploads/2021/06/1-1-300x231.png 300w, /wp-content/uploads/2021/06/1-1-768x590.png 768w" sizes="(max-width: 882px) 100vw, 882px" /></figure>
+
+
+
+<p>In addition to Linux, OS and Windows, you’ll notice there is an option for Tails, which is a privacy-based, thumb drive-bootable operating system. Unlike Windows, Tails removes the ability for your computer actions to be recorded, which makes it perfect for those who are looking to maintain the greatest amount of privacy possible. For the purposes of this guide, however, we will be explaining how to install the Windows version.</p>
+
+
+
+<p>2. After clicking on the version you wish to download, you will see the compressed wallet file downloading to your computer. The Windows version is a “standalone executable,” meaning you don’t have to install any extra files or programs to run the wallet. Simply unzip the downloaded file using WinZip or WinRAR, and extract the feather.exe (or feather-beta.exe, depending on what version they are currently promoting) file into your folder of choice.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="720" height="270" src="/wp-content/uploads/2021/06/2.png" alt="" class="wp-image-624" srcset="/wp-content/uploads/2021/06/2.png 720w, /wp-content/uploads/2021/06/2-300x113.png 300w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+
+
+
+<p>After installing feather.exe, double-click it to begin setting it up. This is likely your first time downloading the wallet, so select “Create New Wallet” to get started, and press “Next”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="572" height="578" src="/wp-content/uploads/2021/06/3.png" alt="" class="wp-image-625" srcset="/wp-content/uploads/2021/06/3.png 572w, /wp-content/uploads/2021/06/3-297x300.png 297w" sizes="(max-width: 572px) 100vw, 572px" /></figure>
+
+
+
+<p><strong>Reminder</strong>: if you use a password &#8211; which is probably a good idea &#8211; remember to save it somewhere easy to remember. Because you are only entering in the password once, consider copy/pasting it into the text box to reduce the risk of making an error.</p>
+
+
+
+<p>3. Next, you will be brought to the Wallet Seed generation screen. Here, you will see 14 boxes with words in them. These words &#8211; in order from 1 to 14 &#8211; represent a <em>seed phrase</em> that can be used to restore your wallet should it be deleted, corrupted or if you somehow forget your password.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="570" height="581" src="/wp-content/uploads/2021/06/4.png" alt="" class="wp-image-626" srcset="/wp-content/uploads/2021/06/4.png 570w, /wp-content/uploads/2021/06/4-294x300.png 294w" sizes="(max-width: 570px) 100vw, 570px" /></figure>
+
+
+
+<p>Press the “Generate” button a couple of times just to generate some fresh seed words, and then press the “Copy” button to copy all the words to your clipboard. Paste the contents in a secure location. This could be along with your password, but you have to keep in mind that anyone with your seed phrase can access the contents of your entire wallet.</p>
+
+
+
+<p>When you are ready to proceed, press the “Create/Open Wallet” button. This will bring up a warning box with some good advice:</p>
+
+
+
+<ul><li>Don’t tell anybody your seed phrase.</li><li>Never enter it into a website.</li><li>Store it offline.</li><li>Make sure you won’t lose it.</li></ul>
+
+
+
+<p><strong>Seed phrase storage tip</strong>: A lot of people write or type their seed phrase on a piece of paper and store it someplace secure, like a vault or a safe deposit box. If you do print your seed phrase, as you might with a paper wallet, don’t print it on a public printer; preferably, use a home computer with the printer connected via Ethernet cable. This removes the risk of your information being intercepted by a hacker or curious printer station attendant.</p>
+
+
+
+<p>After you’re sure you’ve saved your seed phrase, press “I understand” to continue. The wallet will then open and start to sync. And that’s it! You’re ready to start funding your Feather wallet with XMR.</p>
+
+
+
+<h2>Feather Wallet Overview</h2>
+
+
+
+<p>Similar to Electrum, Feather’s screens are divided into tabs:</p>
+
+
+
+<ul><li><strong>Home</strong>: default tab; shows price of XMR, BTC, and can be set to display 2 sub tabs (CCS &#8211; Community Crowdfunding Proposals, and /r/Monero &#8211; latest from the Monero subreddit).</li><li><strong>History</strong>: history of your wallet’s incoming and outgoing transactions.</li><li><strong>Send</strong>: pay to an XMR address.</li><li><strong>Receive</strong>: view and generate subaddresses.</li><li><strong>Calc</strong>: simple XMR&lt;-&gt;USD calculator based on current exchange rate.</li></ul>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="677" height="520" src="/wp-content/uploads/2021/06/5.png" alt="" class="wp-image-627" srcset="/wp-content/uploads/2021/06/5.png 677w, /wp-content/uploads/2021/06/5-300x230.png 300w" sizes="(max-width: 677px) 100vw, 677px" /></figure>
+
+
+
+<p>Above the tabs are the different menu options for the wallet, which consist of the following:</p>
+
+
+
+<ul><li><strong>File</strong>: Close, Quit or access Settings (General, Node and Path)</li><li><strong>Wallet</strong>: Information, Advanced (wallet-related settings), Password, Seed, Keys, View Only (mode), History, Contacts</li><li><strong>View</strong>: show or hide Home, Calc, Coins, Mining (the last 2 are off by default)</li><li><strong>Tools</strong>: Sign/Verify message, Verify transaction proof, Load unsigned transaction, Broadcast transaction, Import Transaction Pay to many, Calculator</li><li><strong>Help</strong>: About, website link, bug report, debug info</li></ul>
+
+
+
+<p>First, let’s create a new address (subaddress) to practice receiving a payment. Click on the “Receive” tab to get started.</p>
+
+
+
+<h2>What is a Subaddress?</h2>
+
+
+
+<p>Feather uses a subaddress system in which a limitless supply of new addresses is generated from a wallet’s public keys. After a subaddress has received funds, it will be removed from your list of available receive addresses. While it is possible to reuse addresses (Feather will not forget that an old address belong to a wallet), it is better to use a new subaddress for every transaction.</p>
+
+
+
+<p>All subaddresses are derived from your public keys, which means they can theoretically be traced back in ownership. This is why it’s a good idea to keep all your keys (and main address) private, and again don’t make them publicly available if you don’t have to.</p>
+
+
+
+<p>Feather recommends not using your main address unless you plan on doing mining or plan to send to a service that does not use subaddresses. For reference, your main address can be found by clicking on the “Wallet” menu option and selecting “Keys”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="687" height="450" src="/wp-content/uploads/2021/06/6.png" alt="" class="wp-image-628" srcset="/wp-content/uploads/2021/06/6.png 687w, /wp-content/uploads/2021/06/6-300x197.png 300w" sizes="(max-width: 687px) 100vw, 687px" /></figure>
+
+
+
+<p>Here you can find all keys associated with your wallet:</p>
+
+
+
+<ul><li><strong>Primary address</strong>: always begins with a “4”; an older way to derive addresses from a private key.</li><li><strong>Secret spend key</strong>: this is used by your wallet to sign a transaction when making a payment.</li><li><strong>Secret view key</strong>: used to view the incoming transaction for a wallet.</li><li><strong>Public spend key</strong>: used to generate the public key of an output.</li><li><strong>Public view key</strong>: allows others to see a wallet’s incoming transactions.</li></ul>
+
+
+
+<h2>Generating a Subaddress</h2>
+
+
+
+<p>Click on the “Receive” tab to bring up a list of generated subaddresses.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="672" height="525" src="/wp-content/uploads/2021/06/7.png" alt="" class="wp-image-629" srcset="/wp-content/uploads/2021/06/7.png 672w, /wp-content/uploads/2021/06/7-300x234.png 300w" sizes="(max-width: 672px) 100vw, 672px" /></figure>
+
+
+
+<p>You can label and use any of these addresses to receive coins, but click on “Generate Subaddress” to practice creating a brand new address. You will see a new entry at the bottom of your address list. Right-click it and select “Copy address” to copy it to your clipboard.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="658" height="367" src="/wp-content/uploads/2021/06/8.png" alt="" class="wp-image-630" srcset="/wp-content/uploads/2021/06/8.png 658w, /wp-content/uploads/2021/06/8-300x167.png 300w" sizes="(max-width: 658px) 100vw, 658px" /></figure>
+
+
+
+<p>You can also edit the address label by right-clicking an address, which is a good way to keep incoming payments organized when necessary.</p>
+
+
+
+<p>You’ll notice there is a QR code to the right of it. This represents the address and makes it easy to send payments from mobile wallets. Clicking on the QR code brings up a bigger version of it that can be copied or saved.</p>
+
+
+
+<h2>Receiving a Payment</h2>
+
+
+
+<p>Now that you have a subaddress, have provided it to a sender and are awaiting payment, click the “History” tab to bring up a list of your wallet’s transactions. When a payment is sent or arrives, its information is displayed here. You can also see your current balance underneath each tab, next to the green Connection status bubble (a red bubble means you are not connected to the network).</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="675" height="461" src="/wp-content/uploads/2021/06/9.png" alt="" class="wp-image-631" srcset="/wp-content/uploads/2021/06/9.png 675w, /wp-content/uploads/2021/06/9-300x205.png 300w" sizes="(max-width: 675px) 100vw, 675px" /></figure>
+
+
+
+<p>The History tab updates automatically upon detecting an incoming transaction from the network. After the transaction has been confirmed, its status will be updated. Feather considers a transaction to be fully secured after 10 confirmations by the network. As Monero blocks are short in length, this equates to about 20 minutes. For the sake of receiving payments, however, most transactions are considered to be safe after 1-3 confirmations by the network.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="672" height="457" src="/wp-content/uploads/2021/06/10.png" alt="" class="wp-image-632" srcset="/wp-content/uploads/2021/06/10.png 672w, /wp-content/uploads/2021/06/10-300x204.png 300w" sizes="(max-width: 672px) 100vw, 672px" /></figure>
+
+
+
+<p>After the transaction has reached 10 confirmations, its status will change from a clock to a checkmark, and your balance will be updated to reflect that coins are ready to be spent.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="661" height="459" src="/wp-content/uploads/2021/06/11.png" alt="" class="wp-image-633" srcset="/wp-content/uploads/2021/06/11.png 661w, /wp-content/uploads/2021/06/11-300x208.png 300w" sizes="(max-width: 661px) 100vw, 661px" /></figure>
+
+
+
+<h2>Sending a Payment</h2>
+
+
+
+<p>Now that your wallet has been funded, you can start sending XMR to other recipients. To make a payment, click the “Send” tab. Enter the Monero address to which you are sending XMR in the “Pay to” field. Enter in a Description if desired, and finally, an amount (denominated in XMR; you will see the USD equivalent to the right of this field). To send everything in your wallet, press “Max”. (As far as transaction fees are concerned, there is way to customize this using the GUI, but seeing as how XMR fees rarely exceed a few cents, it will most likely not be a problem for a while to come.)</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="667" height="430" src="/wp-content/uploads/2021/06/12.png" alt="" class="wp-image-634" srcset="/wp-content/uploads/2021/06/12.png 667w, /wp-content/uploads/2021/06/12-300x193.png 300w" sizes="(max-width: 667px) 100vw, 667px" /></figure>
+
+
+
+<p>After you have confirmed your transaction details, press “Send”. At this point, you may get a popup asking you to allow Feather through your computer’s firewall. Allow Feather to connect and press “Continue” (or “Next”, depending on your OS). After the transaction has been constructed, you will be asked to once again confirm the details of the transaction before pressing “Send”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="517" height="364" src="/wp-content/uploads/2021/06/13.png" alt="" class="wp-image-635" srcset="/wp-content/uploads/2021/06/13.png 517w, /wp-content/uploads/2021/06/13-300x211.png 300w" sizes="(max-width: 517px) 100vw, 517px" /></figure>
+
+
+
+<p>You will then see a popup confirming the success of the transaction, and your coins will be on their way to the recipient.</p>
+
+
+
+<h2>Advanced Features</h2>
+
+
+
+<p><strong>Exchange</strong>. One of the cool features implemented in Feather is an automated XMR-&gt;BTC exchange. If your wallet does not display the Exchange tab by default, you can make it appear by selecting the “View” menu and then “Show Exchange”. This will allow you to instantly convert XMR into BTC through a bridge maintained by XMR.to. While the feature can be a little buggy at the moment, it is one of the more useful additions to a desktop wallet for quite some time.</p>
+
+
+
+<p><strong>Pay to Many. </strong>Found in the Tools menu, this feature lets you make a payment to up to 16 different addresses at the same time.</p>
+
+
+
+<p><strong>Mining</strong>. This tab is also added from the “View” menu and can be used to connect your mining rig to one of several different Monero pools.</p>
+
+
+
+<p><strong>Sign/Verify</strong>. Found in the Tools menu, use this to sign a message using your main address, or verify a message and signature from another address.</p>
+
+
+
+<p><strong>Verify transaction proof</strong>. Use this tool to prove authorship of a transaction or verify ownership of an output.</p>
+
+
+
+<p><strong>Load unsigned transaction</strong>. A tool for importing a transaction from a file or clipboard.</p>
+
+
+
+<p><strong>Broadcast transaction</strong>. A tool for broadcast a transaction to the network using contents in a file or clipboard.</p>
+
+
+
+<h2>Feather Wallet Support</h2>
+
+
+
+<p>As Feather is a free, open source wallet that does not employ a customer service staff, your best bet for receiving wallet-related support would be visiting the <a href="https://www.reddit.com/r/Monero" target="_blank" rel="noreferrer noopener">r/Monero</a> community on Reddit and posting your question there. The Reddit community can be extremely helpful in solving issues. Although, if there’s a good chance your question may have already been answered, it’s not a bad idea to do a quick search for “Feather” + related terms and see if it has been asked before.</p>
+
+
+
+<p>Additionally, there is an extensive <a href="https://featherwallet.org/faq" target="_blank" rel="noreferrer noopener">FAQ</a> on the Feather wallet website that covers all of the advanced wallet features in more detail than is provided in this guide. As a last resort, you can try <a href="mailto:dev@featherwallet.org" target="_blank" rel="noreferrer noopener">emailing</a> the developers directly, but it is probably a better idea to exhaust all other options first.</p>
+
+
+
+<h2>Hardware Device Support</h2>
+
+
+
+<p>Feather does not offer hardware device support for their wallet at the moment. The developers of Feather are still busy ensuring their young wallet and all its features work as planned, but they have not taken the idea of adding hardware device support off the table. If you need to connect to a hardware device, the developers recommend using the Monero GUI for the time being.</p>
+
+
+
+<h2>Feather Wallet: Final Thoughts</h2>
+
+
+
+<p>In all, the dev team behind Feather has done a brilliant job at capturing the user friendly essence of Bitcoin’s Electrum and transforming it for Monero users. Given that Monero wallet UI problems have plagued much of the cryptocurrency’s history, Feather is a breakthrough that finally makes Monero as easy to use as Bitcoin &#8211; which, let’s face it &#8211; is still considered by many too complicated to use.</p>
+
+
+
+<p>After almost four months in public, having withstood code inspections by curious developers and undergone 2 updates already, Feather is off to a great start. It makes XMR easier to send, receive and store than perhaps ever before, and we strongly recommend it for any level of user.</p>
+<p>The post <a rel="nofollow" href="/feather-an-electrum-inspired-desktop-wallet-for-monero/">Feather: An Electrum-Inspired Desktop Wallet for Monero</a> appeared first on <a rel="nofollow" href="/">DarknetMarkets</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/feather-an-electrum-inspired-desktop-wallet-for-monero/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+
+Served from: greatstuff.darknetmarkets.com @ 2022-05-01 14:14:25 by W3 Total Cache
+-->
